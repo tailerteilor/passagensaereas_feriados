@@ -26,6 +26,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install letsfg
         playwright install chromium
+        playwright install-deps chromium
 
     - name: Executar busca de voos
       run: python search_multi_dest.py

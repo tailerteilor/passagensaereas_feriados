@@ -520,7 +520,7 @@ write_lock = threading.Lock()
 
 def search_destination(dest):
     output_file = f"temp/result_{dest}_{timestamp}.json"
-    cmd = f"letsfg search {origem_iata} {dest} {data_ida} --return {data_volta} --mode fast --json"
+    cmd = f"python -m letsfg search {origem_iata} {dest} {data_ida} --return {data_volta} --mode fast --json"
     print(f"Buscando voos para {dest}...")
     
     # Executa o comando e redireciona a saída para um arquivo, pois o shell do windows lida melhor com isso
@@ -528,7 +528,14 @@ def search_destination(dest):
         result = subprocess.run(cmd, shell=True, stdout=f_out, stderr=subprocess.PIPE)
     
     if result.returncode != 0:
-        print(f"Erro ao buscar {dest}: {result.stderr.decode('utf-8', errors='ignore')}")
+        err_msg = result.stderr.decode('utf-8', errors='ignore')
+        out_msg = ""
+        try:
+            with open(output_file, 'r', encoding='utf-8', errors='ignore') as f_out_read:
+                out_msg = f_out_read.read()
+        except Exception:
+            pass
+        print(f"Erro ao buscar {dest}: returncode={result.returncode} | stderr={err_msg} | stdout={out_msg}")
         return
         
     # Ler o JSON gerado
