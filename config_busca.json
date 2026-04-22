@@ -11,7 +11,7 @@
     {
       "iata": "JTC",
       "local": "Bauru/SP",
-      "tipo": "regiOFFal_sudeste",
+      "tipo": "regional_sudeste",
       "buscar": "OFF",
       "emoji": "🏙️"
     },
@@ -24,8 +24,8 @@
     },
     {
       "iata": "CNF",
-      "local": "Belo HorizOFFte/MG",
-      "tipo": "hub_naciOFFal",
+      "local": "Belo Horizonte/MG",
+      "tipo": "hub_nacional",
       "buscar": "OFF",
       "emoji": "🇧🇷"
     },
@@ -38,15 +38,15 @@
     },
     {
       "iata": "BYO",
-      "local": "BOFFito/MS",
+      "local": "Bonito/MS",
       "tipo": "ecoturismo",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌿"
     },
     {
       "iata": "BSB",
       "local": "Brasília/DF",
-      "tipo": "hub_naciOFFal",
+      "tipo": "hub_nacional",
       "buscar": "OFF",
       "emoji": "🇧🇷"
     },
@@ -60,7 +60,7 @@
     {
       "iata": "VCP",
       "local": "Campinas/SP",
-      "tipo": "hub_naciOFFal",
+      "tipo": "hub_nacional",
       "buscar": "OFF",
       "emoji": "🇧🇷"
     },
@@ -74,14 +74,14 @@
     {
       "iata": "CAC",
       "local": "Cascavel/PR",
-      "tipo": "regiOFFal_sul",
+      "tipo": "regional_sul",
       "buscar": "OFF",
       "emoji": "🧉"
     },
     {
       "iata": "XAP",
       "local": "Chapecó/SC",
-      "tipo": "regiOFFal_sul",
+      "tipo": "regional_sul",
       "buscar": "OFF",
       "emoji": "🧉"
     },
@@ -96,42 +96,42 @@
       "iata": "CGB",
       "local": "Cuiabá/MT (Pantanal)",
       "tipo": "ecoturismo",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌿"
     },
     {
       "iata": "CWB",
       "local": "Curitiba/PR",
       "tipo": "suporte_litoral",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "⛱️"
     },
     {
       "iata": "FEN",
-      "local": "F. de NorOFFha/PE",
+      "local": "F. de Noronha/PE",
       "tipo": "praia_premium",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏝️"
     },
     {
       "iata": "FLN",
       "local": "Florianópolis/SC",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
       "iata": "FOR",
       "local": "Fortaleza/CE",
       "tipo": "praia_hub",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
       "iata": "IGU",
       "local": "Foz do Iguaçu/PR",
       "tipo": "turismo_global",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "📸"
     },
     {
@@ -145,7 +145,7 @@
       "iata": "IOS",
       "local": "Ilhéus/BA",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
@@ -159,14 +159,14 @@
       "iata": "JJD",
       "local": "Jericoacoara/CE",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
       "iata": "JPA",
       "local": "João Pessoa/PB",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
@@ -180,13 +180,13 @@
       "iata": "LEC",
       "local": "Lençóis/BA (Chapada)",
       "tipo": "ecoturismo",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌿"
     },
     {
       "iata": "LDB",
-      "local": "LOFFdrina/PR",
-      "tipo": "regiOFFal_sul",
+      "local": "Londrina/PR",
+      "tipo": "regional_sul",
       "buscar": "OFF",
       "emoji": "🧉"
     },
@@ -201,14 +201,14 @@
       "iata": "MCZ",
       "local": "Maceió/AL",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
       "iata": "MAO",
       "local": "Manaus/AM",
       "tipo": "ecoturismo",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌿"
     },
     {
@@ -221,14 +221,14 @@
     {
       "iata": "MGF",
       "local": "Maringá/PR",
-      "tipo": "pessoal_regiOFFal",
-      "buscar": "OFF",
+      "tipo": "pessoal_regional",
+      "buscar": "ON",
       "emoji": "📍"
     },
     {
       "iata": "MOC",
-      "local": "MOFFtes Claros/MG",
-      "tipo": "regiOFFal_sudeste",
+      "local": "Montes Claros/MG",
+      "tipo": "regional_sudeste",
       "buscar": "OFF",
       "emoji": "🏙️"
     },
@@ -236,7 +236,7 @@
       "iata": "NAT",
       "local": "Natal/RN",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
@@ -263,15 +263,15 @@
     {
       "iata": "POA",
       "local": "Porto Alegre/RS",
-      "tipo": "hub_regiOFFal",
-      "buscar": "OFF",
+      "tipo": "hub_regional",
+      "buscar": "ON",
       "emoji": "🗺️"
     },
     {
       "iata": "BPS",
       "local": "Porto Seguro/BA",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
@@ -285,13 +285,13 @@
       "iata": "REC",
       "local": "Recife/PE",
       "tipo": "praia_hub",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
       "iata": "RAO",
       "local": "Ribeirão Preto/SP",
-      "tipo": "regiOFFal_sudeste",
+      "tipo": "regional_sudeste",
       "buscar": "OFF",
       "emoji": "🏙️"
     },
@@ -305,8 +305,8 @@
     {
       "iata": "GIG",
       "local": "Rio de Janeiro/RJ",
-      "tipo": "hub_internaciOFFal",
-      "buscar": "OFF",
+      "tipo": "hub_internacional",
+      "buscar": "ON",
       "emoji": "🌎"
     },
     {
@@ -320,7 +320,7 @@
       "iata": "SSA",
       "local": "Salvador/BA",
       "tipo": "praia_hub",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
@@ -333,7 +333,7 @@
     {
       "iata": "SJP",
       "local": "São José do Rio Preto/SP",
-      "tipo": "regiOFFal_sudeste",
+      "tipo": "regional_sudeste",
       "buscar": "OFF",
       "emoji": "🏙️"
     },
@@ -341,14 +341,14 @@
       "iata": "SLZ",
       "local": "São Luís/MA (Lençóis)",
       "tipo": "ecoturismo",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌿"
     },
     {
       "iata": "GRU",
       "local": "São Paulo/SP",
       "tipo": "hub_global",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌍"
     },
     {
@@ -368,7 +368,7 @@
     {
       "iata": "UDI",
       "local": "Uberlândia/MG",
-      "tipo": "regiOFFal_sudeste",
+      "tipo": "regional_sudeste",
       "buscar": "OFF",
       "emoji": "🏙️"
     },
@@ -376,7 +376,7 @@
       "iata": "VIX",
       "local": "Vitória/ES",
       "tipo": "praia",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏖️"
     },
     {
@@ -396,8 +396,8 @@
     {
       "iata": "ASU",
       "local": "Assunção/PY",
-      "tipo": "regiOFFal_int",
-      "buscar": "OFF",
+      "tipo": "regional_int",
+      "buscar": "ON",
       "emoji": "🌎"
     },
     {
@@ -425,7 +425,7 @@
       "iata": "BOG",
       "local": "Bogotá/CO",
       "tipo": "hub_latam",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌎"
     },
     {
@@ -439,14 +439,14 @@
       "iata": "AEP",
       "local": "Buenos Aires/AR (Aeroparque)",
       "tipo": "last_minute",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "⏱️"
     },
     {
       "iata": "EZE",
       "local": "Buenos Aires/AR (Ezeiza)",
       "tipo": "last_minute",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "⏱️"
     },
     {
@@ -460,14 +460,14 @@
       "iata": "CUN",
       "local": "Cancún/MX",
       "tipo": "praia_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌴"
     },
     {
       "iata": "CTG",
       "local": "Cartagena/CO",
       "tipo": "praia_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌴"
     },
     {
@@ -502,21 +502,21 @@
       "iata": "MEX",
       "local": "Cidade do México/MX",
       "tipo": "hub_global",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌍"
     },
     {
       "iata": "PTY",
       "local": "Cidade do Panamá/PA",
-      "tipo": "hub_cOFFexao",
-      "buscar": "OFF",
+      "tipo": "hub_conexao",
+      "buscar": "ON",
       "emoji": "🔄"
     },
     {
       "iata": "CUZ",
       "local": "Cusco/PE",
       "tipo": "historico_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏛️"
     },
     {
@@ -556,7 +556,7 @@
     },
     {
       "iata": "HKG",
-      "local": "HOFFg KOFFg/HK",
+      "local": "Hong Kong/HK",
       "tipo": "hub_asia",
       "buscar": "OFF",
       "emoji": "🌏"
@@ -593,26 +593,26 @@
       "iata": "LIR",
       "local": "Liberia/CR",
       "tipo": "praia_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌴"
     },
     {
       "iata": "LIM",
       "local": "Lima/PE",
-      "tipo": "gastrOFFomia_hub",
-      "buscar": "OFF",
+      "tipo": "gastronomia_hub",
+      "buscar": "ON",
       "emoji": "🍽️"
     },
     {
       "iata": "LIS",
       "local": "Lisboa/PT",
       "tipo": "hub_europa",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🇪🇺"
     },
     {
       "iata": "LHR",
-      "local": "LOFFdres/UK",
+      "local": "Londres/UK",
       "tipo": "hub_europa",
       "buscar": "OFF",
       "emoji": "🇪🇺"
@@ -628,7 +628,7 @@
       "iata": "MAD",
       "local": "Madri/ES",
       "tipo": "hub_europa",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🇪🇺"
     },
     {
@@ -642,14 +642,14 @@
       "iata": "MIA",
       "local": "Miami/US",
       "tipo": "hub_usa",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🇺🇸"
     },
     {
       "iata": "MVD",
-      "local": "MOFFtevidéu/UY",
+      "local": "Montevidéu/UY",
       "tipo": "last_minute",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "⏱️"
     },
     {
@@ -705,21 +705,21 @@
       "iata": "PUJ",
       "local": "Punta Cana/DO",
       "tipo": "praia_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌴"
     },
     {
       "iata": "PDP",
       "local": "Punta del Este/UY",
       "tipo": "praia_premium",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏝️"
     },
     {
       "iata": "UIO",
       "local": "Quito/EC",
       "tipo": "historico_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🏛️"
     },
     {
@@ -733,14 +733,14 @@
       "iata": "ADZ",
       "local": "San Andrés/CO",
       "tipo": "praia_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌴"
     },
     {
       "iata": "SJO",
       "local": "San José/CR",
       "tipo": "ecoturismo_int",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "🌿"
     },
     {
@@ -754,7 +754,7 @@
       "iata": "SCL",
       "local": "Santiago/CL",
       "tipo": "last_minute",
-      "buscar": "OFF",
+      "buscar": "ON",
       "emoji": "⏱️"
     },
     {
@@ -787,7 +787,7 @@
     },
     {
       "iata": "YYZ",
-      "local": "TorOFFto/CA",
+      "local": "Toronto/CA",
       "tipo": "hub_norte_america",
       "buscar": "OFF",
       "emoji": "🍁"
