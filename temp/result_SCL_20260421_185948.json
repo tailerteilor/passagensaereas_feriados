@@ -1,0 +1,1759 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "combo_eda9f64d4c63",
+      "price": 362.32,
+      "currency": "EUR",
+      "price_formatted": "362.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T19:21:00",
+            "arrival": "2026-05-01T20:59:00",
+            "duration_seconds": 9480,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 140040,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 362.32
+    },
+    {
+      "id": "combo_3ef001943142",
+      "price": 365.32,
+      "currency": "EUR",
+      "price_formatted": "365.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 365.32
+    },
+    {
+      "id": "combo_d0eafa40a1af",
+      "price": 368.32,
+      "currency": "EUR",
+      "price_formatted": "368.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T19:21:00",
+            "arrival": "2026-05-01T20:59:00",
+            "duration_seconds": 9480,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 133140,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 368.32
+    },
+    {
+      "id": "rt_bb9144f22cb5",
+      "price": 371.0,
+      "currency": "EUR",
+      "price_formatted": "371.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T19:21:00",
+            "arrival": "2026-05-01T20:59:00",
+            "duration_seconds": 9480,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 140040,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/santiago-chile/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.855975",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 371.0
+    },
+    {
+      "id": "combo_c6fda9aa3e82",
+      "price": 372.32,
+      "currency": "EUR",
+      "price_formatted": "372.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA407",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T12:43:00",
+            "arrival": "2026-05-01T14:20:00",
+            "duration_seconds": 9420,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 372.32
+    },
+    {
+      "id": "rt_677f63a1c370",
+      "price": 374.0,
+      "currency": "EUR",
+      "price_formatted": "374.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/santiago-chile/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.855975",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 374.0
+    },
+    {
+      "id": "rt_bf7ea7bf1dc4",
+      "price": 377.0,
+      "currency": "EUR",
+      "price_formatted": "377.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T19:21:00",
+            "arrival": "2026-05-01T20:59:00",
+            "duration_seconds": 9480,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 133140,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/santiago-chile/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.855975",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 377.0
+    },
+    {
+      "id": "combo_5199fb6a5848",
+      "price": 379.32,
+      "currency": "EUR",
+      "price_formatted": "379.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T19:21:00",
+            "arrival": "2026-05-01T20:59:00",
+            "duration_seconds": 9480,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 123840,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 379.32
+    },
+    {
+      "id": "rt_5ec82b632d31",
+      "price": 381.0,
+      "currency": "EUR",
+      "price_formatted": "381.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA407",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T12:43:00",
+            "arrival": "2026-05-01T14:20:00",
+            "duration_seconds": 9420,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/santiago-chile/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.855975",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 381.0
+    },
+    {
+      "id": "combo_38ddb978f684",
+      "price": 384.32,
+      "currency": "EUR",
+      "price_formatted": "384.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA757",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T08:00:00",
+            "arrival": "2026-04-30T11:20:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 384.32
+    },
+    {
+      "id": "rt_62d87aaafcda",
+      "price": 388.0,
+      "currency": "EUR",
+      "price_formatted": "388.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T19:21:00",
+            "arrival": "2026-05-01T20:59:00",
+            "duration_seconds": 9480,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 123840,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/santiago-chile/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.855975",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 388.0
+    },
+    {
+      "id": "combo_b6a22a4c2a6c",
+      "price": 392.32,
+      "currency": "EUR",
+      "price_formatted": "392.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3727",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2621",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T11:25:00",
+            "arrival": "2026-04-30T15:25:00",
+            "duration_seconds": 18000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "H2",
+        "LA"
+      ],
+      "owner_airline": "H2|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 392.32
+    },
+    {
+      "id": "combo_8bc77a2b1c28",
+      "price": 405.32,
+      "currency": "EUR",
+      "price_formatted": "405.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2663",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T16:25:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2625",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T23:45:00",
+            "arrival": "2026-05-01T03:45:00",
+            "duration_seconds": 18000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "H2",
+        "LA"
+      ],
+      "owner_airline": "AD|H2|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 405.32
+    },
+    {
+      "id": "rt_skip_a2d80c933a74",
+      "price": 412.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA1300",
+            "origin": "GRU",
+            "destination": "ASU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00-03:00",
+            "arrival": "2026-04-30T10:10:00-04:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA1324",
+            "origin": "ASU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:05:00-04:00",
+            "arrival": "2026-04-30T12:55:00-04:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:06.213521",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 350.12996
+    },
+    {
+      "id": "combo_8dd63166a709",
+      "price": 416.32,
+      "currency": "EUR",
+      "price_formatted": "416.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2663",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T16:25:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA763",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T18:50:00",
+            "arrival": "2026-04-30T22:50:00",
+            "duration_seconds": 18000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "JA",
+        "LA"
+      ],
+      "owner_airline": "AD|JA|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.862501",
+      "booking_url": "",
+      "price_normalized": 416.32
+    },
+    {
+      "id": "rt_skip_0644a99bfbb7",
+      "price": 437.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA757",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:00:00-03:00",
+            "arrival": "2026-04-30T11:20:00-04:00",
+            "duration_seconds": 15600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:06.213521",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 371.37570999999997
+    },
+    {
+      "id": "rt_skip_d0b8fb298f4d",
+      "price": 454.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3219",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T17:50:00-03:00",
+            "arrival": "2026-04-30T19:25:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:25:00-03:00",
+            "arrival": "2026-05-01T11:05:00-03:00",
+            "duration_seconds": 9600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA407",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:43:00-03:00",
+            "arrival": "2026-05-01T14:20:00-04:00",
+            "duration_seconds": 9420,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:06.213521",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 385.82282
+    },
+    {
+      "id": "rt_skip_06180472a17e",
+      "price": 454.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:25:00-03:00",
+            "arrival": "2026-05-01T11:05:00-03:00",
+            "duration_seconds": 9600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T19:21:00-03:00",
+            "arrival": "2026-05-01T20:59:00-04:00",
+            "duration_seconds": 9480,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25380,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:06.213521",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 385.82282
+    },
+    {
+      "id": "combo_b18e8cb967d4",
+      "price": 511.89,
+      "currency": "EUR",
+      "price_formatted": "511.89 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA411",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T19:21:00",
+            "arrival": "2026-05-01T20:59:00",
+            "duration_seconds": 9480,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 140040,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8055",
+            "origin": "SCL",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:30:00",
+            "arrival": "2026-05-03T05:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA3218",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:15:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "JJ"
+      ],
+      "owner_airline": "AD|LA|JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SCL&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.865501",
+      "booking_url": "",
+      "price_normalized": 511.89
+    },
+    {
+      "id": "combo_4d1b3595baef",
+      "price": 514.89,
+      "currency": "EUR",
+      "price_formatted": "514.89 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8055",
+            "origin": "SCL",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:30:00",
+            "arrival": "2026-05-03T05:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA3218",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:15:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "JJ"
+      ],
+      "owner_airline": "LA|JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SCL&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:08:02.865501",
+      "booking_url": "",
+      "price_normalized": 514.89
+    }
+  ]
+}

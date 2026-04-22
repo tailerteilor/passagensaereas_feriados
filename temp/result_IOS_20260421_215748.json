@@ -1,0 +1,1886 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_91dc4bf1eaf5",
+      "price": 363.0,
+      "currency": "EUR",
+      "price_formatted": "363.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.121117",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 363.0
+    },
+    {
+      "id": "rt_dd38d922574c",
+      "price": 379.0,
+      "currency": "EUR",
+      "price_formatted": "379.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.121117",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 379.0
+    },
+    {
+      "id": "rt_478279115c59",
+      "price": 385.0,
+      "currency": "EUR",
+      "price_formatted": "385.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 80700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.121117",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 385.0
+    },
+    {
+      "id": "rt_d8c45ecf4819",
+      "price": 389.0,
+      "currency": "EUR",
+      "price_formatted": "389.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2687",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:05:00",
+            "arrival": "2026-04-30T10:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 93000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.121117",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 389.0
+    },
+    {
+      "id": "rt_4b7620b03c82",
+      "price": 395.0,
+      "currency": "EUR",
+      "price_formatted": "395.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 60000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 395.0
+    },
+    {
+      "id": "rt_93cc94304fc3",
+      "price": 399.0,
+      "currency": "EUR",
+      "price_formatted": "399.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 399.0
+    },
+    {
+      "id": "rt_7dbcc5f88b3a",
+      "price": 409.0,
+      "currency": "EUR",
+      "price_formatted": "409.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 409.0
+    },
+    {
+      "id": "rt_7d31b5363134",
+      "price": 433.0,
+      "currency": "EUR",
+      "price_formatted": "433.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6400",
+            "origin": "CGH",
+            "destination": "CNF",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-04-30T10:30:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4912",
+            "origin": "CNF",
+            "destination": "IOS",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-04-30T12:50:00",
+            "arrival": "2026-04-30T14:20:00",
+            "duration_seconds": 5400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 433.0
+    },
+    {
+      "id": "combo_537f0a70bde7",
+      "price": 439.75,
+      "currency": "EUR",
+      "price_formatted": "439.75 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3255",
+            "origin": "IOS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-03:00",
+            "arrival": "2026-05-03T12:20:00-03:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:50:00-03:00",
+            "arrival": "2026-05-03T15:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/IOS/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.124118",
+      "booking_url": "",
+      "price_normalized": 439.75
+    },
+    {
+      "id": "rt_d66e97f178da",
+      "price": 440.0,
+      "currency": "EUR",
+      "price_formatted": "440.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6400",
+            "origin": "CGH",
+            "destination": "CNF",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-04-30T10:30:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4912",
+            "origin": "CNF",
+            "destination": "IOS",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-04-30T12:50:00",
+            "arrival": "2026-04-30T14:20:00",
+            "duration_seconds": 5400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 440.0
+    },
+    {
+      "id": "rt_126439c62b45",
+      "price": 440.0,
+      "currency": "EUR",
+      "price_formatted": "440.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4010",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T16:30:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9235",
+            "origin": "IOS",
+            "destination": "VCP",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T11:20:00",
+            "arrival": "2026-05-03T13:15:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 440.0
+    },
+    {
+      "id": "rt_11694d517135",
+      "price": 441.0,
+      "currency": "EUR",
+      "price_formatted": "441.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4149",
+            "origin": "IOS",
+            "destination": "SSA",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "Salvador",
+            "departure": "2026-05-03T13:05:00",
+            "arrival": "2026-05-03T14:00:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 126900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 441.0
+    },
+    {
+      "id": "combo_9a8f81df9397",
+      "price": 455.75,
+      "currency": "EUR",
+      "price_formatted": "455.75 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3255",
+            "origin": "IOS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-03:00",
+            "arrival": "2026-05-03T12:20:00-03:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:50:00-03:00",
+            "arrival": "2026-05-03T15:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/IOS/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.124118",
+      "booking_url": "",
+      "price_normalized": 455.75
+    },
+    {
+      "id": "rt_2c50da87d294",
+      "price": 457.0,
+      "currency": "EUR",
+      "price_formatted": "457.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4149",
+            "origin": "IOS",
+            "destination": "SSA",
+            "origin_city": "Ilh\u00e9us",
+            "destination_city": "Salvador",
+            "departure": "2026-05-03T13:05:00",
+            "arrival": "2026-05-03T14:00:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 126900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/ilheus-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.122118",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 457.0
+    },
+    {
+      "id": "combo_fd1860850c8f",
+      "price": 461.75,
+      "currency": "EUR",
+      "price_formatted": "461.75 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Ilh\u00e9us",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T10:55:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 80700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3255",
+            "origin": "IOS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-03:00",
+            "arrival": "2026-05-03T12:20:00-03:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:50:00-03:00",
+            "arrival": "2026-05-03T15:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/ilheus-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/IOS/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:06:40.124118",
+      "booking_url": "",
+      "price_normalized": 461.75
+    },
+    {
+      "id": "rt_skip_cf1cc460810d",
+      "price": 514.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00-03:00",
+            "arrival": "2026-04-30T08:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:55:00-03:00",
+            "arrival": "2026-05-01T10:55:00-03:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 13200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3255",
+            "origin": "IOS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-03:00",
+            "arrival": "2026-05-03T12:20:00-03:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:50:00-03:00",
+            "arrival": "2026-05-03T15:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:02:42.789946",
+      "booking_url": "https://skiplagged.com/flights/POA/IOS/2026-04-30",
+      "price_normalized": 436.81262
+    },
+    {
+      "id": "rt_skip_e2fd62d5f586",
+      "price": 532.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:35:00-03:00",
+            "arrival": "2026-04-30T13:25:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:55:00-03:00",
+            "arrival": "2026-05-01T10:55:00-03:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 13800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3255",
+            "origin": "IOS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-03:00",
+            "arrival": "2026-05-03T12:20:00-03:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:50:00-03:00",
+            "arrival": "2026-05-03T15:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:02:42.789946",
+      "booking_url": "https://skiplagged.com/flights/POA/IOS/2026-04-30",
+      "price_normalized": 452.10956
+    },
+    {
+      "id": "rt_skip_7df38389a830",
+      "price": 539.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:30:00-03:00",
+            "arrival": "2026-04-30T14:05:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:55:00-03:00",
+            "arrival": "2026-05-01T10:55:00-03:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3255",
+            "origin": "IOS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-03:00",
+            "arrival": "2026-05-03T12:20:00-03:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:50:00-03:00",
+            "arrival": "2026-05-03T15:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:02:42.789946",
+      "booking_url": "https://skiplagged.com/flights/POA/IOS/2026-04-30",
+      "price_normalized": 458.05836999999997
+    },
+    {
+      "id": "rt_skip_ea3485db472a",
+      "price": 543.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2687",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:05:00-03:00",
+            "arrival": "2026-04-30T10:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD9234",
+            "origin": "VCP",
+            "destination": "IOS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:55:00-03:00",
+            "arrival": "2026-05-01T10:55:00-03:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 13200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3255",
+            "origin": "IOS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-03:00",
+            "arrival": "2026-05-03T12:20:00-03:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:50:00-03:00",
+            "arrival": "2026-05-03T15:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:02:42.790947",
+      "booking_url": "https://skiplagged.com/flights/POA/IOS/2026-04-30",
+      "price_normalized": 461.45769
+    },
+    {
+      "id": "rt_tst_9acd20da1df0",
+      "price": 24758.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3254",
+            "origin": "GRU",
+            "destination": "IOS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:20:00",
+            "arrival": "2026-05-01T09:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD9241",
+            "origin": "IOS",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:00:00",
+            "arrival": "2026-05-03T12:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2432",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:15:00",
+            "arrival": "2026-05-03T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 23400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LATAM Airlines",
+        "Azul Linhas A\u00e9reas Brasileiras"
+      ],
+      "owner_airline": "JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:02:54.215364",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-22_03-01-50-001&from_0=POA&from_type_0=airport&to_0=IOS&to_type_0=airport&depart_date_0=2026-04-30&from_1=IOS&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=46f64c72-ea06-4a95-853c-73836c6d7279&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 1285.43536
+    }
+  ]
+}

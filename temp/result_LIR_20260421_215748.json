@@ -1,0 +1,2344 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_avsls_d1035506e157",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1156",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:00:00",
+            "arrival": "2026-04-30T11:50:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:45:00",
+            "arrival": "2026-05-03T08:35:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.232807",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_avsls_5ed3e3d1e46f",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1156",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:00:00",
+            "arrival": "2026-04-30T11:50:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1065",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:20:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.232807",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_avsls_46bf6cdc1042",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1044",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:00:00",
+            "arrival": "2026-04-30T12:50:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:45:00",
+            "arrival": "2026-05-03T08:35:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.232807",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_avsls_d05e625ef123",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1044",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:00:00",
+            "arrival": "2026-04-30T12:50:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1065",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:20:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.232807",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_avsls_8c9e871796b1",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:20:00",
+            "arrival": "2026-04-30T16:10:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:45:00",
+            "arrival": "2026-05-03T08:35:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.233800",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_avsls_ddf6a325aea9",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:20:00",
+            "arrival": "2026-04-30T16:10:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1065",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:20:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.233800",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_avsls_1ecf630cb455",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1064",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T06:30:00",
+            "arrival": "2026-05-01T07:20:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:45:00",
+            "arrival": "2026-05-03T08:35:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.233800",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_avsls_35c8f90277ee",
+      "price": 1133.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1064",
+            "origin": "SJO",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T06:30:00",
+            "arrival": "2026-05-01T07:20:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33720,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "SANSA",
+            "airline_name": "",
+            "flight_no": "RZ1065",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:20:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Copa Airlines",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33240,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Copa Airlines",
+        "SANSA"
+      ],
+      "owner_airline": "Copa Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:59.233800",
+      "booking_url": "https://www.aviasales.com/search/POA3004LIR1",
+      "price_normalized": 962.85739
+    },
+    {
+      "id": "rt_skip_18cdbbc9d0c3",
+      "price": 3249.31,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2628",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00-03:00",
+            "arrival": "2026-04-30T17:50:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 62700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1069",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:00:00-06:00",
+            "arrival": "2026-05-03T12:50:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "AD",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2761.3611173
+    },
+    {
+      "id": "rt_skip_f9fa8d1e5f59",
+      "price": 3249.31,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1069",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:00:00-06:00",
+            "arrival": "2026-05-03T12:50:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "G3",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2761.3611173
+    },
+    {
+      "id": "rt_skip_3f860b1bf04d",
+      "price": 3253.18,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2628",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00-03:00",
+            "arrival": "2026-04-30T17:50:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 62700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1067",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:55:00-06:00",
+            "arrival": "2026-05-03T09:45:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "AD",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2764.6499593999997
+    },
+    {
+      "id": "rt_skip_d5278f89c956",
+      "price": 3253.18,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2628",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00-03:00",
+            "arrival": "2026-04-30T17:50:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 62700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1065",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:30:00-06:00",
+            "arrival": "2026-05-03T08:20:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "AD",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2764.6499593999997
+    },
+    {
+      "id": "rt_skip_657e25f58118",
+      "price": 3253.18,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2628",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00-03:00",
+            "arrival": "2026-04-30T17:50:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 62700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:45:00-06:00",
+            "arrival": "2026-05-03T08:35:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "AD",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2764.6499593999997
+    },
+    {
+      "id": "rt_skip_2df45798d1e5",
+      "price": 3253.18,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1067",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:55:00-06:00",
+            "arrival": "2026-05-03T09:45:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "G3",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2764.6499593999997
+    },
+    {
+      "id": "rt_skip_364807f662b1",
+      "price": 3253.18,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1065",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:30:00-06:00",
+            "arrival": "2026-05-03T08:20:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "G3",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2764.6499593999997
+    },
+    {
+      "id": "rt_skip_f0ef2d512905",
+      "price": 3253.18,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC91",
+            "origin": "GRU",
+            "destination": "YYZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:45:00-03:00",
+            "arrival": "2026-05-01T06:55:00-04:00",
+            "duration_seconds": 36600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "",
+            "flight_no": "AC1873",
+            "origin": "YYZ",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T08:35:00-04:00",
+            "arrival": "2026-05-02T12:05:00-06:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1100",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:45:00-06:00",
+            "arrival": "2026-05-03T08:35:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AC",
+        "G3",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2764.6499593999997
+    },
+    {
+      "id": "rt_skip_5343e4d3341f",
+      "price": 3402.31,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2628",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00-03:00",
+            "arrival": "2026-04-30T17:50:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "",
+            "flight_no": "UA63",
+            "origin": "GRU",
+            "destination": "IAH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:50:00-03:00",
+            "arrival": "2026-05-01T05:45:00-05:00",
+            "duration_seconds": 35700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "",
+            "flight_no": "UA1512",
+            "origin": "IAH",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T09:40:00-05:00",
+            "arrival": "2026-05-01T12:10:00-06:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 54600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1069",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:00:00-06:00",
+            "arrival": "2026-05-03T12:50:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "UA",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2891.3851073
+    },
+    {
+      "id": "rt_skip_af214f7af16a",
+      "price": 3406.18,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2628",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00-03:00",
+            "arrival": "2026-04-30T17:50:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "",
+            "flight_no": "UA63",
+            "origin": "GRU",
+            "destination": "IAH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:50:00-03:00",
+            "arrival": "2026-05-01T05:45:00-05:00",
+            "duration_seconds": 35700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "",
+            "flight_no": "UA1512",
+            "origin": "IAH",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T09:40:00-05:00",
+            "arrival": "2026-05-01T12:10:00-06:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 54600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "RZ",
+            "airline_name": "",
+            "flight_no": "RZ1067",
+            "origin": "LIR",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:55:00-06:00",
+            "arrival": "2026-05-03T09:45:00-06:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2422",
+            "origin": "LIM",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:50:00-05:00",
+            "arrival": "2026-05-04T06:15:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "UA",
+        "RZ",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:14.722891",
+      "booking_url": "https://skiplagged.com/flights/POA/LIR/2026-04-30",
+      "price_normalized": 2894.6739494
+    },
+    {
+      "id": "rt_tst_39fe8c473d06",
+      "price": 94368.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "United Airlines",
+            "airline_name": "",
+            "flight_no": "UA7348",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00",
+            "arrival": "2026-04-30T17:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "United Airlines",
+            "airline_name": "",
+            "flight_no": "UA148",
+            "origin": "GRU",
+            "destination": "EWR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00",
+            "arrival": "2026-05-01T06:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "United Airlines",
+            "airline_name": "",
+            "flight_no": "UA1876",
+            "origin": "EWR",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:35:00",
+            "arrival": "2026-05-01T10:44:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 77940,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "United Airlines",
+            "airline_name": "",
+            "flight_no": "UA401",
+            "origin": "LIR",
+            "destination": "IAH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:27:00",
+            "arrival": "2026-05-03T20:12:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "United Airlines",
+            "airline_name": "",
+            "flight_no": "UA62",
+            "origin": "IAH",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T18:40:00",
+            "arrival": "2026-05-05T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "United Airlines",
+            "airline_name": "",
+            "flight_no": "UA7380",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T08:35:00",
+            "arrival": "2026-05-05T10:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 143580,
+        "stopovers": 2
+      },
+      "airlines": [
+        "United Airlines",
+        "Azul Linhas A\u00e9reas Brasileiras"
+      ],
+      "owner_airline": "United Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:22.522130",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-22_03-20-18-020&from_0=POA&from_type_0=airport&to_0=LIR&to_type_0=airport&depart_date_0=2026-04-30&from_1=LIR&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=4e5b13ad-f54d-4ca2-bd0a-417b90668c8d&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 4899.58656
+    },
+    {
+      "id": "rt_ct_80beaee1077d",
+      "price": 333641.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "UA",
+            "airline_name": "UA",
+            "flight_no": "UA7348",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:05:00",
+            "arrival": "2026-04-30T17:50:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "UA",
+            "flight_no": "UA148",
+            "origin": "GRU",
+            "destination": "EWR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00",
+            "arrival": "2026-05-01T06:00:00",
+            "duration_seconds": 36000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "UA",
+            "flight_no": "UA1876",
+            "origin": "EWR",
+            "destination": "LIR",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:35:00",
+            "arrival": "2026-05-01T10:44:00",
+            "duration_seconds": 18540,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 77940,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "UA",
+            "airline_name": "UA",
+            "flight_no": "UA401",
+            "origin": "LIR",
+            "destination": "IAH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:27:00",
+            "arrival": "2026-05-03T20:12:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "UA",
+            "flight_no": "UA62",
+            "origin": "IAH",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T18:40:00",
+            "arrival": "2026-05-05T06:30:00",
+            "duration_seconds": 35400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "UA",
+            "airline_name": "UA",
+            "flight_no": "UA7344",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T12:25:00",
+            "arrival": "2026-05-05T14:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 157080,
+        "stopovers": 2
+      },
+      "airlines": [
+        "UA"
+      ],
+      "owner_airline": "UA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:17.221267",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=LIR&intl=y",
+      "price_normalized": 3032.79669
+    }
+  ]
+}

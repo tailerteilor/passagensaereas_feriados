@@ -1,0 +1,1231 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_89a0b3964415",
+      "price": 179.27,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T06:05:00",
+            "arrival": "2026-05-03T07:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:38.163826",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/gru/",
+      "price_normalized": 179.27
+    },
+    {
+      "id": "rt_ss_bb7f9811f3e8",
+      "price": 182.68,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T06:05:00",
+            "arrival": "2026-05-03T07:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:38.163826",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/gru/",
+      "price_normalized": 182.68
+    },
+    {
+      "id": "rt_mm_2b1d7dc0b884",
+      "price": 187.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:05:00",
+            "arrival": "2026-05-03T07:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 158.91821
+    },
+    {
+      "id": "rt_ss_c5b4194cc781",
+      "price": 192.27,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2859",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T15:25:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:38.163826",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/gru/",
+      "price_normalized": 192.27
+    },
+    {
+      "id": "rt_mm_2e6a2512362f",
+      "price": 193.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 164.01719
+    },
+    {
+      "id": "combo_2f936af30901",
+      "price": 202.23,
+      "currency": "EUR",
+      "price_formatted": "202.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/sao-paulo-state-of-sao-paulo-brazil/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/GRU/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:03:12.175750",
+      "booking_url": "",
+      "price_normalized": 202.23
+    },
+    {
+      "id": "rt_mm_a046da909653",
+      "price": 205.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2859",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T15:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 174.21515
+    },
+    {
+      "id": "rt_mm_57bced9452f6",
+      "price": 205.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4671",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:05:00",
+            "arrival": "2026-05-03T22:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 174.21515
+    },
+    {
+      "id": "rt_ss_23c6f427d8bb",
+      "price": 206.99,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T06:05:00",
+            "arrival": "2026-05-03T07:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:38.165236",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/gru/",
+      "price_normalized": 206.99
+    },
+    {
+      "id": "combo_41f01b3b05ac",
+      "price": 218.38,
+      "currency": "EUR",
+      "price_formatted": "218.38 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:05:00-03:00",
+            "arrival": "2026-05-03T07:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/sao-paulo-state-of-sao-paulo-brazil/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/GRU/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:03:12.175750",
+      "booking_url": "",
+      "price_normalized": 218.38
+    },
+    {
+      "id": "rt_mm_627f6a2a1292",
+      "price": 220.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2939",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:30:00",
+            "arrival": "2026-05-03T20:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 186.96259999999998
+    },
+    {
+      "id": "rt_mm_7f5b4c0e0e77",
+      "price": 220.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31238",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:15:00",
+            "arrival": "2026-05-03T19:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 186.96259999999998
+    },
+    {
+      "id": "rt_mm_ddbf9e676b95",
+      "price": 220.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:50:00",
+            "arrival": "2026-05-03T10:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 186.96259999999998
+    },
+    {
+      "id": "rt_skip_371d5cea145e",
+      "price": 228.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:35:00-03:00",
+            "arrival": "2026-04-30T13:25:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:59:55.598787",
+      "booking_url": "https://skiplagged.com/flights/POA/GRU/2026-04-30",
+      "price_normalized": 193.76124
+    },
+    {
+      "id": "rt_skip_5b29d78a19af",
+      "price": 228.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:59:55.598787",
+      "booking_url": "https://skiplagged.com/flights/POA/GRU/2026-04-30",
+      "price_normalized": 193.76124
+    },
+    {
+      "id": "rt_mm_4b6e827ef895",
+      "price": 229.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 194.61106999999998
+    },
+    {
+      "id": "rt_mm_a88722d9d8f0",
+      "price": 229.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:01:13.265568",
+      "booking_url": "https://www.momondo.com/flight-search/POA-GRU/2026-04-30",
+      "price_normalized": 194.61106999999998
+    },
+    {
+      "id": "combo_1df09b17ba53",
+      "price": 243.38,
+      "currency": "EUR",
+      "price_formatted": "243.38 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:05:00-03:00",
+            "arrival": "2026-05-03T07:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/sao-paulo-state-of-sao-paulo-brazil/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/GRU/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:03:12.175750",
+      "booking_url": "",
+      "price_normalized": 243.38
+    },
+    {
+      "id": "combo_acb9ab883370",
+      "price": 251.23,
+      "currency": "EUR",
+      "price_formatted": "251.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/sao-paulo-state-of-sao-paulo-brazil/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/GRU/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:03:12.175750",
+      "booking_url": "",
+      "price_normalized": 251.23
+    },
+    {
+      "id": "combo_c5400ca11b3a",
+      "price": 253.57,
+      "currency": "EUR",
+      "price_formatted": "253.57 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:50:00-03:00",
+            "arrival": "2026-05-03T10:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6300,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/sao-paulo-state-of-sao-paulo-brazil/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/GRU/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:03:12.176765",
+      "booking_url": "",
+      "price_normalized": 253.57
+    }
+  ]
+}

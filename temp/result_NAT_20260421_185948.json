@@ -1,0 +1,1863 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "combo_29416db032f3",
+      "price": 315.23,
+      "currency": "EUR",
+      "price_formatted": "315.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T00:45:00",
+            "arrival": "2026-05-01T04:00:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/NAT/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:34.545258",
+      "booking_url": "",
+      "price_normalized": 315.23
+    },
+    {
+      "id": "combo_f2d3388d8454",
+      "price": 315.23,
+      "currency": "EUR",
+      "price_formatted": "315.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T00:45:00",
+            "arrival": "2026-05-01T04:00:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3445",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:40:00-03:00",
+            "arrival": "2026-05-03T06:05:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/NAT/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:34.545258",
+      "booking_url": "",
+      "price_normalized": 315.23
+    },
+    {
+      "id": "combo_314ca2fb9939",
+      "price": 315.23,
+      "currency": "EUR",
+      "price_formatted": "315.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T00:45:00",
+            "arrival": "2026-05-01T04:00:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3993",
+            "origin": "NAT",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:45:00-03:00",
+            "arrival": "2026-05-03T07:35:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3017",
+            "origin": "BSB",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-03:00",
+            "arrival": "2026-05-03T15:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3164",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:05:00-03:00",
+            "arrival": "2026-05-03T22:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/NAT/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:34.545258",
+      "booking_url": "",
+      "price_normalized": 315.23
+    },
+    {
+      "id": "combo_774e891abd87",
+      "price": 321.23,
+      "currency": "EUR",
+      "price_formatted": "321.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T00:45:00",
+            "arrival": "2026-05-01T04:00:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/NAT/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:34.545258",
+      "booking_url": "",
+      "price_normalized": 321.23
+    },
+    {
+      "id": "combo_695c17aacc85",
+      "price": 321.23,
+      "currency": "EUR",
+      "price_formatted": "321.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T00:45:00",
+            "arrival": "2026-05-01T04:00:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3445",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:40:00-03:00",
+            "arrival": "2026-05-03T06:05:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/NAT/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:34.545258",
+      "booking_url": "",
+      "price_normalized": 321.23
+    },
+    {
+      "id": "rt_ss_21c4cd6e9c5a",
+      "price": 329.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T00:45:00",
+            "arrival": "2026-05-01T04:00:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "Natal",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T05:10:00",
+            "arrival": "2026-05-03T08:40:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:00.070693",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/nat/",
+      "price_normalized": 329.0
+    },
+    {
+      "id": "combo_492e57d4ca06",
+      "price": 330.23,
+      "currency": "EUR",
+      "price_formatted": "330.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31678",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T14:05:00",
+            "arrival": "2026-05-01T17:25:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/NAT/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:34.545258",
+      "booking_url": "",
+      "price_normalized": 330.23
+    },
+    {
+      "id": "rt_skip_5977fd8ff4fc",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3438",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:50:00-03:00",
+            "arrival": "2026-04-30T12:05:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.676545",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_463627324902",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3438",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:50:00-03:00",
+            "arrival": "2026-04-30T12:05:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3445",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:40:00-03:00",
+            "arrival": "2026-05-03T06:05:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.676545",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_f27a4e5a54be",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3438",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:50:00-03:00",
+            "arrival": "2026-04-30T12:05:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3993",
+            "origin": "NAT",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:45:00-03:00",
+            "arrival": "2026-05-03T07:35:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3017",
+            "origin": "BSB",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-03:00",
+            "arrival": "2026-05-03T15:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3164",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:05:00-03:00",
+            "arrival": "2026-05-03T22:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.676545",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_6bc800d4dc5f",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00-03:00",
+            "arrival": "2026-04-30T22:45:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T00:45:00-03:00",
+            "arrival": "2026-05-01T04:00:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.676545",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_58403ccaea7e",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00-03:00",
+            "arrival": "2026-04-30T22:45:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T00:45:00-03:00",
+            "arrival": "2026-05-01T04:00:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3445",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:40:00-03:00",
+            "arrival": "2026-05-03T06:05:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.676545",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_c105d0020783",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00-03:00",
+            "arrival": "2026-04-30T22:45:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3044",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T00:45:00-03:00",
+            "arrival": "2026-05-01T04:00:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3993",
+            "origin": "NAT",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:45:00-03:00",
+            "arrival": "2026-05-03T07:35:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3017",
+            "origin": "BSB",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-03:00",
+            "arrival": "2026-05-03T15:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3164",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:05:00-03:00",
+            "arrival": "2026-05-03T22:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.676545",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_5a946b7a0dd9",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:45:00-03:00",
+            "arrival": "2026-04-30T08:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3440",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00-03:00",
+            "arrival": "2026-04-30T15:40:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.692587",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_ee5cbe5d20d0",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:45:00-03:00",
+            "arrival": "2026-04-30T08:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3440",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00-03:00",
+            "arrival": "2026-04-30T15:40:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3445",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:40:00-03:00",
+            "arrival": "2026-05-03T06:05:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.693586",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_b0c08ef0bc1c",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:45:00-03:00",
+            "arrival": "2026-04-30T08:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3440",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00-03:00",
+            "arrival": "2026-04-30T15:40:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3993",
+            "origin": "NAT",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:45:00-03:00",
+            "arrival": "2026-05-03T07:35:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3017",
+            "origin": "BSB",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-03:00",
+            "arrival": "2026-05-03T15:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3164",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:05:00-03:00",
+            "arrival": "2026-05-03T22:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.693586",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_442f265aeba1",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3440",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00-03:00",
+            "arrival": "2026-04-30T15:40:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.693586",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_6479a6910516",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3440",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00-03:00",
+            "arrival": "2026-04-30T15:40:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3445",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:40:00-03:00",
+            "arrival": "2026-05-03T06:05:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.697590",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_skip_a7f8b12b9f03",
+      "price": 339.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3440",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00-03:00",
+            "arrival": "2026-04-30T15:40:00-03:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3993",
+            "origin": "NAT",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:45:00-03:00",
+            "arrival": "2026-05-03T07:35:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3017",
+            "origin": "BSB",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-03:00",
+            "arrival": "2026-05-03T15:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3164",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:05:00-03:00",
+            "arrival": "2026-05-03T22:45:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:14:25.713276",
+      "booking_url": "https://skiplagged.com/flights/POA/NAT/2026-04-30",
+      "price_normalized": 288.09237
+    },
+    {
+      "id": "rt_79a806c19a9b",
+      "price": 353.0,
+      "currency": "EUR",
+      "price_formatted": "353.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31678",
+            "origin": "GRU",
+            "destination": "NAT",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Natal",
+            "departure": "2026-05-01T14:05:00",
+            "arrival": "2026-05-01T17:25:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3835",
+            "origin": "NAT",
+            "destination": "GRU",
+            "origin_city": "Natal",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T05:10:00",
+            "arrival": "2026-05-03T08:40:00",
+            "duration_seconds": 12600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/natal-state-of-rio-grande-do-norte-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:18:34.522736",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/natal-state-of-rio-grande-do-norte-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 353.0
+    }
+  ]
+}

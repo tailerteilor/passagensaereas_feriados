@@ -1,0 +1,1869 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_237711af646e",
+      "price": 426.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2745",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T21:05:00",
+            "arrival": "2026-04-30T22:15:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9034",
+            "origin": "CWB",
+            "destination": "CNF",
+            "origin_city": "Curitiba",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-01T00:30:00",
+            "arrival": "2026-05-01T02:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9250",
+            "origin": "CNF",
+            "destination": "JJD",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Cruz",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T11:40:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "Cruz",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 426.0
+    },
+    {
+      "id": "rt_ss_81a9240818d6",
+      "price": 431.99,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2745",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T21:05:00",
+            "arrival": "2026-04-30T22:15:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9034",
+            "origin": "CWB",
+            "destination": "CNF",
+            "origin_city": "Curitiba",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-01T00:30:00",
+            "arrival": "2026-05-01T02:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9250",
+            "origin": "CNF",
+            "destination": "JJD",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Cruz",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T11:40:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "Cruz",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 431.99
+    },
+    {
+      "id": "rt_ss_6f418a96d30d",
+      "price": 545.01,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "Cruz",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 545.01
+    },
+    {
+      "id": "rt_ss_a9890e4823ae",
+      "price": 551.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "Cruz",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 551.0
+    },
+    {
+      "id": "rt_ss_42f2dadd0da0",
+      "price": 554.01,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "Cruz",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 554.01
+    },
+    {
+      "id": "rt_ss_304ec6759b52",
+      "price": 560.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "Cruz",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 560.0
+    },
+    {
+      "id": "rt_ss_1a392acfe1fa",
+      "price": 574.01,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2888",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T05:00:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "Cruz",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 574.01
+    },
+    {
+      "id": "rt_ss_62babb26e169",
+      "price": 579.01,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "Cruz",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 579.01
+    },
+    {
+      "id": "rt_ss_9f6b540f1967",
+      "price": 580.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2888",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T05:00:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "Cruz",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 580.0
+    },
+    {
+      "id": "rt_ss_51ce3b3805a3",
+      "price": 580.01,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Cruz",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "Cruz",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:33.825390",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/jjd/",
+      "price_normalized": 580.01
+    },
+    {
+      "id": "rt_avsls_e0ca22347cfe",
+      "price": 595.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2745",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:05:00",
+            "arrival": "2026-04-30T22:15:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9034",
+            "origin": "CWB",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T00:30:00",
+            "arrival": "2026-05-01T02:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9250",
+            "origin": "CNF",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T11:40:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:30:00",
+            "arrival": "2026-05-04T14:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Azul Airlines",
+        "LATAM Chile"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:53.767605",
+      "booking_url": "https://www.aviasales.com/search/POA3004JJD1",
+      "price_normalized": 505.64885
+    },
+    {
+      "id": "rt_avsls_738af71f3a14",
+      "price": 637.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2745",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:05:00",
+            "arrival": "2026-04-30T22:15:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9034",
+            "origin": "CWB",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T00:30:00",
+            "arrival": "2026-05-01T02:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9250",
+            "origin": "CNF",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T11:40:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T22:00:00",
+            "arrival": "2026-05-04T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Azul Airlines"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:53.767605",
+      "booking_url": "https://www.aviasales.com/search/POA3004JJD1",
+      "price_normalized": 541.34171
+    },
+    {
+      "id": "combo_9765e22d337a",
+      "price": 661.05,
+      "currency": "EUR",
+      "price_formatted": "661.05 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3052",
+            "origin": "CGH",
+            "destination": "CNF",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-01T06:05:00",
+            "arrival": "2026-05-01T07:20:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9250",
+            "origin": "CNF",
+            "destination": "JJD",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Cruz, Cear\u00e1",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T11:40:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:30:00",
+            "arrival": "2026-05-04T14:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 79200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cruz-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=JJD&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:52:00.934114",
+      "booking_url": "",
+      "price_normalized": 661.05
+    },
+    {
+      "id": "combo_10580c1a5af2",
+      "price": 673.8,
+      "currency": "EUR",
+      "price_formatted": "673.80 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3052",
+            "origin": "CGH",
+            "destination": "CNF",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-01T06:05:00",
+            "arrival": "2026-05-01T07:20:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9250",
+            "origin": "CNF",
+            "destination": "JJD",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Cruz, Cear\u00e1",
+            "departure": "2026-05-01T08:55:00",
+            "arrival": "2026-05-01T11:40:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2814",
+            "origin": "CNF",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T07:50:00",
+            "arrival": "2026-05-04T09:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2836",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:40:00",
+            "arrival": "2026-05-04T14:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cruz-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=JJD&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:52:00.934114",
+      "booking_url": "",
+      "price_normalized": 673.8
+    },
+    {
+      "id": "rt_avsls_eae9c94f7ed3",
+      "price": 687.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:30:00",
+            "arrival": "2026-05-04T14:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LATAM Chile"
+      ],
+      "owner_airline": "LATAM Chile",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:53.767605",
+      "booking_url": "https://www.aviasales.com/search/POA3004JJD1",
+      "price_normalized": 583.83321
+    },
+    {
+      "id": "rt_mm_27649e25f623",
+      "price": 693.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:06.342320",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JJD/2026-04-30",
+      "price_normalized": 588.93219
+    },
+    {
+      "id": "rt_avsls_71016f49a766",
+      "price": 698.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3471",
+            "origin": "JJD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:15:00",
+            "arrival": "2026-05-03T19:45:00",
+            "duration_seconds": 12600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3420",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:30:00",
+            "arrival": "2026-05-04T14:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LATAM Chile"
+      ],
+      "owner_airline": "LATAM Chile",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:53.767605",
+      "booking_url": "https://www.aviasales.com/search/POA3004JJD1",
+      "price_normalized": 593.18134
+    },
+    {
+      "id": "rt_mm_3a2be2b48ffa",
+      "price": 703.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:50:06.343317",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JJD/2026-04-30",
+      "price_normalized": 597.43049
+    },
+    {
+      "id": "rt_ag_836a7ecb7f73",
+      "price": 709.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:10:00",
+            "arrival": "2026-04-30T15:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "agoda_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:51:19.797062",
+      "booking_url": "https://flights.agoda.com/book/flight?code=yZCCTkeQ1K.mgYptEKS7RsDzQq2dWkU9A.42200.288447b6e129cbe24a1086c636a78a9f&h=8cbd277541f1&sub=F-558414842153022169E083dac07dcc",
+      "price_normalized": 602.52947
+    },
+    {
+      "id": "rt_ag_bf3e5bd4533b",
+      "price": 709.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00",
+            "arrival": "2026-04-30T22:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3470",
+            "origin": "GRU",
+            "destination": "JJD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:10:00",
+            "arrival": "2026-05-01T15:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9251",
+            "origin": "JJD",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:25:00",
+            "arrival": "2026-05-03T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "agoda_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:51:19.797062",
+      "booking_url": "https://flights.agoda.com/book/flight?code=yZCCTkeQ1K.mgYptEKS7RsDzQq2dWkU9A.42200.181ea074863193d34aef318d7184dc95&h=9acfd9c12a32&sub=F-558414841756678399E083dac07dcc",
+      "price_normalized": 602.52947
+    }
+  ]
+}

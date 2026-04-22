@@ -1,0 +1,1594 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "ek_30a80290cc1f",
+      "price": 159.5,
+      "currency": "USD",
+      "price_formatted": "USD 160",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "EK",
+            "airline_name": "Emirates",
+            "flight_no": "EK",
+            "origin": "POA",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T00:00:00",
+            "arrival": "2026-05-01T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "EK",
+            "airline_name": "Emirates",
+            "flight_no": "EK",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:00:00",
+            "arrival": "2026-05-04T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "Emirates"
+      ],
+      "owner_airline": "EK",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "emirates_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:44:27.975776",
+      "booking_url": "https://www.emirates.com/booking/search-results/?searchRequest=eyJqb3VybmV5VHlwZSI6ICJSRVRVUk4iLCAiYm9va2luZ1R5cGUiOiAiUkVWRU5VRSIsICJwYXNzZW5nZXJzIjogW3sidHlwZSI6ICJBRFQiLCAiY291bnQiOiAxfV0sICJzZWdtZW50cyI6IFt7ImRlcGFydHVyZSI6ICJQT0EiLCAiYXJyaXZhbCI6ICJTQ0wiLCAiZGVwYXJ0dXJlRGF0ZSI6ICIyMDI2LTA0LTMwIn0sIHsiZGVwYXJ0dXJlIjogIlNDTCIsICJhcnJpdmFsIjogIlBPQSIsICJkZXBhcnR1cmVEYXRlIjogIjIwMjYtMDUtMDMifV19",
+      "price_normalized": 135.547885
+    },
+    {
+      "id": "combo_c3d64d2a69d1",
+      "price": 366.17,
+      "currency": "EUR",
+      "price_formatted": "366.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:45:45.423716",
+      "booking_url": "",
+      "price_normalized": 366.17
+    },
+    {
+      "id": "combo_4297239c7564",
+      "price": 373.17,
+      "currency": "EUR",
+      "price_formatted": "373.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA407",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "Montevideo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T12:43:00",
+            "arrival": "2026-05-01T14:20:00",
+            "duration_seconds": 9420,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:45:45.423716",
+      "booking_url": "",
+      "price_normalized": 373.17
+    },
+    {
+      "id": "combo_bde84371be92",
+      "price": 385.17,
+      "currency": "EUR",
+      "price_formatted": "385.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3727",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2621",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T11:25:00",
+            "arrival": "2026-04-30T15:25:00",
+            "duration_seconds": 18000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "H2",
+        "LA"
+      ],
+      "owner_airline": "H2|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:45:45.423716",
+      "booking_url": "",
+      "price_normalized": 385.17
+    },
+    {
+      "id": "combo_ac70e26ea956",
+      "price": 387.17,
+      "currency": "EUR",
+      "price_formatted": "387.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA757",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T08:00:00",
+            "arrival": "2026-04-30T11:20:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:45:45.423716",
+      "booking_url": "",
+      "price_normalized": 387.17
+    },
+    {
+      "id": "combo_e23a47ebb204",
+      "price": 388.17,
+      "currency": "EUR",
+      "price_formatted": "388.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA763",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T21:40:00",
+            "arrival": "2026-05-02T01:00:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 97800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:45:45.423716",
+      "booking_url": "",
+      "price_normalized": 388.17
+    },
+    {
+      "id": "rt_mm_ddd964490f29",
+      "price": 407.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.919339",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 345.88081
+    },
+    {
+      "id": "rt_mm_88256dd6d9a7",
+      "price": 417.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA407",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:43:00",
+            "arrival": "2026-05-01T14:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.919339",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 354.37910999999997
+    },
+    {
+      "id": "rt_mm_8a31999e5428",
+      "price": 417.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00",
+            "arrival": "2026-04-30T22:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA407",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:43:00",
+            "arrival": "2026-05-01T14:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.919339",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 354.37910999999997
+    },
+    {
+      "id": "combo_b53f9eacfad8",
+      "price": 422.17,
+      "currency": "EUR",
+      "price_formatted": "422.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2885",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T08:25:00",
+            "arrival": "2026-04-30T10:20:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2621",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T11:25:00",
+            "arrival": "2026-04-30T15:25:00",
+            "duration_seconds": 18000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "H2",
+        "LA"
+      ],
+      "owner_airline": "AD|H2|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/santiago-chile/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SCL/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:45:45.423716",
+      "booking_url": "",
+      "price_normalized": 422.17
+    },
+    {
+      "id": "rt_mm_e368ca0adb5a",
+      "price": 427.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA757",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:00:00",
+            "arrival": "2026-04-30T11:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.920341",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 362.87741
+    },
+    {
+      "id": "rt_ky_13d6dd0d0f56",
+      "price": 430.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA1300",
+            "origin": "GRU",
+            "destination": "ASU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA1324",
+            "origin": "ASU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:05:00",
+            "arrival": "2026-04-30T12:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "kayak_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:44:10.017219",
+      "booking_url": "https://www.kayak.com/flights/POA-SCL/2026-04-30",
+      "price_normalized": 365.4269
+    },
+    {
+      "id": "rt_skip_b344b530f881",
+      "price": 438.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00-03:00",
+            "arrival": "2026-04-30T06:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA757",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:00:00-03:00",
+            "arrival": "2026-04-30T11:20:00-04:00",
+            "duration_seconds": 15600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:48.949497",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 372.22553999999997
+    },
+    {
+      "id": "rt_mm_aaba840bc21e",
+      "price": 442.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3727",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2621",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:25:00",
+            "arrival": "2026-04-30T15:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA",
+        "H2"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.920341",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 375.62486
+    },
+    {
+      "id": "rt_mm_28742af52da7",
+      "price": 445.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G33003",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:00:00",
+            "arrival": "2026-05-01T10:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G33358",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:20:00",
+            "arrival": "2026-05-01T13:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 73800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.920341",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 378.17435
+    },
+    {
+      "id": "rt_mm_e84d4717e887",
+      "price": 447.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G33003",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:00:00",
+            "arrival": "2026-05-01T10:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1282",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:20:00",
+            "arrival": "2026-05-01T13:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 73800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AR",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.920341",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 379.87401
+    },
+    {
+      "id": "rt_skip_0aec656c22f1",
+      "price": 460.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA763",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T21:40:00-03:00",
+            "arrival": "2026-05-02T01:00:00-04:00",
+            "duration_seconds": 15600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:48.949497",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 390.92179999999996
+    },
+    {
+      "id": "rt_skip_3a82afefe210",
+      "price": 460.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3417",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00-03:00",
+            "arrival": "2026-04-30T11:45:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA612",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:05:00-03:00",
+            "arrival": "2026-05-01T15:25:00-04:00",
+            "duration_seconds": 15600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:48.949497",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 390.92179999999996
+    },
+    {
+      "id": "rt_skip_92877cfca886",
+      "price": 462.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8118",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:25:00-03:00",
+            "arrival": "2026-05-01T11:05:00-03:00",
+            "duration_seconds": 9600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA407",
+            "origin": "MVD",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:43:00-03:00",
+            "arrival": "2026-05-01T14:20:00-04:00",
+            "duration_seconds": 9420,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25320,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:48.949497",
+      "booking_url": "https://skiplagged.com/flights/POA/SCL/2026-04-30",
+      "price_normalized": 392.62146
+    },
+    {
+      "id": "rt_mm_2e02dcef4290",
+      "price": 480.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2663",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T16:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2625",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:45:00",
+            "arrival": "2026-05-01T03:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "H2",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:43:31.920341",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SCL/2026-04-30",
+      "price_normalized": 407.91839999999996
+    }
+  ]
+}

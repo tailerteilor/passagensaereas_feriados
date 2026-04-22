@@ -1,0 +1,2046 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_f178fb8160f8",
+      "price": 387.0,
+      "currency": "EUR",
+      "price_formatted": "387.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "Salvador",
+            "destination_city": "Petrolina",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 67200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "Petrolina",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/petrolina-state-of-pernambuco-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.578783",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 387.0
+    },
+    {
+      "id": "rt_c3b6bee6d9c9",
+      "price": 391.0,
+      "currency": "EUR",
+      "price_formatted": "391.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31354",
+            "origin": "GRU",
+            "destination": "PNZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Petrolina",
+            "departure": "2026-05-01T21:50:00",
+            "arrival": "2026-05-02T00:30:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "Petrolina",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/petrolina-state-of-pernambuco-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.578783",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 391.0
+    },
+    {
+      "id": "rt_2124e78a3477",
+      "price": 400.0,
+      "currency": "EUR",
+      "price_formatted": "400.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31354",
+            "origin": "GRU",
+            "destination": "PNZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Petrolina",
+            "departure": "2026-05-01T21:50:00",
+            "arrival": "2026-05-02T00:30:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 92400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "Petrolina",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/petrolina-state-of-pernambuco-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.578783",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 400.0
+    },
+    {
+      "id": "combo_a38a4d888a1a",
+      "price": 401.11,
+      "currency": "EUR",
+      "price_formatted": "401.11 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "Salvador",
+            "destination_city": "Petrolina",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4221",
+            "origin": "PNZ",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:25:00",
+            "arrival": "2026-05-03T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2624",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:50:00",
+            "arrival": "2026-05-03T14:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PNZ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.579783",
+      "booking_url": "",
+      "price_normalized": 401.11
+    },
+    {
+      "id": "rt_mm_a9891e3e7c02",
+      "price": 412.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:43:28.251658",
+      "booking_url": "https://www.momondo.com/flight-search/POA-PNZ/2026-04-30",
+      "price_normalized": 350.12996
+    },
+    {
+      "id": "rt_mm_2659e62ad39b",
+      "price": 418.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 57000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:43:28.251658",
+      "booking_url": "https://www.momondo.com/flight-search/POA-PNZ/2026-04-30",
+      "price_normalized": 355.22893999999997
+    },
+    {
+      "id": "rt_mm_2533bebb2f62",
+      "price": 420.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:43:28.251658",
+      "booking_url": "https://www.momondo.com/flight-search/POA-PNZ/2026-04-30",
+      "price_normalized": 356.9286
+    },
+    {
+      "id": "rt_mm_29302d685591",
+      "price": 421.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:43:28.251658",
+      "booking_url": "https://www.momondo.com/flight-search/POA-PNZ/2026-04-30",
+      "price_normalized": 357.77843
+    },
+    {
+      "id": "rt_mm_b3709f044d77",
+      "price": 421.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 70800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:43:28.251658",
+      "booking_url": "https://www.momondo.com/flight-search/POA-PNZ/2026-04-30",
+      "price_normalized": 357.77843
+    },
+    {
+      "id": "rt_avsls_39da241de525",
+      "price": 430.44,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines",
+        "LATAM Chile"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:44:05.270619",
+      "booking_url": "https://www.aviasales.com/search/POA3004PNZ1",
+      "price_normalized": 365.80082519999996
+    },
+    {
+      "id": "rt_mm_8f108874bf18",
+      "price": 431.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:43:28.251658",
+      "booking_url": "https://www.momondo.com/flight-search/POA-PNZ/2026-04-30",
+      "price_normalized": 366.27673
+    },
+    {
+      "id": "combo_fd1da83496ef",
+      "price": 432.11,
+      "currency": "EUR",
+      "price_formatted": "432.11 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "Salvador",
+            "destination_city": "Petrolina",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 67200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4221",
+            "origin": "PNZ",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:25:00",
+            "arrival": "2026-05-03T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2624",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:50:00",
+            "arrival": "2026-05-03T14:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PNZ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.579783",
+      "booking_url": "",
+      "price_normalized": 432.11
+    },
+    {
+      "id": "rt_avsls_973c3692db72",
+      "price": 436.72,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines",
+        "LATAM Chile"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:44:05.271620",
+      "booking_url": "https://www.aviasales.com/search/POA3004PNZ1",
+      "price_normalized": 371.1377576
+    },
+    {
+      "id": "combo_087ddce59b3f",
+      "price": 445.11,
+      "currency": "EUR",
+      "price_formatted": "445.11 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31354",
+            "origin": "GRU",
+            "destination": "PNZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Petrolina",
+            "departure": "2026-05-01T21:50:00",
+            "arrival": "2026-05-02T00:30:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 92400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4221",
+            "origin": "PNZ",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:25:00",
+            "arrival": "2026-05-03T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2624",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:50:00",
+            "arrival": "2026-05-03T14:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PNZ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.579783",
+      "booking_url": "",
+      "price_normalized": 445.11
+    },
+    {
+      "id": "rt_ag_26ec5d1f2a86",
+      "price": 453.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "agoda_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:44:42.182991",
+      "booking_url": "https://flights.agoda.com/book/flight?code=yZDCA5DjJ0.47F3EeHCWiIEdn9PX-8xhQ.22800.86ca291b2d461f75987f841de43df006&h=482bc53c843a&sub=F1048299801694471157E0a78c177796",
+      "price_normalized": 384.97299
+    },
+    {
+      "id": "rt_avsls_4992a8743e34",
+      "price": 460.93,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2686",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T07:50:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines",
+        "LATAM Chile"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:44:05.271620",
+      "booking_url": "https://www.aviasales.com/search/POA3004PNZ1",
+      "price_normalized": 391.7121419
+    },
+    {
+      "id": "rt_avsls_93976647bb79",
+      "price": 460.93,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2888",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:00:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Chile",
+            "airline_name": "",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00",
+            "arrival": "2026-05-03T07:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9205",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:25:00",
+            "arrival": "2026-05-04T05:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines",
+        "LATAM Chile"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:44:05.271620",
+      "booking_url": "https://www.aviasales.com/search/POA3004PNZ1",
+      "price_normalized": 391.7121419
+    },
+    {
+      "id": "combo_9474dac8f5b0",
+      "price": 503.09,
+      "currency": "EUR",
+      "price_formatted": "503.09 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "Salvador",
+            "destination_city": "Petrolina",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00-03:00",
+            "arrival": "2026-05-03T07:05:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PNZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.579783",
+      "booking_url": "",
+      "price_normalized": 503.09
+    },
+    {
+      "id": "combo_774205e12372",
+      "price": 519.09,
+      "currency": "EUR",
+      "price_formatted": "519.09 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31940",
+            "origin": "SSA",
+            "destination": "PNZ",
+            "origin_city": "Salvador",
+            "destination_city": "Petrolina",
+            "departure": "2026-04-30T23:40:00",
+            "arrival": "2026-05-01T00:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3391",
+            "origin": "PNZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:15:00-03:00",
+            "arrival": "2026-05-03T07:05:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/petrolina-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PNZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:45:20.579783",
+      "booking_url": "",
+      "price_normalized": 519.09
+    },
+    {
+      "id": "rt_tst_be2ddd56cdfc",
+      "price": 25478.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3155",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3388",
+            "origin": "GRU",
+            "destination": "PNZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:05:00",
+            "arrival": "2026-05-01T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 85200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD4221",
+            "origin": "PNZ",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:25:00",
+            "arrival": "2026-05-03T05:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LATAM Airlines",
+        "Azul Linhas A\u00e9reas Brasileiras"
+      ],
+      "owner_airline": "JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:42:24.305880",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-21_18-41-18-041&from_0=POA&from_type_0=airport&to_0=PNZ&to_type_0=airport&depart_date_0=2026-04-30&from_1=PNZ&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=436fa938-fa8e-4487-bbbd-1fd27a34f3b2&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 1322.8177600000001
+    }
+  ]
+}

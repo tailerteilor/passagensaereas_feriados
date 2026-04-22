@@ -1,0 +1,2273 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_231420520e71",
+      "price": 942.0,
+      "currency": "EUR",
+      "price_formatted": "942.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8032",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T06:35:00",
+            "arrival": "2026-05-01T09:40:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1354",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Punta del Este",
+            "departure": "2026-05-02T09:20:00",
+            "arrival": "2026-05-02T10:15:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.531878",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 942.0
+    },
+    {
+      "id": "rt_300f30b6eacd",
+      "price": 947.0,
+      "currency": "EUR",
+      "price_formatted": "947.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1233",
+            "origin": "POA",
+            "destination": "AEP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T21:25:00",
+            "arrival": "2026-04-30T23:20:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Punta del Este",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T17:10:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 71100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "AD"
+      ],
+      "owner_airline": "AR",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.531878",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 947.0
+    },
+    {
+      "id": "rt_07af1927b021",
+      "price": 955.0,
+      "currency": "EUR",
+      "price_formatted": "955.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8780",
+            "origin": "GRU",
+            "destination": "PDP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta del Este",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.532892",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 955.0
+    },
+    {
+      "id": "rt_6e01686baec3",
+      "price": 965.0,
+      "currency": "EUR",
+      "price_formatted": "965.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8780",
+            "origin": "GRU",
+            "destination": "PDP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta del Este",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.534886",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 965.0
+    },
+    {
+      "id": "rt_d1733a91914c",
+      "price": 970.0,
+      "currency": "EUR",
+      "price_formatted": "970.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8780",
+            "origin": "GRU",
+            "destination": "PDP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta del Este",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "AR"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.535889",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 970.0
+    },
+    {
+      "id": "rt_ab41930627d0",
+      "price": 985.0,
+      "currency": "EUR",
+      "price_formatted": "985.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31332",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Punta del Este",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T17:10:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.537886",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 985.0
+    },
+    {
+      "id": "rt_ca0cbd69aad2",
+      "price": 992.0,
+      "currency": "EUR",
+      "price_formatted": "992.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR8020",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1241",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T07:00:00",
+            "arrival": "2026-05-01T10:00:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1354",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Punta del Este",
+            "departure": "2026-05-02T09:20:00",
+            "arrival": "2026-05-02T10:15:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "AD"
+      ],
+      "owner_airline": "AR",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.538890",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 992.0
+    },
+    {
+      "id": "combo_609877ff1305",
+      "price": 993.45,
+      "currency": "EUR",
+      "price_formatted": "993.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1233",
+            "origin": "POA",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:25:00-03:00",
+            "arrival": "2026-04-30T23:20:00-03:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:15:00-03:00",
+            "arrival": "2026-05-01T17:10:00-03:00",
+            "duration_seconds": 3300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "AD"
+      ],
+      "owner_airline": "AR|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://skiplagged.com/flights/POA/PDP/2026-04-30",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skiplagged_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skiplagged_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.548423",
+      "booking_url": "",
+      "price_normalized": 993.45
+    },
+    {
+      "id": "rt_b6c1ca2192d7",
+      "price": 994.0,
+      "currency": "EUR",
+      "price_formatted": "994.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8780",
+            "origin": "GRU",
+            "destination": "PDP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta del Este",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.538890",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 994.0
+    },
+    {
+      "id": "rt_052cb676b3d7",
+      "price": 1001.0,
+      "currency": "EUR",
+      "price_formatted": "1001.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2909",
+            "origin": "POA",
+            "destination": "CNF",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-04-30T05:15:00",
+            "arrival": "2026-04-30T07:25:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2814",
+            "origin": "CNF",
+            "destination": "GRU",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T08:05:00",
+            "arrival": "2026-04-30T09:20:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8780",
+            "origin": "GRU",
+            "destination": "PDP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta del Este",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.538890",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1001.0
+    },
+    {
+      "id": "rt_188b0f29aeb4",
+      "price": 1015.0,
+      "currency": "EUR",
+      "price_formatted": "1015.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2854",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:40:00",
+            "arrival": "2026-04-30T11:25:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8780",
+            "origin": "GRU",
+            "destination": "PDP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta del Este",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.538890",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1015.0
+    },
+    {
+      "id": "combo_9ea522f25304",
+      "price": 1018.09,
+      "currency": "EUR",
+      "price_formatted": "1018.09 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1233",
+            "origin": "POA",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:25:00-03:00",
+            "arrival": "2026-04-30T23:20:00-03:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1354",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T09:20:00-03:00",
+            "arrival": "2026-05-02T10:15:00-03:00",
+            "duration_seconds": 3300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "AD"
+      ],
+      "owner_airline": "AR|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://skiplagged.com/flights/POA/PDP/2026-04-30",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skiplagged_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skiplagged_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.548423",
+      "booking_url": "",
+      "price_normalized": 1018.09
+    },
+    {
+      "id": "combo_cfed208cb6d9",
+      "price": 1072.48,
+      "currency": "EUR",
+      "price_formatted": "1072.48 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1241",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:00:00-03:00",
+            "arrival": "2026-05-01T10:00:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:15:00-03:00",
+            "arrival": "2026-05-01T17:10:00-03:00",
+            "duration_seconds": 3300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "AR|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://skiplagged.com/flights/POA/PDP/2026-04-30",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skiplagged_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skiplagged_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.551426",
+      "booking_url": "",
+      "price_normalized": 1072.48
+    },
+    {
+      "id": "combo_5bda9a72a465",
+      "price": 1072.48,
+      "currency": "EUR",
+      "price_formatted": "1072.48 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:00:00-03:00",
+            "arrival": "2026-04-30T22:45:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1241",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:00:00-03:00",
+            "arrival": "2026-05-01T10:00:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:15:00-03:00",
+            "arrival": "2026-05-01T17:10:00-03:00",
+            "duration_seconds": 3300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "AR|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://skiplagged.com/flights/POA/PDP/2026-04-30",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skiplagged_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skiplagged_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.551426",
+      "booking_url": "",
+      "price_normalized": 1072.48
+    },
+    {
+      "id": "combo_f630112a8f6a",
+      "price": 1072.48,
+      "currency": "EUR",
+      "price_formatted": "1072.48 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T18:15:00-03:00",
+            "arrival": "2026-04-30T20:15:00-03:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1241",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:00:00-03:00",
+            "arrival": "2026-05-01T10:00:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:15:00-03:00",
+            "arrival": "2026-05-01T17:10:00-03:00",
+            "duration_seconds": 3300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "AR|G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://skiplagged.com/flights/POA/PDP/2026-04-30",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skiplagged_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skiplagged_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.551426",
+      "booking_url": "",
+      "price_normalized": 1072.48
+    },
+    {
+      "id": "combo_9b472c01c91e",
+      "price": 1085.23,
+      "currency": "EUR",
+      "price_formatted": "1085.23 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1243",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T10:20:00-03:00",
+            "arrival": "2026-05-01T13:20:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1354",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T09:20:00-03:00",
+            "arrival": "2026-05-02T10:15:00-03:00",
+            "duration_seconds": 3300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "Punta del Este",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "Buenos Aires",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "AR|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://skiplagged.com/flights/POA/PDP/2026-04-30",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-del-este-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skiplagged_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skiplagged_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.551426",
+      "booking_url": "",
+      "price_normalized": 1085.23
+    },
+    {
+      "id": "combo_055ec4f098f9",
+      "price": 1104.81,
+      "currency": "EUR",
+      "price_formatted": "1104.81 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8032",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T06:35:00",
+            "arrival": "2026-05-01T09:40:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1354",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Punta del Este",
+            "departure": "2026-05-02T09:20:00",
+            "arrival": "2026-05-02T10:15:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1357",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:00:00",
+            "arrival": "2026-05-03T19:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 216900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "AR|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.rehlat.com/en/cheap-flights/booking/punta del este-to-porto alegre/oneway?search=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",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "rehlat_ota"
+      },
+      "source": "combo:kiwi_connector+rehlat_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.552427",
+      "booking_url": "",
+      "price_normalized": 1104.81
+    },
+    {
+      "id": "combo_f25349c09592",
+      "price": 1109.81,
+      "currency": "EUR",
+      "price_formatted": "1109.81 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1233",
+            "origin": "POA",
+            "destination": "AEP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T21:25:00",
+            "arrival": "2026-04-30T23:20:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Punta del Este",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T17:10:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 71100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1357",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:00:00",
+            "arrival": "2026-05-03T19:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 216900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "AD"
+      ],
+      "owner_airline": "AR|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.rehlat.com/en/cheap-flights/booking/punta del este-to-porto alegre/oneway?search=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",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "rehlat_ota"
+      },
+      "source": "combo:kiwi_connector+rehlat_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.552427",
+      "booking_url": "",
+      "price_normalized": 1109.81
+    },
+    {
+      "id": "combo_24d7390ef88a",
+      "price": 1117.81,
+      "currency": "EUR",
+      "price_formatted": "1117.81 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8780",
+            "origin": "GRU",
+            "destination": "PDP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta del Este",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1357",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:00:00",
+            "arrival": "2026-05-03T19:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 216900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "AR"
+      ],
+      "owner_airline": "AD|LA|AR",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-del-este-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.rehlat.com/en/cheap-flights/booking/punta del este-to-porto alegre/oneway?search=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",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "rehlat_ota"
+      },
+      "source": "combo:kiwi_connector+rehlat_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:30:37.552427",
+      "booking_url": "",
+      "price_normalized": 1117.81
+    },
+    {
+      "id": "rt_tst_ad12afb571f7",
+      "price": 35238.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Aerolineas Argentinas",
+            "airline_name": "",
+            "flight_no": "AR1233",
+            "origin": "POA",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:25:00",
+            "arrival": "2026-04-30T23:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Aerolineas Argentinas",
+            "airline_name": "",
+            "flight_no": "AR1356",
+            "origin": "AEP",
+            "destination": "PDP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T17:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 71100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Aerolineas Argentinas",
+            "airline_name": "",
+            "flight_no": "AR1913",
+            "origin": "PDP",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:00:00",
+            "arrival": "2026-05-03T20:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Aerolineas Argentinas",
+            "airline_name": "",
+            "flight_no": "AR1242",
+            "origin": "AEP",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T06:20:00",
+            "arrival": "2026-05-04T09:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Aerolineas Argentinas",
+            "airline_name": "",
+            "flight_no": "AR8196",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:30:00",
+            "arrival": "2026-05-04T14:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 69300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Aerolineas Argentinas"
+      ],
+      "owner_airline": "Aerolineas Argentinas",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:17.563879",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-22_03-25-18-025&from_0=POA&from_type_0=airport&to_0=PDP&to_type_0=airport&depart_date_0=2026-04-30&from_1=PDP&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=13cad73b-17c9-4e3f-913d-1dafaaae40fc&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 1829.5569600000001
+    }
+  ]
+}

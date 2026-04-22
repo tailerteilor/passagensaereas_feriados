@@ -1,0 +1,813 @@
+{
+  "origem": "POA",
+  "destinos": [
+    {
+      "iata": "AJU",
+      "local": "Aracaju/SE",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "JTC",
+      "local": "Bauru/SP",
+      "tipo": "regional_sudeste",
+      "buscar": "OFF",
+      "emoji": "🏙️"
+    },
+    {
+      "iata": "BEL",
+      "local": "Belém/PA",
+      "tipo": "norte_hub",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "CNF",
+      "local": "Belo Horizonte/MG",
+      "tipo": "hub_nacional",
+      "buscar": "OFF",
+      "emoji": "🇧🇷"
+    },
+    {
+      "iata": "BVB",
+      "local": "Boa Vista/RR",
+      "tipo": "norte",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "BYO",
+      "local": "Bonito/MS",
+      "tipo": "ecoturismo",
+      "buscar": "ON",
+      "emoji": "🌿"
+    },
+    {
+      "iata": "BSB",
+      "local": "Brasília/DF",
+      "tipo": "hub_nacional",
+      "buscar": "OFF",
+      "emoji": "🇧🇷"
+    },
+    {
+      "iata": "CPV",
+      "local": "Campina Grande/PB",
+      "tipo": "nordeste_interior",
+      "buscar": "OFF",
+      "emoji": "🌵"
+    },
+    {
+      "iata": "VCP",
+      "local": "Campinas/SP",
+      "tipo": "hub_nacional",
+      "buscar": "OFF",
+      "emoji": "🇧🇷"
+    },
+    {
+      "iata": "CGR",
+      "local": "Campo Grande/MS",
+      "tipo": "centro_oeste",
+      "buscar": "OFF",
+      "emoji": "🤠"
+    },
+    {
+      "iata": "CAC",
+      "local": "Cascavel/PR",
+      "tipo": "regional_sul",
+      "buscar": "OFF",
+      "emoji": "🧉"
+    },
+    {
+      "iata": "XAP",
+      "local": "Chapecó/SC",
+      "tipo": "regional_sul",
+      "buscar": "OFF",
+      "emoji": "🧉"
+    },
+    {
+      "iata": "CZS",
+      "local": "Cruzeiro do Sul/AC",
+      "tipo": "norte",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "CGB",
+      "local": "Cuiabá/MT (Pantanal)",
+      "tipo": "ecoturismo",
+      "buscar": "ON",
+      "emoji": "🌿"
+    },
+    {
+      "iata": "CWB",
+      "local": "Curitiba/PR",
+      "tipo": "suporte_litoral",
+      "buscar": "ON",
+      "emoji": "⛱️"
+    },
+    {
+      "iata": "FEN",
+      "local": "F. de Noronha/PE",
+      "tipo": "praia_premium",
+      "buscar": "ON",
+      "emoji": "🏝️"
+    },
+    {
+      "iata": "FLN",
+      "local": "Florianópolis/SC",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "FOR",
+      "local": "Fortaleza/CE",
+      "tipo": "praia_hub",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "IGU",
+      "local": "Foz do Iguaçu/PR",
+      "tipo": "turismo_global",
+      "buscar": "ON",
+      "emoji": "📸"
+    },
+    {
+      "iata": "GYN",
+      "local": "Goiânia/GO",
+      "tipo": "centro_oeste",
+      "buscar": "OFF",
+      "emoji": "🤠"
+    },
+    {
+      "iata": "IOS",
+      "local": "Ilhéus/BA",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "IMP",
+      "local": "Imperatriz/MA",
+      "tipo": "nordeste_interior",
+      "buscar": "OFF",
+      "emoji": "🌵"
+    },
+    {
+      "iata": "JJD",
+      "local": "Jericoacoara/CE",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "JPA",
+      "local": "João Pessoa/PB",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "JDO",
+      "local": "Juazeiro do Norte/CE",
+      "tipo": "nordeste_interior",
+      "buscar": "OFF",
+      "emoji": "🌵"
+    },
+    {
+      "iata": "LEC",
+      "local": "Lençóis/BA (Chapada)",
+      "tipo": "ecoturismo",
+      "buscar": "ON",
+      "emoji": "🌿"
+    },
+    {
+      "iata": "LDB",
+      "local": "Londrina/PR",
+      "tipo": "regional_sul",
+      "buscar": "OFF",
+      "emoji": "🧉"
+    },
+    {
+      "iata": "MCP",
+      "local": "Macapá/AP",
+      "tipo": "norte",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "MCZ",
+      "local": "Maceió/AL",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "MAO",
+      "local": "Manaus/AM",
+      "tipo": "ecoturismo",
+      "buscar": "ON",
+      "emoji": "🌿"
+    },
+    {
+      "iata": "MAB",
+      "local": "Marabá/PA",
+      "tipo": "norte",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "MGF",
+      "local": "Maringá/PR",
+      "tipo": "pessoal_regional",
+      "buscar": "ON",
+      "emoji": "📍"
+    },
+    {
+      "iata": "MOC",
+      "local": "Montes Claros/MG",
+      "tipo": "regional_sudeste",
+      "buscar": "OFF",
+      "emoji": "🏙️"
+    },
+    {
+      "iata": "NAT",
+      "local": "Natal/RN",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "NVT",
+      "local": "Navegantes/SC",
+      "tipo": "litoral_sul",
+      "buscar": "OFF",
+      "emoji": "⛱️"
+    },
+    {
+      "iata": "PMW",
+      "local": "Palmas/TO",
+      "tipo": "norte",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "PNZ",
+      "local": "Petrolina/PE",
+      "tipo": "nordeste_interior",
+      "buscar": "OFF",
+      "emoji": "🌵"
+    },
+    {
+      "iata": "POA",
+      "local": "Porto Alegre/RS",
+      "tipo": "hub_regional",
+      "buscar": "ON",
+      "emoji": "🗺️"
+    },
+    {
+      "iata": "BPS",
+      "local": "Porto Seguro/BA",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "PVH",
+      "local": "Porto Velho/RO",
+      "tipo": "norte",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "REC",
+      "local": "Recife/PE",
+      "tipo": "praia_hub",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "RAO",
+      "local": "Ribeirão Preto/SP",
+      "tipo": "regional_sudeste",
+      "buscar": "OFF",
+      "emoji": "🏙️"
+    },
+    {
+      "iata": "RBR",
+      "local": "Rio Branco/AC",
+      "tipo": "norte",
+      "buscar": "OFF",
+      "emoji": "🌳"
+    },
+    {
+      "iata": "GIG",
+      "local": "Rio de Janeiro/RJ",
+      "tipo": "hub_internacional",
+      "buscar": "ON",
+      "emoji": "🌎"
+    },
+    {
+      "iata": "SDU",
+      "local": "Rio de Janeiro/RJ",
+      "tipo": "hub_domestico",
+      "buscar": "OFF",
+      "emoji": "✈️"
+    },
+    {
+      "iata": "SSA",
+      "local": "Salvador/BA",
+      "tipo": "praia_hub",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "STM",
+      "local": "Santarém/PA",
+      "tipo": "norte_ecoturismo",
+      "buscar": "OFF",
+      "emoji": "🌿"
+    },
+    {
+      "iata": "SJP",
+      "local": "São José do Rio Preto/SP",
+      "tipo": "regional_sudeste",
+      "buscar": "OFF",
+      "emoji": "🏙️"
+    },
+    {
+      "iata": "SLZ",
+      "local": "São Luís/MA (Lençóis)",
+      "tipo": "ecoturismo",
+      "buscar": "ON",
+      "emoji": "🌿"
+    },
+    {
+      "iata": "GRU",
+      "local": "São Paulo/SP",
+      "tipo": "hub_global",
+      "buscar": "ON",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "CGH",
+      "local": "São Paulo/SP",
+      "tipo": "hub_domestico",
+      "buscar": "OFF",
+      "emoji": "✈️"
+    },
+    {
+      "iata": "THE",
+      "local": "Teresina/PI",
+      "tipo": "nordeste_interior",
+      "buscar": "OFF",
+      "emoji": "🌵"
+    },
+    {
+      "iata": "UDI",
+      "local": "Uberlândia/MG",
+      "tipo": "regional_sudeste",
+      "buscar": "OFF",
+      "emoji": "🏙️"
+    },
+    {
+      "iata": "VIX",
+      "local": "Vitória/ES",
+      "tipo": "praia",
+      "buscar": "ON",
+      "emoji": "🏖️"
+    },
+    {
+      "iata": "ADD",
+      "local": "Adis Abeba/ET",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "AMS",
+      "local": "Amsterdã/NL",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "ASU",
+      "local": "Assunção/PY",
+      "tipo": "regional_int",
+      "buscar": "ON",
+      "emoji": "🌎"
+    },
+    {
+      "iata": "ATL",
+      "local": "Atlanta/US",
+      "tipo": "hub_global",
+      "buscar": "OFF",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "AKL",
+      "local": "Auckland/NZ",
+      "tipo": "hub_oceania",
+      "buscar": "OFF",
+      "emoji": "🦘"
+    },
+    {
+      "iata": "BKK",
+      "local": "Bangkok/TH",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "BOG",
+      "local": "Bogotá/CO",
+      "tipo": "hub_latam",
+      "buscar": "ON",
+      "emoji": "🌎"
+    },
+    {
+      "iata": "BNE",
+      "local": "Brisbane/AU",
+      "tipo": "hub_oceania",
+      "buscar": "OFF",
+      "emoji": "🦘"
+    },
+    {
+      "iata": "AEP",
+      "local": "Buenos Aires/AR (Aeroparque)",
+      "tipo": "last_minute",
+      "buscar": "ON",
+      "emoji": "⏱️"
+    },
+    {
+      "iata": "EZE",
+      "local": "Buenos Aires/AR (Ezeiza)",
+      "tipo": "last_minute",
+      "buscar": "ON",
+      "emoji": "⏱️"
+    },
+    {
+      "iata": "CAI",
+      "local": "Cairo/EG",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "CUN",
+      "local": "Cancún/MX",
+      "tipo": "praia_int",
+      "buscar": "ON",
+      "emoji": "🌴"
+    },
+    {
+      "iata": "CTG",
+      "local": "Cartagena/CO",
+      "tipo": "praia_int",
+      "buscar": "ON",
+      "emoji": "🌴"
+    },
+    {
+      "iata": "CMN",
+      "local": "Casablanca/MA",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "ORD",
+      "local": "Chicago/US",
+      "tipo": "hub_global",
+      "buscar": "OFF",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "CHC",
+      "local": "Christchurch/NZ",
+      "tipo": "hub_oceania",
+      "buscar": "OFF",
+      "emoji": "🦘"
+    },
+    {
+      "iata": "CPT",
+      "local": "Cidade do Cabo/ZA",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "MEX",
+      "local": "Cidade do México/MX",
+      "tipo": "hub_global",
+      "buscar": "ON",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "PTY",
+      "local": "Cidade do Panamá/PA",
+      "tipo": "hub_conexao",
+      "buscar": "ON",
+      "emoji": "🔄"
+    },
+    {
+      "iata": "CUZ",
+      "local": "Cusco/PE",
+      "tipo": "historico_int",
+      "buscar": "ON",
+      "emoji": "🏛️"
+    },
+    {
+      "iata": "DKR",
+      "local": "Dacar/SN",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "DFW",
+      "local": "Dallas/US",
+      "tipo": "hub_global",
+      "buscar": "OFF",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "DOH",
+      "local": "Doha/QA",
+      "tipo": "hub_oriente_medio",
+      "buscar": "OFF",
+      "emoji": "🕌"
+    },
+    {
+      "iata": "DXB",
+      "local": "Dubai/AE",
+      "tipo": "hub_oriente_medio",
+      "buscar": "OFF",
+      "emoji": "🕌"
+    },
+    {
+      "iata": "FRA",
+      "local": "Frankfurt/DE",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "HKG",
+      "local": "Hong Kong/HK",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "IST",
+      "local": "Istambul/TR",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "JNB",
+      "local": "Joanesburgo/ZA",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "KUL",
+      "local": "Kuala Lumpur/MY",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "LOS",
+      "local": "Lagos/NG",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "LIR",
+      "local": "Liberia/CR",
+      "tipo": "praia_int",
+      "buscar": "ON",
+      "emoji": "🌴"
+    },
+    {
+      "iata": "LIM",
+      "local": "Lima/PE",
+      "tipo": "gastronomia_hub",
+      "buscar": "ON",
+      "emoji": "🍽️"
+    },
+    {
+      "iata": "LIS",
+      "local": "Lisboa/PT",
+      "tipo": "hub_europa",
+      "buscar": "ON",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "LHR",
+      "local": "Londres/UK",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "LAX",
+      "local": "Los Angeles/US",
+      "tipo": "hub_global",
+      "buscar": "OFF",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "MAD",
+      "local": "Madri/ES",
+      "tipo": "hub_europa",
+      "buscar": "ON",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "MEL",
+      "local": "Melbourne/AU",
+      "tipo": "hub_oceania",
+      "buscar": "OFF",
+      "emoji": "🦘"
+    },
+    {
+      "iata": "MIA",
+      "local": "Miami/US",
+      "tipo": "hub_usa",
+      "buscar": "ON",
+      "emoji": "🇺🇸"
+    },
+    {
+      "iata": "MVD",
+      "local": "Montevidéu/UY",
+      "tipo": "last_minute",
+      "buscar": "ON",
+      "emoji": "⏱️"
+    },
+    {
+      "iata": "MUC",
+      "local": "Munique/DE",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "NBO",
+      "local": "Nairóbi/KE",
+      "tipo": "hub_africa",
+      "buscar": "OFF",
+      "emoji": "🦁"
+    },
+    {
+      "iata": "DEL",
+      "local": "Nova Délhi/IN",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "JFK",
+      "local": "Nova York/US",
+      "tipo": "hub_global",
+      "buscar": "OFF",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "CDG",
+      "local": "Paris/FR",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "PEK",
+      "local": "Pequim/CN",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "PER",
+      "local": "Perth/AU",
+      "tipo": "hub_oceania",
+      "buscar": "OFF",
+      "emoji": "🦘"
+    },
+    {
+      "iata": "PUJ",
+      "local": "Punta Cana/DO",
+      "tipo": "praia_int",
+      "buscar": "ON",
+      "emoji": "🌴"
+    },
+    {
+      "iata": "PDP",
+      "local": "Punta del Este/UY",
+      "tipo": "praia_premium",
+      "buscar": "ON",
+      "emoji": "🏝️"
+    },
+    {
+      "iata": "UIO",
+      "local": "Quito/EC",
+      "tipo": "historico_int",
+      "buscar": "ON",
+      "emoji": "🏛️"
+    },
+    {
+      "iata": "FCO",
+      "local": "Roma/IT",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    },
+    {
+      "iata": "ADZ",
+      "local": "San Andrés/CO",
+      "tipo": "praia_int",
+      "buscar": "ON",
+      "emoji": "🌴"
+    },
+    {
+      "iata": "SJO",
+      "local": "San José/CR",
+      "tipo": "ecoturismo_int",
+      "buscar": "ON",
+      "emoji": "🌿"
+    },
+    {
+      "iata": "SFO",
+      "local": "São Francisco/US",
+      "tipo": "hub_global",
+      "buscar": "OFF",
+      "emoji": "🌍"
+    },
+    {
+      "iata": "SCL",
+      "local": "Santiago/CL",
+      "tipo": "last_minute",
+      "buscar": "ON",
+      "emoji": "⏱️"
+    },
+    {
+      "iata": "ICN",
+      "local": "Seul/KR",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "SIN",
+      "local": "Singapura/SG",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "SYD",
+      "local": "Sydney/AU",
+      "tipo": "hub_oceania",
+      "buscar": "OFF",
+      "emoji": "🦘"
+    },
+    {
+      "iata": "HND",
+      "local": "Tóquio/JP",
+      "tipo": "hub_asia",
+      "buscar": "OFF",
+      "emoji": "🌏"
+    },
+    {
+      "iata": "YYZ",
+      "local": "Toronto/CA",
+      "tipo": "hub_norte_america",
+      "buscar": "OFF",
+      "emoji": "🍁"
+    },
+    {
+      "iata": "YVR",
+      "local": "Vancouver/CA",
+      "tipo": "hub_norte_america",
+      "buscar": "OFF",
+      "emoji": "🍁"
+    },
+    {
+      "iata": "ZRH",
+      "local": "Zurique/CH",
+      "tipo": "hub_europa",
+      "buscar": "OFF",
+      "emoji": "🇪🇺"
+    }
+  ],
+  "data_ida": "2026-04-30",
+  "data_volta": "2026-05-03",
+  "threads": 6
+}

@@ -1,0 +1,1932 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_6c83ed012330",
+      "price": 300.0,
+      "currency": "EUR",
+      "price_formatted": "300.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 99900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 300.0
+    },
+    {
+      "id": "rt_8fa86ef6f477",
+      "price": 305.0,
+      "currency": "EUR",
+      "price_formatted": "305.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 305.0
+    },
+    {
+      "id": "rt_ce8c13f1fd25",
+      "price": 315.0,
+      "currency": "EUR",
+      "price_formatted": "315.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 315.0
+    },
+    {
+      "id": "rt_15728945a98d",
+      "price": 319.0,
+      "currency": "EUR",
+      "price_formatted": "319.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 67800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 319.0
+    },
+    {
+      "id": "rt_663bd3436798",
+      "price": 324.0,
+      "currency": "EUR",
+      "price_formatted": "324.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T15:15:00",
+            "arrival": "2026-05-01T17:35:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 324.0
+    },
+    {
+      "id": "rt_a4702fb6dc42",
+      "price": 325.0,
+      "currency": "EUR",
+      "price_formatted": "325.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31308",
+            "origin": "CGH",
+            "destination": "CNF",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-04-30T10:40:00",
+            "arrival": "2026-04-30T12:05:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9107",
+            "origin": "CNF",
+            "destination": "SSA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T03:30:00",
+            "arrival": "2026-05-01T05:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 79800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 325.0
+    },
+    {
+      "id": "rt_c4c882f8f4a5",
+      "price": 328.0,
+      "currency": "EUR",
+      "price_formatted": "328.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 328.0
+    },
+    {
+      "id": "rt_755dc9edcec2",
+      "price": 328.0,
+      "currency": "EUR",
+      "price_formatted": "328.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3354",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:30:00",
+            "arrival": "2026-04-30T17:50:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 328.0
+    },
+    {
+      "id": "rt_bd86eaddcb2b",
+      "price": 329.0,
+      "currency": "EUR",
+      "price_formatted": "329.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 329.0
+    },
+    {
+      "id": "rt_32a3b8735667",
+      "price": 337.0,
+      "currency": "EUR",
+      "price_formatted": "337.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3652",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:10:00",
+            "arrival": "2026-05-01T14:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 337.0
+    },
+    {
+      "id": "rt_3d8f72c35011",
+      "price": 367.0,
+      "currency": "EUR",
+      "price_formatted": "367.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 99900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4331",
+            "origin": "SSA",
+            "destination": "REC",
+            "origin_city": "Salvador",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T18:25:00",
+            "arrival": "2026-05-03T21:10:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 367.0
+    },
+    {
+      "id": "rt_250b8efafe95",
+      "price": 372.0,
+      "currency": "EUR",
+      "price_formatted": "372.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4331",
+            "origin": "SSA",
+            "destination": "REC",
+            "origin_city": "Salvador",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T18:25:00",
+            "arrival": "2026-05-03T21:10:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 372.0
+    },
+    {
+      "id": "rt_57e3d1607fcf",
+      "price": 377.0,
+      "currency": "EUR",
+      "price_formatted": "377.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 99900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31924",
+            "origin": "SSA",
+            "destination": "REC",
+            "origin_city": "Salvador",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T23:55:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 4800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4674",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:00:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.049462",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 377.0
+    },
+    {
+      "id": "rt_2f022d18045e",
+      "price": 382.0,
+      "currency": "EUR",
+      "price_formatted": "382.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31924",
+            "origin": "SSA",
+            "destination": "REC",
+            "origin_city": "Salvador",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T23:55:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 4800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4674",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:00:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.050460",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 382.0
+    },
+    {
+      "id": "combo_2ddb666c03eb",
+      "price": 410.85,
+      "currency": "EUR",
+      "price_formatted": "410.85 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 99900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2904",
+            "origin": "SSA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:15:00",
+            "arrival": "2026-05-03T11:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SSA&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.062237",
+      "booking_url": "",
+      "price_normalized": 410.85
+    },
+    {
+      "id": "combo_1d852a2fad59",
+      "price": 417.65,
+      "currency": "EUR",
+      "price_formatted": "417.65 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 99900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA3359",
+            "origin": "SSA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T03:05:00",
+            "arrival": "2026-05-03T05:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA3422",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:20:00",
+            "arrival": "2026-05-03T21:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SSA&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.062237",
+      "booking_url": "",
+      "price_normalized": 417.65
+    },
+    {
+      "id": "combo_dca528fdf4dc",
+      "price": 429.85,
+      "currency": "EUR",
+      "price_formatted": "429.85 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 67800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2904",
+            "origin": "SSA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:15:00",
+            "arrival": "2026-05-03T11:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SSA&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.062237",
+      "booking_url": "",
+      "price_normalized": 429.85
+    },
+    {
+      "id": "combo_91d374fc94ea",
+      "price": 436.65,
+      "currency": "EUR",
+      "price_formatted": "436.65 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 67800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA3359",
+            "origin": "SSA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T03:05:00",
+            "arrival": "2026-05-03T05:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA3422",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:20:00",
+            "arrival": "2026-05-03T21:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SSA&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.063235",
+      "booking_url": "",
+      "price_normalized": 436.65
+    },
+    {
+      "id": "combo_718f1a2bba14",
+      "price": 438.85,
+      "currency": "EUR",
+      "price_formatted": "438.85 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3354",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:30:00",
+            "arrival": "2026-04-30T17:50:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2904",
+            "origin": "SSA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:15:00",
+            "arrival": "2026-05-03T11:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SSA&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.063235",
+      "booking_url": "",
+      "price_normalized": 438.85
+    },
+    {
+      "id": "combo_11bc88054866",
+      "price": 439.85,
+      "currency": "EUR",
+      "price_formatted": "439.85 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2904",
+            "origin": "SSA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:15:00",
+            "arrival": "2026-05-03T11:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SSA&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:05.063235",
+      "booking_url": "",
+      "price_normalized": 439.85
+    }
+  ]
+}

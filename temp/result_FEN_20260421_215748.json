@@ -1,0 +1,2119 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_731c4f97bd99",
+      "price": 448.0,
+      "currency": "EUR",
+      "price_formatted": "448.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 102600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.632419",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 448.0
+    },
+    {
+      "id": "rt_6d7c00da5594",
+      "price": 454.0,
+      "currency": "EUR",
+      "price_formatted": "454.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 102600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.632419",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 454.0
+    },
+    {
+      "id": "rt_dde750a9f74a",
+      "price": 464.0,
+      "currency": "EUR",
+      "price_formatted": "464.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.632419",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 464.0
+    },
+    {
+      "id": "combo_312c3982b539",
+      "price": 465.0,
+      "currency": "EUR",
+      "price_formatted": "465.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3159",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T12:20:00",
+            "arrival": "2026-04-30T13:55:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Fernando De Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 83700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/fen/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.636416",
+      "booking_url": "",
+      "price_normalized": 465.0
+    },
+    {
+      "id": "combo_850bd10e6191",
+      "price": 465.0,
+      "currency": "EUR",
+      "price_formatted": "465.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3155",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Fernando De Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 92100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/fen/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.636416",
+      "booking_url": "",
+      "price_normalized": 465.0
+    },
+    {
+      "id": "rt_2a8defe94857",
+      "price": 470.0,
+      "currency": "EUR",
+      "price_formatted": "470.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 83100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.632419",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 470.0
+    },
+    {
+      "id": "rt_840632e58204",
+      "price": 470.0,
+      "currency": "EUR",
+      "price_formatted": "470.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.632419",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 470.0
+    },
+    {
+      "id": "combo_a6c9e08c408a",
+      "price": 471.0,
+      "currency": "EUR",
+      "price_formatted": "471.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3159",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T12:20:00",
+            "arrival": "2026-04-30T13:55:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Fernando De Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 83700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "LA|AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/fen/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.636416",
+      "booking_url": "",
+      "price_normalized": 471.0
+    },
+    {
+      "id": "combo_6a7bbd6783dc",
+      "price": 471.0,
+      "currency": "EUR",
+      "price_formatted": "471.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3155",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Fernando De Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 92100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "LA|AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/fen/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.636416",
+      "booking_url": "",
+      "price_normalized": 471.0
+    },
+    {
+      "id": "rt_56ac650688d2",
+      "price": 476.0,
+      "currency": "EUR",
+      "price_formatted": "476.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 83100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.632419",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 476.0
+    },
+    {
+      "id": "rt_66893223f46d",
+      "price": 479.0,
+      "currency": "EUR",
+      "price_formatted": "479.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 62400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.632419",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 479.0
+    },
+    {
+      "id": "rt_b63ee3bcf7a4",
+      "price": 484.0,
+      "currency": "EUR",
+      "price_formatted": "484.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 54300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.633416",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 484.0
+    },
+    {
+      "id": "rt_1b795ed395e7",
+      "price": 485.0,
+      "currency": "EUR",
+      "price_formatted": "485.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 62400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.633416",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 485.0
+    },
+    {
+      "id": "rt_8eed6a54b04e",
+      "price": 490.0,
+      "currency": "EUR",
+      "price_formatted": "490.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 54300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.633416",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 490.0
+    },
+    {
+      "id": "rt_a92cb0a35479",
+      "price": 493.0,
+      "currency": "EUR",
+      "price_formatted": "493.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.633416",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 493.0
+    },
+    {
+      "id": "rt_4bf186189eb0",
+      "price": 499.0,
+      "currency": "EUR",
+      "price_formatted": "499.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Fernando de Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.633416",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/fernando-de-noronha-fernando-de-noronha-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 499.0
+    },
+    {
+      "id": "combo_b9a52bcd2b54",
+      "price": 539.0,
+      "currency": "EUR",
+      "price_formatted": "539.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:00:00",
+            "arrival": "2026-04-30T22:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Fernando De Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4719",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T11:10:00",
+            "arrival": "2026-05-03T11:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/fen/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.637417",
+      "booking_url": "",
+      "price_normalized": 539.0
+    },
+    {
+      "id": "combo_960af4efeac9",
+      "price": 545.0,
+      "currency": "EUR",
+      "price_formatted": "545.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3551",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:00:00",
+            "arrival": "2026-04-30T22:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Fernando De Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31777",
+            "origin": "FEN",
+            "destination": "REC",
+            "origin_city": "Fernando de Noronha",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T14:25:00",
+            "arrival": "2026-05-03T14:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4153",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T02:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 153600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "LA|AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/fen/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/fernando-de-noronha-fernando-de-noronha-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.637417",
+      "booking_url": "",
+      "price_normalized": 545.0
+    },
+    {
+      "id": "combo_d52aa8673fb5",
+      "price": 554.28,
+      "currency": "EUR",
+      "price_formatted": "554.28 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3828",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Fernando De Noronha",
+            "departure": "2026-05-01T07:45:00",
+            "arrival": "2026-05-01T12:35:00",
+            "duration_seconds": 13800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 102600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3829",
+            "origin": "FEN",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:15:00-02:00",
+            "arrival": "2026-05-03T16:10:00-03:00",
+            "duration_seconds": 14100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3424",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:35:00-03:00",
+            "arrival": "2026-05-03T19:20:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/fen/",
+        "inbound_booking_url": "https://skiplagged.com/flights/FEN/POA/2026-05-03",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:skyscanner_meta+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:01:55.637417",
+      "booking_url": "",
+      "price_normalized": 554.28
+    },
+    {
+      "id": "rt_tst_6ad47f9722d4",
+      "price": 27668.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "VRG Lineas Aereas",
+            "airline_name": "",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "VRG Lineas Aereas",
+            "airline_name": "",
+            "flight_no": "G31774",
+            "origin": "GRU",
+            "destination": "FEN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T13:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3829",
+            "origin": "FEN",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:15:00",
+            "arrival": "2026-05-03T16:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3424",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:35:00",
+            "arrival": "2026-05-03T19:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "VRG Lineas Aereas",
+        "LATAM Airlines"
+      ],
+      "owner_airline": "VRG Lineas Aereas",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T00:58:14.025436",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-22_02-57-06-057&from_0=POA&from_type_0=airport&to_0=FEN&to_type_0=airport&depart_date_0=2026-04-30&from_1=FEN&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=c6d61c05-baa9-4598-9e67-77e51e7568b1&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 1436.52256
+    }
+  ]
+}

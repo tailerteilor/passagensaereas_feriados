@@ -1,0 +1,1784 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_a62fd6eedb0d",
+      "price": 275.79,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2764",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T14:10:00",
+            "arrival": "2026-04-30T17:15:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD4145",
+            "origin": "REC",
+            "destination": "CGH",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T10:05:00",
+            "arrival": "2026-05-03T13:25:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 102900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 275.79
+    },
+    {
+      "id": "rt_ss_af0d0b77442d",
+      "price": 276.8,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2764",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T14:10:00",
+            "arrival": "2026-04-30T17:15:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 276.8
+    },
+    {
+      "id": "rt_ss_238f60595ffa",
+      "price": 277.16,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2959",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T16:40:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD4145",
+            "origin": "REC",
+            "destination": "CGH",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T10:05:00",
+            "arrival": "2026-05-03T13:25:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 102900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 277.16
+    },
+    {
+      "id": "rt_ss_e74393a53d7a",
+      "price": 278.17,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2959",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T16:40:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 278.17
+    },
+    {
+      "id": "rt_ss_72367271b7bf",
+      "price": 301.37,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2687",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T09:05:00",
+            "arrival": "2026-04-30T10:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2805",
+            "origin": "VCP",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T13:25:00",
+            "arrival": "2026-04-30T16:25:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD4145",
+            "origin": "REC",
+            "destination": "CGH",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T10:05:00",
+            "arrival": "2026-05-03T13:25:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T14:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 102900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 301.37
+    },
+    {
+      "id": "rt_ss_1a743b6ee98d",
+      "price": 303.8,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2764",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T14:10:00",
+            "arrival": "2026-04-30T17:15:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD4674",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T09:00:00",
+            "arrival": "2026-05-03T12:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 303.8
+    },
+    {
+      "id": "rt_60c4159e0793",
+      "price": 305.0,
+      "currency": "EUR",
+      "price_formatted": "305.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2744",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-05-01T08:15:00",
+            "arrival": "2026-05-01T11:15:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 94500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/recife-state-of-pernambuco-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:07:05.033230",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 305.0
+    },
+    {
+      "id": "rt_8e30daf7bac3",
+      "price": 305.0,
+      "currency": "EUR",
+      "price_formatted": "305.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2959",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-05-01T13:40:00",
+            "arrival": "2026-05-01T16:40:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 98400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/recife-state-of-pernambuco-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:07:05.033230",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 305.0
+    },
+    {
+      "id": "rt_6e79cd99cf12",
+      "price": 305.0,
+      "currency": "EUR",
+      "price_formatted": "305.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2744",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-05-01T08:15:00",
+            "arrival": "2026-05-01T11:15:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31615",
+            "origin": "REC",
+            "destination": "CGH",
+            "origin_city": "Recife",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T10:05:00",
+            "arrival": "2026-05-03T13:30:00",
+            "duration_seconds": 12300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31236",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T13:55:00",
+            "arrival": "2026-05-04T15:40:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/recife-state-of-pernambuco-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:07:05.033230",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 305.0
+    },
+    {
+      "id": "rt_ss_5cdb071c8ae4",
+      "price": 305.17,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2959",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T16:40:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD4674",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T09:00:00",
+            "arrival": "2026-05-03T12:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 305.17
+    },
+    {
+      "id": "rt_ss_afb3cbf8bb4b",
+      "price": 306.48,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2764",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T14:10:00",
+            "arrival": "2026-04-30T17:15:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD4508",
+            "origin": "REC",
+            "destination": "VCP",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T08:55:00",
+            "arrival": "2026-05-03T12:10:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 306.48
+    },
+    {
+      "id": "rt_ss_1606a293f41b",
+      "price": 307.85,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2838",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:25:00",
+            "arrival": "2026-04-30T12:10:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2959",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T16:40:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD4508",
+            "origin": "REC",
+            "destination": "VCP",
+            "origin_city": "Recife",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T08:55:00",
+            "arrival": "2026-05-03T12:10:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:51.932216",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/rec/",
+      "price_normalized": 307.85
+    },
+    {
+      "id": "combo_3418e54fd93d",
+      "price": 318.37,
+      "currency": "EUR",
+      "price_formatted": "318.37 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2744",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-05-01T08:15:00",
+            "arrival": "2026-05-01T11:15:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4519",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:40:00-03:00",
+            "arrival": "2026-05-03T22:00:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3426",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T22:55:00-03:00",
+            "arrival": "2026-05-04T00:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/REC/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:07:05.034733",
+      "booking_url": "",
+      "price_normalized": 318.37
+    },
+    {
+      "id": "combo_da8a86a6cf67",
+      "price": 324.37,
+      "currency": "EUR",
+      "price_formatted": "324.37 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31588",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T13:50:00",
+            "arrival": "2026-04-30T17:00:00",
+            "duration_seconds": 11400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4519",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:40:00-03:00",
+            "arrival": "2026-05-03T22:00:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3426",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T22:55:00-03:00",
+            "arrival": "2026-05-04T00:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/REC/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:07:05.034733",
+      "booking_url": "",
+      "price_normalized": 324.37
+    },
+    {
+      "id": "combo_0bb2d3f6cdb3",
+      "price": 331.17,
+      "currency": "EUR",
+      "price_formatted": "331.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31588",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T13:50:00",
+            "arrival": "2026-04-30T17:00:00",
+            "duration_seconds": 11400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4508",
+            "origin": "REC",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:55:00",
+            "arrival": "2026-05-03T12:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:10:00",
+            "arrival": "2026-05-03T18:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/recife-state-of-pernambuco-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=REC&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:07:05.034733",
+      "booking_url": "",
+      "price_normalized": 331.17
+    },
+    {
+      "id": "rt_mm_797da234d600",
+      "price": 345.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2744",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:15:00",
+            "arrival": "2026-05-01T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:24.279315",
+      "booking_url": "https://www.momondo.com/flight-search/POA-REC/2026-04-30",
+      "price_normalized": 293.19135
+    },
+    {
+      "id": "rt_mm_d3575ee4dacc",
+      "price": 350.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2687",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:05:00",
+            "arrival": "2026-04-30T10:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2805",
+            "origin": "VCP",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:25:00",
+            "arrival": "2026-04-30T16:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:24.279315",
+      "booking_url": "https://www.momondo.com/flight-search/POA-REC/2026-04-30",
+      "price_normalized": 297.4405
+    },
+    {
+      "id": "rt_mm_6e64e35d81b2",
+      "price": 353.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31588",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:50:00",
+            "arrival": "2026-04-30T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:24.280313",
+      "booking_url": "https://www.momondo.com/flight-search/POA-REC/2026-04-30",
+      "price_normalized": 299.98999
+    },
+    {
+      "id": "rt_mm_c490c1f6ccea",
+      "price": 360.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31588",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:50:00",
+            "arrival": "2026-04-30T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:24.280313",
+      "booking_url": "https://www.momondo.com/flight-search/POA-REC/2026-04-30",
+      "price_normalized": 305.9388
+    },
+    {
+      "id": "rt_mm_ada363649504",
+      "price": 361.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2959",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T16:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 42900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2768",
+            "origin": "REC",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:25:00",
+            "arrival": "2026-05-03T15:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 107700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:05:24.280313",
+      "booking_url": "https://www.momondo.com/flight-search/POA-REC/2026-04-30",
+      "price_normalized": 306.78863
+    }
+  ]
+}

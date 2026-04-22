@@ -1,0 +1,973 @@
+﻿{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "tc_e29bec4473",
+      "price": 33.02,
+      "currency": "EUR",
+      "price_formatted": "EUR 33.02",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2982",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T09:05:00",
+            "arrival": "2026-05-30T10:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "tripcom_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:23.326715",
+      "booking_url": "https://www.trip.com/flights/poa-to-cwb/tickets-poa-cwb",
+      "price_normalized": 33.02
+    },
+    {
+      "id": "tc_c13a7e7daf",
+      "price": 33.02,
+      "currency": "EUR",
+      "price_formatted": "EUR 33.02",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2769",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T05:20:00",
+            "arrival": "2026-05-30T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "tripcom_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:23.327606",
+      "booking_url": "https://www.trip.com/flights/poa-to-cwb/tickets-poa-cwb",
+      "price_normalized": 33.02
+    },
+    {
+      "id": "ss_2786ae052a",
+      "price": 39.0,
+      "currency": "EUR",
+      "price_formatted": "39 \u20ac",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-30T14:50:00",
+            "arrival": "2026-05-30T16:40:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-30T17:25:00",
+            "arrival": "2026-05-30T18:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 13500,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:47.417371",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 39.0
+    },
+    {
+      "id": "ss_d3a28ed7c2",
+      "price": 39.0,
+      "currency": "EUR",
+      "price_formatted": "39 \u20ac",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-30T12:35:00",
+            "arrival": "2026-05-30T14:10:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-30T15:30:00",
+            "arrival": "2026-05-30T16:35:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:47.417371",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 39.0
+    },
+    {
+      "id": "ss_10abf4c340",
+      "price": 39.0,
+      "currency": "EUR",
+      "price_formatted": "39 \u20ac",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-30T11:15:00",
+            "arrival": "2026-05-30T13:05:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-30T17:25:00",
+            "arrival": "2026-05-30T18:35:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:47.417371",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 39.0
+    },
+    {
+      "id": "skip_b5db5cd81751",
+      "price": 40.0,
+      "currency": "USD",
+      "price_formatted": "40.00 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2769",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T05:20:00-03:00",
+            "arrival": "2026-05-30T06:30:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 33.9932
+    },
+    {
+      "id": "skip_c5a9ccf24f42",
+      "price": 40.0,
+      "currency": "USD",
+      "price_formatted": "40.00 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2982",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T09:05:00-03:00",
+            "arrival": "2026-05-30T10:15:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 33.9932
+    },
+    {
+      "id": "skip_47ee60520471",
+      "price": 46.0,
+      "currency": "USD",
+      "price_formatted": "46.00 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T12:35:00-03:00",
+            "arrival": "2026-05-30T14:10:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T15:30:00-03:00",
+            "arrival": "2026-05-30T16:35:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9600,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 39.09218
+    },
+    {
+      "id": "skip_8e78e967b8a7",
+      "price": 46.0,
+      "currency": "USD",
+      "price_formatted": "46.00 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T14:50:00-03:00",
+            "arrival": "2026-05-30T16:40:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T17:25:00-03:00",
+            "arrival": "2026-05-30T18:35:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10800,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 39.09218
+    },
+    {
+      "id": "skip_4e6a38e478e9",
+      "price": 46.0,
+      "currency": "USD",
+      "price_formatted": "46.00 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T11:15:00-03:00",
+            "arrival": "2026-05-30T13:05:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T17:25:00-03:00",
+            "arrival": "2026-05-30T18:35:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10800,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 39.09218
+    },
+    {
+      "id": "skip_245ab68cae5e",
+      "price": 47.0,
+      "currency": "USD",
+      "price_formatted": "47.00 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31271",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T06:55:00-03:00",
+            "arrival": "2026-05-30T08:30:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T15:30:00-03:00",
+            "arrival": "2026-05-30T16:35:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9600,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 39.942009999999996
+    },
+    {
+      "id": "skip_51a50169c6c2",
+      "price": 48.0,
+      "currency": "USD",
+      "price_formatted": "48.00 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3132",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T21:40:00-03:00",
+            "arrival": "2026-05-30T22:50:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 40.79184
+    },
+    {
+      "id": "mm_b68d3c6062",
+      "price": 50.0,
+      "currency": "USD",
+      "price_formatted": "USD 50.00",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3132",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T21:40:00",
+            "arrival": "2026-05-30T22:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:59.266864",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-05-30",
+      "price_normalized": 42.4915
+    },
+    {
+      "id": "tc_1269550d9d",
+      "price": 54.86,
+      "currency": "EUR",
+      "price_formatted": "EUR 54.86",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "G3",
+            "flight_no": "G31271",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T06:55:00",
+            "arrival": "2026-05-30T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "G3",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T15:30:00",
+            "arrival": "2026-05-30T16:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "tripcom_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:23.325163",
+      "booking_url": "https://www.trip.com/flights/poa-to-cwb/tickets-poa-cwb",
+      "price_normalized": 54.86
+    },
+    {
+      "id": "ss_540a464ef1",
+      "price": 55.14,
+      "currency": "EUR",
+      "price_formatted": "56 \u20ac",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2854",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-30T10:35:00",
+            "arrival": "2026-05-30T12:20:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2765",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-30T15:45:00",
+            "arrival": "2026-05-30T16:50:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22500,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:47.417371",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 55.14
+    },
+    {
+      "id": "skip_82cdf9081c3d",
+      "price": 64.7,
+      "currency": "USD",
+      "price_formatted": "64.70 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T05:50:00-03:00",
+            "arrival": "2026-05-30T07:30:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2765",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T15:45:00-03:00",
+            "arrival": "2026-05-30T16:50:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9900,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 54.984001
+    },
+    {
+      "id": "skip_db5b41a8e88e",
+      "price": 65.12,
+      "currency": "USD",
+      "price_formatted": "65.12 USD",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2854",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T10:35:00-03:00",
+            "arrival": "2026-05-30T12:20:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2765",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T15:45:00-03:00",
+            "arrival": "2026-05-30T16:50:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10200,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:31:12.083767",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-05-30",
+      "price_normalized": 55.3409296
+    },
+    {
+      "id": "bc_7c9ad01613a9",
+      "price": 237.23,
+      "currency": "BRL",
+      "price_formatted": "BRL 237.23",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2982",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T09:05:00",
+            "arrival": "2026-05-30T10:15:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "Azul Linhas A\u00e9reas Brasileiras"
+      ],
+      "owner_airline": "Azul Linhas A\u00e9reas Brasileiras",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "bookingcom_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:32:19.419599",
+      "booking_url": "https://flights.booking.com/checkout/pax?token=d7699_H4sIAAAAAAAA_zWR25KiMBCGn2bmLhASIGSqUlso4gnEA-DgDQWIgLLiQGo8PP1Gcau7-v_-TrpzkZLzS_cly4e6KkregbSVioY3RcJzKWv-yodWlLRpTtW5kJOqlZeeOdwOMHTNSFZkICL7iv7kNw66NmOfVZpLSZexpWm8uWW6ROj3dILs9auVNZypkuHSib1e2JrbN1s2Hgy-3e3L7ZlrdVcPusQ9ZsQJZxvvUS68oBwHJxWH_vTVc6yRFgSrzvV3q8XmelvUpuLYu92mut68cB09z0O7IG5YIMcyO3GH_2fHjzq3DvvHc7aggV6vwhGNjaCCPyh8tJ7zc61uxb42xsMVuM_S09JPLptkS4oPbInsR6WSTZKB-Ta_DPeUZUyRJJVQ5eWbpGPEeHPGmQJ73HPmW4Ez13rLGcIE9Ss6hsDUjoA1o8C3g9F8-JSJDwEEyAwAmT0zEoEIUPuRiiGqQKhruqJg3C-9MUXVVPLZ5XWe8ao5z_M7My1EDQTENyZ3pIPoAw3T_bmmRwEf2BRZxFDU8lWT2NaEpLGqC8l62ccY5uRJeUwhNgQcYjwQUsWKBKXn4DGeboU8YoqOF9r-AwZDou5tAgAA",
+      "price_normalized": 40.613775999999994
+    },
+    {
+      "id": "bc_58614024e1b9",
+      "price": 260.55,
+      "currency": "BRL",
+      "price_formatted": "BRL 260.55",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "GOL LINHAS AEREAS",
+            "airline_name": "",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T12:35:00",
+            "arrival": "2026-05-30T14:10:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "GOL LINHAS AEREAS",
+            "airline_name": "",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T15:30:00",
+            "arrival": "2026-05-30T16:35:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "GOL LINHAS AEREAS"
+      ],
+      "owner_airline": "GOL LINHAS AEREAS",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "bookingcom_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:32:19.419599",
+      "booking_url": "https://flights.booking.com/checkout/pax?token=d7699_H4sIAAAAAAAA_0WRa4-iMBSGf43zraXlKpM0G4aLOnLxhix8aRBQcdxhl1ZBf_1WMbtpTt_nfZPTNqdHzn-zd0nan-vDkTOwa-Gh4c0h5xUsml_SvhXbrmm-6u-DlNettIgsO_lQUGClEpaAWMV7-qPqOWBtQd7qXQVzVpCFNX5xS3RomD9nU9lbPaOi4USF48CceqvQ0xZD2JJJssws_HQlCeyui-4WCxzuh3d2E8Xj88yIXKSt3Wy9OZXb4MT6aOu5vuMqK7xkwaacbu0-SeJG8DlOHNb5Ng5X6w77jsX8TTpSnOcFFTGvX7drHJ5qy-mWfX6J5dBumH9MMuvSX_tvP2Vh41zMP8D61wSPxNxnk5e5EmWgoiAYQtUwh8c3OSPG-MUFJxgNWHKycWJ_rg2WE1lH2mAYkcHMS6kzU4Eo6nyaYOPFYtRUSOKih1tH0cNlrg0QRSD7pHEC7Am1J689pSmIaARkg8oGUKk6nF0T2cQI6ZqOsaIMF_YEq5pqvLHqXBW8br7n1Y1MFCwbJhB_m99kXRwlAozl_8FItrFucBWNBY0UMRjrQBFEQo8vzek8g4tY0I6qupBikJKq2FQLQRUFeD9-ZHuqfAipKYZD84nOEiF3Wiq3a8f_AmbsqSqcAgAA",
+      "price_normalized": 44.60616
+    },
+    {
+      "id": "bc_754e3a2bc662",
+      "price": 275.3,
+      "currency": "BRL",
+      "price_formatted": "BRL 275.30",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LATAM",
+            "airline_name": "",
+            "flight_no": "LA3132",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-30T21:40:00",
+            "arrival": "2026-05-30T22:50:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": null,
+      "airlines": [
+        "LATAM"
+      ],
+      "owner_airline": "LATAM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "bookingcom_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T14:32:19.419599",
+      "booking_url": "https://flights.booking.com/checkout/pax?token=d7699_H4sIAAAAAAAA_z2Ra3OqMBCGf439FsiFi3Qm00EiimKxiij9wkBEpLVyDsnx9utPFKezmX3ed3d290P2Uv4Rr7q-O9TVXgpQtFrVyKbKZanx5kfftSoVTfNdHys9r1t9HrneekDgzE11pAMV_DV9Ky8SiJbTl7ootVxwOnf7T91SS7OdTTDG_uJR4o2khtafOWN_8e5buCu2dMRS62P9cFs6Y-IcQTSObgGJ0MqOhtBcDj-X8dc2md3EJUr8YciGOI65SA6HqdJm4lf2zDufQ-aKME57hD2WlXQToYnr9Sc7dBUBWrGBu_Ta1aY4f06a5dUXJRucjqdJgM8Fu3youd9RbU9Dxn-e5kRJpzinSNMM20EP3-SC2v2n5pIi2MmtpDFbhVOzs5Ji2yRdT1AMAj8FbOKA2E9YEN0xWngAAuxDMJoD3wGpCmyD7qqoKXYQhJZpIURIt_RCkWEa9osoDyWXdXOcllcaugQRDNQn5VdsgbSHvYIfjpedEj3iqldlUOX9I-cZgoZikRmWAu-wzQxC8nu_zADhiruMDBTqDGlQuze-smCtcMus-t_f5vs_mSP8e0sCAAA.",
+      "price_normalized": 47.13136
+    }
+  ]
+}

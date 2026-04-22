@@ -1,0 +1,2060 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_dcfe3a5855a4",
+      "price": 326.0,
+      "currency": "EUR",
+      "price_formatted": "326.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2770",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T22:10:00",
+            "arrival": "2026-05-01T02:10:00",
+            "duration_seconds": 14400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "Recife",
+            "destination_city": "Campina Grande",
+            "departure": "2026-05-01T12:25:00",
+            "arrival": "2026-05-01T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 54300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "Campina Grande",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "Recife",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/campina-grande-state-of-paraiba-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:42.042834",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 326.0
+    },
+    {
+      "id": "rt_avsls_f19ad6cac06b",
+      "price": 392.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2770",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:10:00",
+            "arrival": "2026-05-01T02:10:00",
+            "duration_seconds": 14400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:25:00",
+            "arrival": "2026-05-01T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Azul Airlines"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:04.421611",
+      "booking_url": "https://www.aviasales.com/search/POA3004CPV1",
+      "price_normalized": 333.13336
+    },
+    {
+      "id": "rt_707bac229f05",
+      "price": 480.5,
+      "currency": "EUR",
+      "price_formatted": "480.50 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6084",
+            "origin": "CGH",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-05-01T17:05:00",
+            "arrival": "2026-05-01T20:20:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "Recife",
+            "destination_city": "Campina Grande",
+            "departure": "2026-05-02T12:25:00",
+            "arrival": "2026-05-02T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 138300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "Campina Grande",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "Recife",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/campina-grande-state-of-paraiba-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:42.042834",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 480.5
+    },
+    {
+      "id": "rt_avsls_fc5040492075",
+      "price": 535.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2770",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:10:00",
+            "arrival": "2026-05-01T02:10:00",
+            "duration_seconds": 14400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:25:00",
+            "arrival": "2026-05-01T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4289",
+            "origin": "CPV",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:40:00",
+            "arrival": "2026-05-03T15:15:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9105",
+            "origin": "CNF",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:15:00",
+            "arrival": "2026-05-04T04:55:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Azul Airlines"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:04.421611",
+      "booking_url": "https://www.aviasales.com/search/POA3004CPV1",
+      "price_normalized": 454.65905
+    },
+    {
+      "id": "rt_avsls_1309cb44cf4e",
+      "price": 608.77,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31287",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T20:05:00",
+            "arrival": "2026-04-30T22:00:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31634",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:35:00",
+            "arrival": "2026-05-01T19:00:00",
+            "duration_seconds": 8700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G32140",
+            "origin": "SSA",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T23:40:00",
+            "arrival": "2026-05-02T01:00:00",
+            "duration_seconds": 4800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines"
+      ],
+      "owner_airline": "Gol Transportes A\u00e9reos",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:04.421611",
+      "booking_url": "https://www.aviasales.com/search/POA3004CPV1",
+      "price_normalized": 517.3510090999999
+    },
+    {
+      "id": "rt_avsls_c0dcf8ddcb17",
+      "price": 609.11,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T15:15:00",
+            "arrival": "2026-05-01T17:35:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G32140",
+            "origin": "SSA",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T23:40:00",
+            "arrival": "2026-05-02T01:00:00",
+            "duration_seconds": 4800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines"
+      ],
+      "owner_airline": "Gol Transportes A\u00e9reos",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:04.421611",
+      "booking_url": "https://www.aviasales.com/search/POA3004CPV1",
+      "price_normalized": 517.6399513
+    },
+    {
+      "id": "rt_avsls_01a807c0c275",
+      "price": 615.47,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31281",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:15:00",
+            "arrival": "2026-04-30T15:50:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T15:15:00",
+            "arrival": "2026-05-01T17:35:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G32140",
+            "origin": "SSA",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T23:40:00",
+            "arrival": "2026-05-02T01:00:00",
+            "duration_seconds": 4800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines"
+      ],
+      "owner_airline": "Gol Transportes A\u00e9reos",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:04.422613",
+      "booking_url": "https://www.aviasales.com/search/POA3004CPV1",
+      "price_normalized": 523.0448701
+    },
+    {
+      "id": "rt_39ddad45018b",
+      "price": 661.0,
+      "currency": "EUR",
+      "price_formatted": "661.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2770",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T22:10:00",
+            "arrival": "2026-05-01T02:10:00",
+            "duration_seconds": 14400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "Recife",
+            "destination_city": "Campina Grande",
+            "departure": "2026-05-01T12:25:00",
+            "arrival": "2026-05-01T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 54300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4289",
+            "origin": "CPV",
+            "destination": "CNF",
+            "origin_city": "Campina Grande",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T12:40:00",
+            "arrival": "2026-05-03T15:15:00",
+            "duration_seconds": 9300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6027",
+            "origin": "CNF",
+            "destination": "CGH",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T16:30:00",
+            "arrival": "2026-05-03T17:55:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3162",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T19:15:00",
+            "arrival": "2026-05-03T20:55:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 29700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/2026-05-03?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:42.042834",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 661.0
+    },
+    {
+      "id": "rt_avsls_8b132dd07428",
+      "price": 751.77,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31287",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T20:05:00",
+            "arrival": "2026-04-30T22:00:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31634",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:35:00",
+            "arrival": "2026-05-01T19:00:00",
+            "duration_seconds": 8700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G32140",
+            "origin": "SSA",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T23:40:00",
+            "arrival": "2026-05-02T01:00:00",
+            "duration_seconds": 4800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4289",
+            "origin": "CPV",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:40:00",
+            "arrival": "2026-05-03T15:15:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9105",
+            "origin": "CNF",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:15:00",
+            "arrival": "2026-05-04T04:55:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines"
+      ],
+      "owner_airline": "Gol Transportes A\u00e9reos",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:04.421611",
+      "booking_url": "https://www.aviasales.com/search/POA3004CPV1",
+      "price_normalized": 638.8766991
+    },
+    {
+      "id": "rt_avsls_1a9147601ad8",
+      "price": 752.11,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T15:15:00",
+            "arrival": "2026-05-01T17:35:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Gol Transportes A\u00e9reos",
+            "airline_name": "",
+            "flight_no": "G32140",
+            "origin": "SSA",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T23:40:00",
+            "arrival": "2026-05-02T01:00:00",
+            "duration_seconds": 4800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 20400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4289",
+            "origin": "CPV",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:40:00",
+            "arrival": "2026-05-03T15:15:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9105",
+            "origin": "CNF",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T03:15:00",
+            "arrival": "2026-05-04T04:55:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Gol Transportes A\u00e9reos",
+        "Azul Airlines"
+      ],
+      "owner_airline": "Gol Transportes A\u00e9reos",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:04.421611",
+      "booking_url": "https://www.aviasales.com/search/POA3004CPV1",
+      "price_normalized": 639.1656413
+    },
+    {
+      "id": "rt_29d90f47cf76",
+      "price": 815.5,
+      "currency": "EUR",
+      "price_formatted": "815.50 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6084",
+            "origin": "CGH",
+            "destination": "REC",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Recife",
+            "departure": "2026-05-01T17:05:00",
+            "arrival": "2026-05-01T20:20:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "Recife",
+            "destination_city": "Campina Grande",
+            "departure": "2026-05-02T12:25:00",
+            "arrival": "2026-05-02T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 138300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4289",
+            "origin": "CPV",
+            "destination": "CNF",
+            "origin_city": "Campina Grande",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T12:40:00",
+            "arrival": "2026-05-03T15:15:00",
+            "duration_seconds": 9300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6027",
+            "origin": "CNF",
+            "destination": "CGH",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T16:30:00",
+            "arrival": "2026-05-03T17:55:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3162",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T19:15:00",
+            "arrival": "2026-05-03T20:55:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 29700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/2026-05-03?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:28:42.042834",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 815.5
+    },
+    {
+      "id": "rt_op_2fe2f2eee24e",
+      "price": 852.94,
+      "currency": "GBP",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2909",
+            "origin": "POA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:15:00-03:00",
+            "arrival": "2026-04-30T07:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4851",
+            "origin": "CNF",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:40:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4289",
+            "origin": "CPV",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:40:00-03:00",
+            "arrival": "2026-05-03T15:15:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4455",
+            "origin": "CNF",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:00:00-03:00",
+            "arrival": "2026-05-03T22:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:55:00-03:00",
+            "arrival": "2026-05-04T14:40:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 93600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "opodo_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:10.759170",
+      "booking_url": "https://www.opodo.co.uk/travel/#results/type=O;dep=2026-04-30;from=POA;to=CPV;pa=1;py=E",
+      "price_normalized": 980.0280600000001
+    },
+    {
+      "id": "rt_op_576b19faa41e",
+      "price": 853.94,
+      "currency": "GBP",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2663",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00-03:00",
+            "arrival": "2026-04-30T16:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2926",
+            "origin": "GIG",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T06:20:00-03:00",
+            "arrival": "2026-05-01T09:05:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:25:00-03:00",
+            "arrival": "2026-05-01T13:15:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 81900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4289",
+            "origin": "CPV",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:40:00-03:00",
+            "arrival": "2026-05-03T15:15:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4455",
+            "origin": "CNF",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:00:00-03:00",
+            "arrival": "2026-05-03T22:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:55:00-03:00",
+            "arrival": "2026-05-04T14:40:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 93600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "opodo_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:10.760178",
+      "booking_url": "https://www.opodo.co.uk/travel/#results/type=O;dep=2026-04-30;from=POA;to=CPV;pa=1;py=E",
+      "price_normalized": 981.1770600000001
+    },
+    {
+      "id": "rt_op_542fdac3bc25",
+      "price": 856.94,
+      "currency": "GBP",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2909",
+            "origin": "POA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:15:00-03:00",
+            "arrival": "2026-04-30T07:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4851",
+            "origin": "CNF",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:40:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00-03:00",
+            "arrival": "2026-05-03T14:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4277",
+            "origin": "REC",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:40:00-03:00",
+            "arrival": "2026-05-03T19:55:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:55:00-03:00",
+            "arrival": "2026-05-04T14:40:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "opodo_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:10.759170",
+      "booking_url": "https://www.opodo.co.uk/travel/#results/type=O;dep=2026-04-30;from=POA;to=CPV;pa=1;py=E",
+      "price_normalized": 984.6240600000001
+    },
+    {
+      "id": "rt_op_7fbd627169e4",
+      "price": 857.94,
+      "currency": "GBP",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2663",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00-03:00",
+            "arrival": "2026-04-30T16:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2926",
+            "origin": "GIG",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T06:20:00-03:00",
+            "arrival": "2026-05-01T09:05:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:25:00-03:00",
+            "arrival": "2026-05-01T13:15:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 81900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00-03:00",
+            "arrival": "2026-05-03T14:25:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD4277",
+            "origin": "REC",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:40:00-03:00",
+            "arrival": "2026-05-03T19:55:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Linhas Aereas Brasileiras",
+            "flight_no": "ADAD6006",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T12:55:00-03:00",
+            "arrival": "2026-05-04T14:40:00-03:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 89700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "opodo_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:10.760178",
+      "booking_url": "https://www.opodo.co.uk/travel/#results/type=O;dep=2026-04-30;from=POA;to=CPV;pa=1;py=E",
+      "price_normalized": 985.7730600000001
+    },
+    {
+      "id": "rt_kiwi_bd6632362851",
+      "price": 998.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3453",
+            "origin": "POA",
+            "destination": "CNF",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-04-30T05:00:00",
+            "arrival": "2026-04-30T07:10:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4851",
+            "origin": "CNF",
+            "destination": "CPV",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Campina Grande",
+            "departure": "2026-04-30T12:40:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "Campina Grande",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "Recife",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:24:55.089496",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/campina-grande-state-of-paraiba-brazil/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 998.0
+    },
+    {
+      "id": "rt_tst_8cdb7d2d7e81",
+      "price": 31248.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2909",
+            "origin": "POA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:15:00",
+            "arrival": "2026-04-30T07:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD4851",
+            "origin": "CNF",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:40:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Azul Linhas A\u00e9reas Brasileiras"
+      ],
+      "owner_airline": "Azul Linhas A\u00e9reas Brasileiras",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:25:05.497858",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-22_00-24-00-024&from_0=POA&from_type_0=airport&to_0=CPV&to_type_0=airport&depart_date_0=2026-04-30&from_1=CPV&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=e2b9243a-72d9-45e3-8e73-ed9ec61a4261&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 1622.39616
+    },
+    {
+      "id": "rt_ct_ebac86cb599d",
+      "price": 115971.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2769",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:30:00",
+            "arrival": "2026-04-30T06:40:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4542",
+            "origin": "CWB",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:10:00",
+            "arrival": "2026-04-30T11:40:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4851",
+            "origin": "CNF",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:40:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T17:50:00",
+            "arrival": "2026-05-04T22:20:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:25:05.830499",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=CPV&intl=y",
+      "price_normalized": 1054.17639
+    },
+    {
+      "id": "rt_ct_a4d166548ea9",
+      "price": 115971.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2727",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:20:00",
+            "arrival": "2026-04-30T17:00:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4079",
+            "origin": "VCP",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T06:05:00",
+            "arrival": "2026-05-01T09:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00",
+            "arrival": "2026-04-30T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 78900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T17:50:00",
+            "arrival": "2026-05-04T22:20:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:25:05.829499",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=CPV&intl=y",
+      "price_normalized": 1054.17639
+    },
+    {
+      "id": "rt_ct_bbc3aabe6a7f",
+      "price": 115971.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2854",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:40:00",
+            "arrival": "2026-04-30T11:25:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2744",
+            "origin": "GRU",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:15:00",
+            "arrival": "2026-05-01T11:15:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4566",
+            "origin": "REC",
+            "destination": "CPV",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:25:00",
+            "arrival": "2026-04-30T13:15:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 99300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD2692",
+            "origin": "CPV",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:45:00",
+            "arrival": "2026-05-03T14:25:00",
+            "duration_seconds": 2400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "AD",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T17:50:00",
+            "arrival": "2026-05-04T22:20:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:25:05.829499",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=CPV&intl=y",
+      "price_normalized": 1054.17639
+    }
+  ]
+}

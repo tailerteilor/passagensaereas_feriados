@@ -1,0 +1,1601 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "combo_e285b5ac46df",
+      "price": 238.87,
+      "currency": "EUR",
+      "price_formatted": "238.87 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.487337",
+      "booking_url": "",
+      "price_normalized": 238.87
+    },
+    {
+      "id": "combo_86713a045a01",
+      "price": 238.87,
+      "currency": "EUR",
+      "price_formatted": "238.87 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T16:50:00",
+            "arrival": "2026-04-30T18:00:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.487337",
+      "booking_url": "",
+      "price_normalized": 238.87
+    },
+    {
+      "id": "rt_cc5172f2d67e",
+      "price": 248.0,
+      "currency": "EUR",
+      "price_formatted": "248.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/curitiba-state-of-parana-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.487337",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 248.0
+    },
+    {
+      "id": "rt_2e6d2f3d423f",
+      "price": 248.0,
+      "currency": "EUR",
+      "price_formatted": "248.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T16:50:00",
+            "arrival": "2026-04-30T18:00:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/curitiba-state-of-parana-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.487337",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 248.0
+    },
+    {
+      "id": "combo_f984bcd120be",
+      "price": 266.07,
+      "currency": "EUR",
+      "price_formatted": "266.07 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3293",
+            "origin": "CWB",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:10:00-03:00",
+            "arrival": "2026-05-03T06:25:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2660",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:10:00-03:00",
+            "arrival": "2026-05-03T18:50:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.487337",
+      "booking_url": "",
+      "price_normalized": 266.07
+    },
+    {
+      "id": "rt_skip_70f22c200094",
+      "price": 274.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00-03:00",
+            "arrival": "2026-04-30T08:40:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00-03:00",
+            "arrival": "2026-04-30T11:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 232.85342
+    },
+    {
+      "id": "rt_skip_7672113bf6ca",
+      "price": 274.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00-03:00",
+            "arrival": "2026-04-30T08:40:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31110",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:50:00-03:00",
+            "arrival": "2026-04-30T13:55:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 232.85342
+    },
+    {
+      "id": "rt_skip_5b5da3498e38",
+      "price": 274.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00-03:00",
+            "arrival": "2026-04-30T15:10:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:50:00-03:00",
+            "arrival": "2026-04-30T18:00:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 232.85342
+    },
+    {
+      "id": "rt_skip_2d4758401cc4",
+      "price": 274.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:35:00-03:00",
+            "arrival": "2026-04-30T13:25:00-03:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:50:00-03:00",
+            "arrival": "2026-04-30T18:00:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 232.85342
+    },
+    {
+      "id": "rt_skip_2f5195893200",
+      "price": 275.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00-03:00",
+            "arrival": "2026-04-30T08:40:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:20:00-03:00",
+            "arrival": "2026-04-30T16:25:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 233.70325
+    },
+    {
+      "id": "rt_skip_f77d2ca00213",
+      "price": 275.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00-03:00",
+            "arrival": "2026-04-30T08:40:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31114",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:15:00-03:00",
+            "arrival": "2026-04-30T17:20:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 233.70325
+    },
+    {
+      "id": "combo_c0d6ed399b61",
+      "price": 290.87,
+      "currency": "EUR",
+      "price_formatted": "290.87 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6056",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T14:20:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.489429",
+      "booking_url": "",
+      "price_normalized": 290.87
+    },
+    {
+      "id": "rt_skip_40d1208ea7f2",
+      "price": 294.1,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00-03:00",
+            "arrival": "2026-04-30T07:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31255",
+            "origin": "FLN",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:00:00-03:00",
+            "arrival": "2026-04-30T09:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00-03:00",
+            "arrival": "2026-04-30T11:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 11700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 249.93500300000002
+    },
+    {
+      "id": "rt_skip_b2cea14d940a",
+      "price": 294.1,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00-03:00",
+            "arrival": "2026-04-30T07:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31257",
+            "origin": "FLN",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00-03:00",
+            "arrival": "2026-04-30T11:15:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31110",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:50:00-03:00",
+            "arrival": "2026-04-30T13:55:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 249.93500300000002
+    },
+    {
+      "id": "rt_skip_1e8f4055bd6e",
+      "price": 294.1,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00-03:00",
+            "arrival": "2026-04-30T07:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31257",
+            "origin": "FLN",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00-03:00",
+            "arrival": "2026-04-30T11:15:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:20:00-03:00",
+            "arrival": "2026-04-30T16:25:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 249.93500300000002
+    },
+    {
+      "id": "rt_skip_e111deedfac7",
+      "price": 294.1,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00-03:00",
+            "arrival": "2026-04-30T07:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31257",
+            "origin": "FLN",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00-03:00",
+            "arrival": "2026-04-30T11:15:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31114",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:15:00-03:00",
+            "arrival": "2026-04-30T17:20:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 12300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 249.93500300000002
+    },
+    {
+      "id": "combo_9928f34618df",
+      "price": 295.87,
+      "currency": "EUR",
+      "price_formatted": "295.87 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6020",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T08:45:00",
+            "arrival": "2026-04-30T09:45:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.489429",
+      "booking_url": "",
+      "price_normalized": 295.87
+    },
+    {
+      "id": "rt_skip_b7fcb56ca775",
+      "price": 296.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00-03:00",
+            "arrival": "2026-04-30T08:40:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00-03:00",
+            "arrival": "2026-04-30T11:05:00-03:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 9600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2976",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:55:00-03:00",
+            "arrival": "2026-05-03T13:10:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T21:59:53.322316",
+      "booking_url": "https://skiplagged.com/flights/POA/CWB/2026-04-30",
+      "price_normalized": 251.54968
+    },
+    {
+      "id": "combo_8694ba6acc55",
+      "price": 301.87,
+      "currency": "EUR",
+      "price_formatted": "301.87 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6056",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-01T15:05:00",
+            "arrival": "2026-05-01T16:05:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 78600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.489429",
+      "booking_url": "",
+      "price_normalized": 301.87
+    },
+    {
+      "id": "rt_43b16e1c35c8",
+      "price": 305.0,
+      "currency": "EUR",
+      "price_formatted": "305.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6020",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T08:45:00",
+            "arrival": "2026-04-30T09:45:00",
+            "duration_seconds": 3600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/curitiba-state-of-parana-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:03.487337",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 305.0
+    }
+  ]
+}

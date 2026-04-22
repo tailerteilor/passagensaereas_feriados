@@ -1,0 +1,1788 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "combo_3d3013b07717",
+      "price": 208.38,
+      "currency": "EUR",
+      "price_formatted": "208.38 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2830",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T19:40:00",
+            "arrival": "2026-04-30T21:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4424",
+            "origin": "VCP",
+            "destination": "JPA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Jo\u00e3o Pessoa, Para\u00edba",
+            "departure": "2026-04-30T22:25:00",
+            "arrival": "2026-05-01T01:30:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00-03:00",
+            "arrival": "2026-05-03T06:20:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/joao-pessoa-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JPA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:26:09.334767",
+      "booking_url": "",
+      "price_normalized": 208.38
+    },
+    {
+      "id": "combo_67c43d08aa59",
+      "price": 208.38,
+      "currency": "EUR",
+      "price_formatted": "208.38 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4151",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T07:40:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 14700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4560",
+            "origin": "REC",
+            "destination": "JPA",
+            "origin_city": "Recife",
+            "destination_city": "Jo\u00e3o Pessoa, Para\u00edba",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T15:45:00",
+            "duration_seconds": 2700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 29100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00-03:00",
+            "arrival": "2026-05-03T06:20:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/joao-pessoa-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JPA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:26:09.334767",
+      "booking_url": "",
+      "price_normalized": 208.38
+    },
+    {
+      "id": "combo_f926370e8b24",
+      "price": 208.38,
+      "currency": "EUR",
+      "price_formatted": "208.38 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2770",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Recife",
+            "departure": "2026-04-30T22:10:00",
+            "arrival": "2026-05-01T02:10:00",
+            "duration_seconds": 14400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4560",
+            "origin": "REC",
+            "destination": "JPA",
+            "origin_city": "Recife",
+            "destination_city": "Jo\u00e3o Pessoa, Para\u00edba",
+            "departure": "2026-05-01T15:00:00",
+            "arrival": "2026-05-01T15:45:00",
+            "duration_seconds": 2700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00-03:00",
+            "arrival": "2026-05-03T06:20:00-03:00",
+            "duration_seconds": 12300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/joao-pessoa-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JPA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:26:09.334767",
+      "booking_url": "",
+      "price_normalized": 208.38
+    },
+    {
+      "id": "rt_mm_0c2eb11ad5b4",
+      "price": 233.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 198.01039
+    },
+    {
+      "id": "rt_mm_83b91fe0f3ce",
+      "price": 241.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3153",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:50:00",
+            "arrival": "2026-04-30T10:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 204.80903
+    },
+    {
+      "id": "rt_mm_d16600794ea0",
+      "price": 241.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 204.80903
+    },
+    {
+      "id": "rt_mm_954d678798e2",
+      "price": 241.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 204.80903
+    },
+    {
+      "id": "rt_mm_5bbec18c5a78",
+      "price": 245.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2830",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T19:40:00",
+            "arrival": "2026-04-30T21:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4424",
+            "origin": "VCP",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:25:00",
+            "arrival": "2026-05-01T01:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 208.20835
+    },
+    {
+      "id": "rt_mm_9bd127f4f29b",
+      "price": 245.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4151",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:40:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4560",
+            "origin": "REC",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T15:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 29100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 208.20835
+    },
+    {
+      "id": "rt_mm_ca8ab5e5271e",
+      "price": 245.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2727",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:20:00",
+            "arrival": "2026-04-30T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4424",
+            "origin": "VCP",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:25:00",
+            "arrival": "2026-05-01T01:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 208.20835
+    },
+    {
+      "id": "rt_mm_72064e3313bc",
+      "price": 245.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2770",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:10:00",
+            "arrival": "2026-05-01T02:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4560",
+            "origin": "REC",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T15:00:00",
+            "arrival": "2026-05-01T15:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00",
+            "arrival": "2026-05-03T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.192102",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 208.20835
+    },
+    {
+      "id": "rt_mm_14a2a54f9d4f",
+      "price": 251.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 213.30733
+    },
+    {
+      "id": "rt_mm_b4e12912a61c",
+      "price": 259.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3153",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:50:00",
+            "arrival": "2026-04-30T10:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 220.10596999999999
+    },
+    {
+      "id": "rt_mm_4f4bbdafba90",
+      "price": 259.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 220.10596999999999
+    },
+    {
+      "id": "rt_mm_0120122dc055",
+      "price": 259.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:36.191095",
+      "booking_url": "https://www.momondo.com/flight-search/POA-JPA/2026-04-30",
+      "price_normalized": 220.10596999999999
+    },
+    {
+      "id": "rt_ky_46ece82d0287",
+      "price": 263.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2830",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T19:40:00",
+            "arrival": "2026-04-30T21:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4424",
+            "origin": "VCP",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:25:00",
+            "arrival": "2026-05-01T01:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "kayak_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:25:14.556006",
+      "booking_url": "https://www.kayak.com/flights/POA-JPA/2026-04-30",
+      "price_normalized": 223.50529
+    },
+    {
+      "id": "rt_avsls_66f0a1e46dc1",
+      "price": 283.02,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2770",
+            "origin": "POA",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:10:00",
+            "arrival": "2026-05-01T02:10:00",
+            "duration_seconds": 14400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD4560",
+            "origin": "REC",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T15:00:00",
+            "arrival": "2026-05-01T15:45:00",
+            "duration_seconds": 2700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "Azul Airlines"
+      ],
+      "owner_airline": "Azul Airlines",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:24:53.361355",
+      "booking_url": "https://www.aviasales.com/search/POA3004JPA1",
+      "price_normalized": 240.51888659999997
+    },
+    {
+      "id": "combo_74bf64bf8aff",
+      "price": 337.93,
+      "currency": "EUR",
+      "price_formatted": "337.93 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2909",
+            "origin": "POA",
+            "destination": "CNF",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-04-30T05:15:00",
+            "arrival": "2026-04-30T07:25:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2647",
+            "origin": "CNF",
+            "destination": "JPA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Jo\u00e3o Pessoa, Para\u00edba",
+            "departure": "2026-04-30T08:10:00",
+            "arrival": "2026-04-30T10:45:00",
+            "duration_seconds": 9300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA3387",
+            "origin": "JPA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:55:00",
+            "arrival": "2026-05-03T06:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA3218",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:15:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 50700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "JJ"
+      ],
+      "owner_airline": "AD|JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/joao-pessoa-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=JPA&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:26:09.335840",
+      "booking_url": "",
+      "price_normalized": 337.93
+    },
+    {
+      "id": "rt_c51b4d6eb538",
+      "price": 426.0,
+      "currency": "EUR",
+      "price_formatted": "426.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4536",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Jo\u00e3o Pessoa, Para\u00edba",
+            "departure": "2026-04-30T14:30:00",
+            "arrival": "2026-04-30T17:40:00",
+            "duration_seconds": 11400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "Jo\u00e3o Pessoa, Para\u00edba",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/joao-pessoa-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/joao-pessoa-state-of-paraiba-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:26:09.333179",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/joao-pessoa-state-of-paraiba-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 426.0
+    },
+    {
+      "id": "rt_tst_e0237f5a53cd",
+      "price": 17298.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "VRG Lineas Aereas",
+            "airline_name": "",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "VRG Lineas Aereas",
+            "airline_name": "",
+            "flight_no": "G31642",
+            "origin": "GRU",
+            "destination": "JPA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:05:00",
+            "arrival": "2026-04-30T17:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2559",
+            "origin": "JPA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2675",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:10:00",
+            "arrival": "2026-05-03T19:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "VRG Lineas Aereas",
+        "Azul Linhas A\u00e9reas Brasileiras"
+      ],
+      "owner_airline": "VRG Lineas Aereas",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:23:11.302745",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-21_18-22-08-022&from_0=POA&from_type_0=airport&to_0=JPA&to_type_0=airport&depart_date_0=2026-04-30&from_1=JPA&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=4c7e15fb-203d-4054-972e-efa4a964f7e3&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 898.11216
+    }
+  ]
+}

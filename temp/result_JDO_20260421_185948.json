@@ -1,0 +1,1849 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_reh_0b26ad1879a3",
+      "price": 354.03,
+      "currency": "KWD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3830",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 90000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "rehlat_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:23:56.203850",
+      "booking_url": "https://www.rehlat.com/en/cheap-flights/booking/porto alegre-to-juazeiro do norte/roundtrip?search=jenE44moY39DGf7Fur8htLTvhpUJ7BDhRh8nfjoqFqZqL6XLmHDiPQfJVBMbpMugeWOaLHdcWshvdlLqzzwSs7G6xOF8TQDqNtbciJCPOZWhu/EuiPhUmO0gZH73w5dEWNvazYf1hBYhURe4SlZscRoa7k/UxyNEteOBGQJmTyYBolfTLnOqWp7PQQImRRON4X5vAYD0ahbf5SEIF2WGUENx0cDpNpSvwV9HZhULBdU8Pzno9ehiLTJYWk970tNzesngKjRKuKoGq+X9JgB/jsjBEunGTGLpk4k9sJz6ZpEESaCB8uLBzR7HMhcAnfWp/oT6+deT4flVqdzYi65J1ttnw2vMu2QCBlCeKl2TiVaaDSea7iwdGgld4tcuO1A0scKA+s9y1ZzBD4NS+MM2v41mK5EsjL2kRAbKcs5eUKYNphmQyt5XUu+IMRfFjgdFoVywJhostzEzUeLA/krHQ3N8fSWHVDmxCWbhKACaimMu4GP11dyN+vXnMrmoCS6PhzL4RBfAKKKLSk+/tOvw18sPb+Ipp9jxWRU8jz8a3+ZfUjuf+VsLBjOtcdvmBfnSuR782si/jxVlIcUOqbBsXlDYUDgZaIH5Z8U8/PX62zphsCTVTwGccaUnaAUH8tWFiHV0DYanX/HnzDmPoqGjabM9LIFXHX5o66DbXS0QYK5XHkmCU2+OLjbN6sg8K+Q/+IPkJJ+5lVtAPT4aOTy2Grs9aeoffwCQnQmWCSXD85yaVDIf5lupIolnLE9cE4s9tcoMN5O9MJD2++qZe4YfX+Xe2lkr2TfrKn0XuURVdl+PR5PJ3xQCNSYE/zo1n+NhelEv5fZr+jMVhNUOW9oQ4po12IujV/QEhqqxBo/hMomdF3jZYq60qssK81ZtTGsmrvhtn/qFGBdceSMoKvq/LHFExo+ZwDjFu2zdpTPv/YwViqB3vTbzZRQSXaddAplGEZWxRdjDncBs97er3QtVCzwoGX5GuAxMIsXc86+7ba+YwQv7S+Hc6U3LSl08H0ZyP3SlOxNf6w8MaeuCGnBYgBrkIRje5PV/6Hq0jA+O9uB8Wt77Ipw0RlgSXE13E2U7JC5Cs+5ghhsDEAzZBp3nAHy6GJz/FVJK2vKqv7AeGwHPh+d45CJ8AQPFq68l0tic+gXRbVgHqV9JbQk5DVbQqQ3Lkhuh9XzznbWFb3M44dKH2bhkXL/FYKy2dRBhw/PqvlZvLWxqVamH0XQiJgDIA+R4kJ4UCCD+vt96V3awUmqzGT9/nFrl0SSWh+E053440TLBZCfQaQT3lYR4areuuCRtljF7W5HC+6O0qafgmZoEths7gf+OzTSGvBCyYPE1cFpBFNq9a0SJxTJeetM5LpnEdt/YfilcFVnt+enE5duB+3Wj45wWzv9jLLoG7MVbAOI4BEfw/1XyxxdN+20gC74zRix0t7kembqNuQqC5IM8rAZ7Uv7g9cIA78PrPU0BAeso0rQI+HehGJ1tC2UuPx+hP0MkVbld9L0niTicj620QcwzwbB/c20hZoXoH9n/PWqTLIYMxNCclsLl7rWGYfV/J2qAB1W5FAXD3hjjWYWGJxJGqpKmB75E7WGJjg0MEiLa5jAKgn2C36s4GBmHkaEquI4fh3Ly/H9Q+RdNQRb3tdTE4WtmdL1ycsiNeYZjbh/YVJY2Bb32mZ+FX/iRLV0MwAId4kjtRtUDeobtT7pGLJZHn0IaczbISqG025GbmOwjctGksjEuha1CI5+MWH/oDfK1B6QM7lAAo2+A2v+2qBrVJay3Xl6Ll7WMPLulfXd39tNobLU84ABA5k7i4/05Z8pK6W6IpxPU3jlq4+tTs12TNxTcslFtd+NaD5KP70absmNV+gtGb5kQqyR5BCYgKewUqgpXDOqXraQp6AdIIeGTtVGEglDfQm8Fq2LBLKb5bztQvmJ41nO4k3k1rvfHeXOje4aJdr11jFdxKJe1BeGZkymaRdSE/TtR8N1YrKyzCGjLP+PnbmppisQ8k9HdzYNP3bP6lq86egvmisyx5VWj2D+UJ1aGJ3Vs2Nwl6x6tu4cx4IBl8Mf+J7af0kAI9Oyz3AKeAsqPXnVmUjIYh87TaRt9hwwkGPHBbBOOIiOR8X1juY7kKJ9EK2Rcu/NNHNRWOWnc/a6bEPn60KOOr0j3dri07hGmhn/HMSZJLgKyzf3u2wSast0IMRuGrYqxiKOzFS5Jd+aSOfAY5ARy1ex8hy82FwItQAoU9GIYR9HN9wddeFzmrcN38DkpEGHwRxqNmJJh4jLz+Ps/3YdtlZnQUrt1m/YiRcOqgQREBXfibzAblT+IY0V5D9XeWOCzdDd+979rynq3jR6EUbUCdFjzjB2vVd8fOM6mN7y4Y/HDqI/UJBwRQsi3UBf0z5blA1X6recj365Px4w+w++wQtat/LbG+V/0idbijYy6R/0ZwzT41VeQ7xVyuXjoQ8EBeRPKT36TDDnwszYDIPPAH4Fzkm4jcU2vrZHZlnfv14iruyuAVT5vYQ8T7Ur9/Q==",
+      "price_normalized": 977.74907907
+    },
+    {
+      "id": "rt_504ddbd27ab4",
+      "price": 376.0,
+      "currency": "EUR",
+      "price_formatted": "376.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.843826",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 376.0
+    },
+    {
+      "id": "rt_4c3f2df8917b",
+      "price": 381.0,
+      "currency": "EUR",
+      "price_formatted": "381.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 65100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.849948",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 381.0
+    },
+    {
+      "id": "rt_6fd547a8bc90",
+      "price": 387.0,
+      "currency": "EUR",
+      "price_formatted": "387.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31579",
+            "origin": "JDO",
+            "destination": "GRU",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T18:55:00",
+            "arrival": "2026-05-03T22:00:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.849948",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 387.0
+    },
+    {
+      "id": "combo_27562713679c",
+      "price": 387.06,
+      "currency": "EUR",
+      "price_formatted": "387.06 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:20:00-03:00",
+            "arrival": "2026-05-03T05:20:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00-03:00",
+            "arrival": "2026-05-03T09:40:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JDO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.861444",
+      "booking_url": "",
+      "price_normalized": 387.06
+    },
+    {
+      "id": "rt_1f7e6c3ad87f",
+      "price": 392.0,
+      "currency": "EUR",
+      "price_formatted": "392.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 392.0
+    },
+    {
+      "id": "rt_f85869b910cf",
+      "price": 392.0,
+      "currency": "EUR",
+      "price_formatted": "392.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 65100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31579",
+            "origin": "JDO",
+            "destination": "GRU",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T18:55:00",
+            "arrival": "2026-05-03T22:00:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.849948",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 392.0
+    },
+    {
+      "id": "combo_e8f28580d7c5",
+      "price": 392.06,
+      "currency": "EUR",
+      "price_formatted": "392.06 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 65100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:20:00-03:00",
+            "arrival": "2026-05-03T05:20:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00-03:00",
+            "arrival": "2026-05-03T09:40:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JDO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.861444",
+      "booking_url": "",
+      "price_normalized": 392.06
+    },
+    {
+      "id": "rt_dfe052a48d38",
+      "price": 398.0,
+      "currency": "EUR",
+      "price_formatted": "398.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 398.0
+    },
+    {
+      "id": "rt_a55704d30ca1",
+      "price": 403.0,
+      "currency": "EUR",
+      "price_formatted": "403.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31579",
+            "origin": "JDO",
+            "destination": "GRU",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T18:55:00",
+            "arrival": "2026-05-03T22:00:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 403.0
+    },
+    {
+      "id": "combo_0397bf854725",
+      "price": 403.06,
+      "currency": "EUR",
+      "price_formatted": "403.06 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:20:00-03:00",
+            "arrival": "2026-05-03T05:20:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00-03:00",
+            "arrival": "2026-05-03T09:40:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JDO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.861444",
+      "booking_url": "",
+      "price_normalized": 403.06
+    },
+    {
+      "id": "rt_2839049129d6",
+      "price": 407.0,
+      "currency": "EUR",
+      "price_formatted": "407.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 407.0
+    },
+    {
+      "id": "rt_67c89e0ad1f2",
+      "price": 409.0,
+      "currency": "EUR",
+      "price_formatted": "409.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31579",
+            "origin": "JDO",
+            "destination": "GRU",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T18:55:00",
+            "arrival": "2026-05-03T22:00:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 409.0
+    },
+    {
+      "id": "combo_5654377e3859",
+      "price": 409.06,
+      "currency": "EUR",
+      "price_formatted": "409.06 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:20:00-03:00",
+            "arrival": "2026-05-03T05:20:00-03:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00-03:00",
+            "arrival": "2026-05-03T09:40:00-03:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JDO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.861444",
+      "booking_url": "",
+      "price_normalized": 409.06
+    },
+    {
+      "id": "rt_34619639bb2b",
+      "price": 410.0,
+      "currency": "EUR",
+      "price_formatted": "410.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31580",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-04-30T20:55:00",
+            "arrival": "2026-04-30T23:45:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 410.0
+    },
+    {
+      "id": "rt_9053d8306120",
+      "price": 416.0,
+      "currency": "EUR",
+      "price_formatted": "416.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31580",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-04-30T20:55:00",
+            "arrival": "2026-04-30T23:45:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 60000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 416.0
+    },
+    {
+      "id": "rt_2adb21b0e053",
+      "price": 418.0,
+      "currency": "EUR",
+      "price_formatted": "418.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31579",
+            "origin": "JDO",
+            "destination": "GRU",
+            "origin_city": "Juazeiro do Norte",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T18:55:00",
+            "arrival": "2026-05-03T22:00:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/juazeiro-do-norte-state-of-ceara-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.850925",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 418.0
+    },
+    {
+      "id": "combo_e981022b42e7",
+      "price": 422.75,
+      "currency": "EUR",
+      "price_formatted": "422.75 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3831",
+            "origin": "JDO",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:00:00-03:00",
+            "arrival": "2026-05-03T19:05:00-03:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3418",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:40:00-03:00",
+            "arrival": "2026-05-03T23:25:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JDO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.862447",
+      "booking_url": "",
+      "price_normalized": 422.75
+    },
+    {
+      "id": "combo_4b652deba19a",
+      "price": 438.75,
+      "currency": "EUR",
+      "price_formatted": "438.75 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39423",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Juazeiro do Norte",
+            "departure": "2026-05-01T00:15:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3831",
+            "origin": "JDO",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:00:00-03:00",
+            "arrival": "2026-05-03T19:05:00-03:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3418",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:40:00-03:00",
+            "arrival": "2026-05-03T23:25:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/juazeiro-do-norte-state-of-ceara-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/JDO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:27:52.864448",
+      "booking_url": "",
+      "price_normalized": 438.75
+    },
+    {
+      "id": "rt_tst_4ff2816a6d23",
+      "price": 19228.0,
+      "currency": "ZAR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LATAM Airlines",
+            "airline_name": "",
+            "flight_no": "LA3830",
+            "origin": "GRU",
+            "destination": "JDO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T08:25:00",
+            "arrival": "2026-05-01T11:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2679",
+            "origin": "JDO",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:20:00",
+            "arrival": "2026-05-03T05:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Linhas A\u00e9reas Brasileiras",
+            "airline_name": "",
+            "flight_no": "AD2619",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:00:00",
+            "arrival": "2026-05-03T09:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LATAM Airlines",
+        "Azul Linhas A\u00e9reas Brasileiras"
+      ],
+      "owner_airline": "JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "travelstart_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:23:44.827033",
+      "booking_url": "https://www.travelstart.co.za/search-on-index?version=3&timestamp=2026-04-22_00-22-39-022&from_0=POA&from_type_0=airport&to_0=JDO&to_type_0=airport&depart_date_0=2026-04-30&from_1=JDO&from_type_1=airport&to_1=POA&to_type_1=airport&depart_date_1=2026-05-03&is_flex_dates=false&trip_type=Roundtrip&adults=1&youngAdults=0&children=0&infants=0&currency=ZAR&cpy_source=tszaweb&correlation_id=1bd12fa0-093b-4f03-8207-07b1642770dc&search=true&show_search_options=false&language=en&class=Economy",
+      "price_normalized": 998.31776
+    }
+  ]
+}

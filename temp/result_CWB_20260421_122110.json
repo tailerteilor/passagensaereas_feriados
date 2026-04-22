@@ -1,0 +1,1513 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_6cb9f751e60e",
+      "price": 240.42,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:47.499165",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 240.42
+    },
+    {
+      "id": "rt_ss_68894299886c",
+      "price": 240.42,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T16:50:00",
+            "arrival": "2026-04-30T18:00:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:47.499165",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 240.42
+    },
+    {
+      "id": "rt_ss_aad0be74a4a9",
+      "price": 261.68,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31112",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T15:20:00",
+            "arrival": "2026-04-30T16:25:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:47.499165",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 261.68
+    },
+    {
+      "id": "rt_ss_ff0c9b50379e",
+      "price": 261.68,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31271",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:40:00",
+            "arrival": "2026-04-30T08:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:47.499165",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 261.68
+    },
+    {
+      "id": "rt_ss_8b2b902c59e5",
+      "price": 261.68,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31168",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:10:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:47.500163",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cwb/",
+      "price_normalized": 261.68
+    },
+    {
+      "id": "combo_4c504eff12e0",
+      "price": 279.47,
+      "currency": "EUR",
+      "price_formatted": "279.47 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:24:18.198557",
+      "booking_url": "",
+      "price_normalized": 279.47
+    },
+    {
+      "id": "rt_mm_58973785a300",
+      "price": 283.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:50:00",
+            "arrival": "2026-04-30T18:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 23100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.541168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 240.50189
+    },
+    {
+      "id": "rt_mm_cca468fe35a0",
+      "price": 283.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31110",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:50:00",
+            "arrival": "2026-04-30T13:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.541168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 240.50189
+    },
+    {
+      "id": "rt_mm_6c3f80da4e50",
+      "price": 288.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31255",
+            "origin": "FLN",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:00:00",
+            "arrival": "2026-04-30T09:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.542168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 244.75104
+    },
+    {
+      "id": "rt_mm_fc72153daef8",
+      "price": 304.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31108",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 14400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2976",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:55:00",
+            "arrival": "2026-05-03T13:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.541168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 258.34832
+    },
+    {
+      "id": "rt_mm_2ff8b6693678",
+      "price": 304.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:50:00",
+            "arrival": "2026-04-30T18:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2976",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:55:00",
+            "arrival": "2026-05-03T13:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.541168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 258.34832
+    },
+    {
+      "id": "rt_mm_b96814fa38fd",
+      "price": 304.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31172",
+            "origin": "GRU",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:50:00",
+            "arrival": "2026-04-30T18:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 23100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2976",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:55:00",
+            "arrival": "2026-05-03T13:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.541168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 258.34832
+    },
+    {
+      "id": "rt_mm_bd350daf4a73",
+      "price": 304.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31110",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:50:00",
+            "arrival": "2026-04-30T13:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2976",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:55:00",
+            "arrival": "2026-05-03T13:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.541168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 258.34832
+    },
+    {
+      "id": "rt_mm_1c0d2519b08d",
+      "price": 305.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2769",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:30:00",
+            "arrival": "2026-04-30T06:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.542168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 259.19815
+    },
+    {
+      "id": "rt_mm_d4a4315dc136",
+      "price": 305.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2982",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:10:00",
+            "arrival": "2026-04-30T10:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.542168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 259.19815
+    },
+    {
+      "id": "rt_mm_0fce8e22ff53",
+      "price": 308.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31114",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:15:00",
+            "arrival": "2026-04-30T17:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:22:43.542168",
+      "booking_url": "https://www.momondo.com/flight-search/POA-CWB/2026-04-30",
+      "price_normalized": 261.74764
+    },
+    {
+      "id": "rt_62b90f4c84a4",
+      "price": 327.0,
+      "currency": "EUR",
+      "price_formatted": "327.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3161",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31104",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-01T06:40:00",
+            "arrival": "2026-05-01T07:45:00",
+            "duration_seconds": 3900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 65100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T23:15:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/curitiba-state-of-parana-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price&stopNumber=0"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:24:18.198557",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 327.0
+    },
+    {
+      "id": "combo_9afb02d78438",
+      "price": 343.61,
+      "currency": "EUR",
+      "price_formatted": "343.61 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2769",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T05:30:00",
+            "arrival": "2026-04-30T06:40:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4200,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31175",
+            "origin": "CWB",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:10:00-03:00",
+            "arrival": "2026-05-03T07:20:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:50:00-03:00",
+            "arrival": "2026-05-03T10:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:24:18.198557",
+      "booking_url": "",
+      "price_normalized": 343.61
+    },
+    {
+      "id": "combo_c8e17ea0969b",
+      "price": 348.47,
+      "currency": "EUR",
+      "price_formatted": "348.47 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3161",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31104",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-01T06:40:00",
+            "arrival": "2026-05-01T07:45:00",
+            "duration_seconds": 3900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 65100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:15:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 4500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 4500,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "G3|LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:24:18.198557",
+      "booking_url": "",
+      "price_normalized": 348.47
+    },
+    {
+      "id": "combo_509ebf27b857",
+      "price": 364.61,
+      "currency": "EUR",
+      "price_formatted": "364.61 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3161",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:40:00",
+            "arrival": "2026-04-30T15:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31104",
+            "origin": "CGH",
+            "destination": "CWB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-01T06:40:00",
+            "arrival": "2026-05-01T07:45:00",
+            "duration_seconds": 3900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 65100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31175",
+            "origin": "CWB",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:10:00-03:00",
+            "arrival": "2026-05-03T07:20:00-03:00",
+            "duration_seconds": 4200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:50:00-03:00",
+            "arrival": "2026-05-03T10:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 10500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/curitiba-state-of-parana-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CWB/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:24:18.198557",
+      "booking_url": "",
+      "price_normalized": 364.61
+    }
+  ]
+}

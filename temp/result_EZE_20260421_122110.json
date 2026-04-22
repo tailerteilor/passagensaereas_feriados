@@ -1,0 +1,1947 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "ek_ce7b56fa4fb6",
+      "price": 225.088,
+      "currency": "BRL",
+      "price_formatted": "BRL 225",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "EK",
+            "airline_name": "Emirates",
+            "flight_no": "EK",
+            "origin": "POA",
+            "destination": "EZE",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T00:00:00",
+            "arrival": "2026-05-01T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "EK",
+            "airline_name": "Emirates",
+            "flight_no": "EK",
+            "origin": "EZE",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:00:00",
+            "arrival": "2026-05-04T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "Emirates"
+      ],
+      "owner_airline": "EK",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "emirates_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:54.446086",
+      "booking_url": "https://www.emirates.com/booking/search-results/?searchRequest=eyJqb3VybmV5VHlwZSI6ICJSRVRVUk4iLCAiYm9va2luZ1R5cGUiOiAiUkVWRU5VRSIsICJwYXNzZW5nZXJzIjogW3sidHlwZSI6ICJBRFQiLCAiY291bnQiOiAxfV0sICJzZWdtZW50cyI6IFt7ImRlcGFydHVyZSI6ICJQT0EiLCAiYXJyaXZhbCI6ICJFWkUiLCAiZGVwYXJ0dXJlRGF0ZSI6ICIyMDI2LTA0LTMwIn0sIHsiZGVwYXJ0dXJlIjogIkVaRSIsICJhcnJpdmFsIjogIlBPQSIsICJkZXBhcnR1cmVEYXRlIjogIjIwMjYtMDUtMDMifV19",
+      "price_normalized": 38.535065599999996
+    },
+    {
+      "id": "rt_ss_02ebfedc8928",
+      "price": 447.98,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "Air Canada",
+            "flight_no": "AC90",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T14:30:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "FO",
+            "airline_name": "Flybondi",
+            "flight_no": "FO5902",
+            "origin": "EZE",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T20:05:00",
+            "arrival": "2026-05-03T23:00:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3427",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:15:00",
+            "arrival": "2026-05-05T00:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AC",
+        "FO",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 447.98
+    },
+    {
+      "id": "rt_ss_4516d1356d4b",
+      "price": 457.98,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "Air Canada",
+            "flight_no": "AC90",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T14:30:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "FO",
+            "airline_name": "Flybondi",
+            "flight_no": "FO5902",
+            "origin": "EZE",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T20:05:00",
+            "arrival": "2026-05-03T23:00:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3427",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:15:00",
+            "arrival": "2026-05-05T00:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AC",
+        "FO"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 457.98
+    },
+    {
+      "id": "rt_ss_38ca129e1a02",
+      "price": 467.26,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Santiago",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA542",
+            "origin": "SCL",
+            "destination": "EZE",
+            "origin_city": "Santiago",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T08:30:00",
+            "arrival": "2026-05-02T11:30:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "FO",
+            "airline_name": "Flybondi",
+            "flight_no": "FO5902",
+            "origin": "EZE",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T20:05:00",
+            "arrival": "2026-05-03T23:00:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3427",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:15:00",
+            "arrival": "2026-05-05T00:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "FO"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 467.26
+    },
+    {
+      "id": "rt_ss_e440d0a7f776",
+      "price": 503.31,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "Air Canada",
+            "flight_no": "AC90",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T14:30:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA5969",
+            "origin": "EZE",
+            "destination": "COR",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Cordoba",
+            "departure": "2026-05-03T07:00:00",
+            "arrival": "2026-05-03T08:30:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8049",
+            "origin": "COR",
+            "destination": "GRU",
+            "origin_city": "Cordoba",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T12:45:00",
+            "arrival": "2026-05-03T15:50:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3424",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:35:00",
+            "arrival": "2026-05-03T19:20:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "AC",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 503.31
+    },
+    {
+      "id": "rt_ss_4629ad60dde1",
+      "price": 505.99,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "Air Canada",
+            "flight_no": "AC90",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T14:30:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "KL",
+            "airline_name": "KLM",
+            "flight_no": "KL701",
+            "origin": "EZE",
+            "destination": "SCL",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Santiago",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:45:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AC",
+        "KL",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 505.99
+    },
+    {
+      "id": "rt_ss_493e0812d16c",
+      "price": 513.31,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "Air Canada",
+            "flight_no": "AC90",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T14:30:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA5969",
+            "origin": "EZE",
+            "destination": "COR",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Cordoba",
+            "departure": "2026-05-03T07:00:00",
+            "arrival": "2026-05-03T08:30:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8049",
+            "origin": "COR",
+            "destination": "GRU",
+            "origin_city": "Cordoba",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T12:45:00",
+            "arrival": "2026-05-03T15:50:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3424",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:35:00",
+            "arrival": "2026-05-03T19:20:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AC"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 513.31
+    },
+    {
+      "id": "rt_ss_a8616142cba3",
+      "price": 515.99,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "Air Canada",
+            "flight_no": "AC90",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T14:30:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "KL",
+            "airline_name": "KLM",
+            "flight_no": "KL701",
+            "origin": "EZE",
+            "destination": "SCL",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Santiago",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:45:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AC",
+        "KL"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 515.99
+    },
+    {
+      "id": "rt_ss_786838318d11",
+      "price": 519.11,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4539",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T20:25:00",
+            "arrival": "2026-04-30T22:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8130",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T22:00:00",
+            "arrival": "2026-05-02T01:00:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 102900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "FO",
+            "airline_name": "Flybondi",
+            "flight_no": "FO5902",
+            "origin": "EZE",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T20:05:00",
+            "arrival": "2026-05-03T23:00:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3427",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:15:00",
+            "arrival": "2026-05-05T00:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "FO"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.573190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 519.11
+    },
+    {
+      "id": "rt_ss_8710c308906e",
+      "price": 522.59,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Santiago",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA542",
+            "origin": "SCL",
+            "destination": "EZE",
+            "origin_city": "Santiago",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T08:30:00",
+            "arrival": "2026-05-02T11:30:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA5969",
+            "origin": "EZE",
+            "destination": "COR",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Cordoba",
+            "departure": "2026-05-03T07:00:00",
+            "arrival": "2026-05-03T08:30:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8049",
+            "origin": "COR",
+            "destination": "GRU",
+            "origin_city": "Cordoba",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T12:45:00",
+            "arrival": "2026-05-03T15:50:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3424",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:35:00",
+            "arrival": "2026-05-03T19:20:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 522.59
+    },
+    {
+      "id": "rt_ss_522dcb058ddb",
+      "price": 525.27,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Santiago",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA542",
+            "origin": "SCL",
+            "destination": "EZE",
+            "origin_city": "Santiago",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T08:30:00",
+            "arrival": "2026-05-02T11:30:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "KL",
+            "airline_name": "KLM",
+            "flight_no": "KL701",
+            "origin": "EZE",
+            "destination": "SCL",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Santiago",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:45:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "KL"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 525.27
+    },
+    {
+      "id": "rt_ss_59df1dff8f3b",
+      "price": 539.64,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3952",
+            "origin": "POA",
+            "destination": "BSB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Brasilia",
+            "departure": "2026-04-30T11:00:00",
+            "arrival": "2026-04-30T13:30:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3528",
+            "origin": "BSB",
+            "destination": "GRU",
+            "origin_city": "Brasilia",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T15:25:00",
+            "arrival": "2026-04-30T17:15:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8130",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T22:05:00",
+            "arrival": "2026-05-01T01:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 50700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "FO",
+            "airline_name": "Flybondi",
+            "flight_no": "FO5902",
+            "origin": "EZE",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T20:05:00",
+            "arrival": "2026-05-03T23:00:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3427",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:15:00",
+            "arrival": "2026-05-05T00:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "FO"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.573190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 539.64
+    },
+    {
+      "id": "rt_ss_b47c49449586",
+      "price": 550.98,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AC",
+            "airline_name": "Air Canada",
+            "flight_no": "AC90",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T14:30:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "FO",
+            "airline_name": "Flybondi",
+            "flight_no": "FO5900",
+            "origin": "EZE",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:15:00",
+            "arrival": "2026-05-03T14:10:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32092",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T21:25:00",
+            "arrival": "2026-05-03T23:40:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AC",
+        "FO"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:38:06.572190",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/eze/",
+      "price_normalized": 550.98
+    },
+    {
+      "id": "rt_c88a430e73dc",
+      "price": 681.0,
+      "currency": "EUR",
+      "price_formatted": "681.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8022",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T12:45:00",
+            "arrival": "2026-05-01T15:45:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 69300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "KL",
+            "airline_name": "KLM Royal Dutch Airlines",
+            "flight_no": "KL701",
+            "origin": "EZE",
+            "destination": "SCL",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-03T07:30:00",
+            "arrival": "2026-05-03T08:45:00",
+            "duration_seconds": 8100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 38700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "KL"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/buenos-aires-buenos-aires-argentina/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:39:39.961205",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 681.0
+    },
+    {
+      "id": "combo_cdca172caf2e",
+      "price": 898.59,
+      "currency": "EUR",
+      "price_formatted": "898.59 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3727",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2625",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T23:45:00",
+            "arrival": "2026-05-01T03:45:00",
+            "duration_seconds": 18000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25800",
+            "origin": "SCL",
+            "destination": "EZE",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T00:55:00",
+            "arrival": "2026-05-02T04:00:00",
+            "duration_seconds": 7500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "ET",
+            "airline_name": "",
+            "flight_no": "ET507",
+            "origin": "EZE",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:55:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "H2",
+        "LA",
+        "G3",
+        "ET"
+      ],
+      "owner_airline": "H2|LA|G3|ET",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/EZE/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:39:39.961205",
+      "booking_url": "",
+      "price_normalized": 898.59
+    },
+    {
+      "id": "combo_9493bde79be3",
+      "price": 903.59,
+      "currency": "EUR",
+      "price_formatted": "903.59 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA542",
+            "origin": "SCL",
+            "destination": "EZE",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T08:30:00",
+            "arrival": "2026-05-02T11:30:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "ET",
+            "airline_name": "",
+            "flight_no": "ET507",
+            "origin": "EZE",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:55:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "ET"
+      ],
+      "owner_airline": "LA|G3|ET",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/EZE/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:39:39.961205",
+      "booking_url": "",
+      "price_normalized": 903.59
+    },
+    {
+      "id": "combo_51391f3acf7a",
+      "price": 904.59,
+      "currency": "EUR",
+      "price_formatted": "904.59 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8022",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T12:45:00",
+            "arrival": "2026-05-01T15:45:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 95100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "ET",
+            "airline_name": "",
+            "flight_no": "ET507",
+            "origin": "EZE",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:55:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "ET"
+      ],
+      "owner_airline": "G3|LA|ET",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/EZE/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:39:39.961205",
+      "booking_url": "",
+      "price_normalized": 904.59
+    },
+    {
+      "id": "combo_e4240ea54809",
+      "price": 919.83,
+      "currency": "EUR",
+      "price_formatted": "919.83 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3727",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2625",
+            "origin": "GIG",
+            "destination": "SCL",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-04-30T23:45:00",
+            "arrival": "2026-05-01T03:45:00",
+            "duration_seconds": 18000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25800",
+            "origin": "SCL",
+            "destination": "EZE",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T00:55:00",
+            "arrival": "2026-05-02T04:00:00",
+            "duration_seconds": 7500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "ET",
+            "airline_name": "Ethiopian Airlines",
+            "flight_no": "ET507",
+            "origin": "EZE",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:55:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31236",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T13:55:00",
+            "arrival": "2026-05-04T15:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "H2",
+        "LA",
+        "ET",
+        "G3"
+      ],
+      "owner_airline": "H2|LA|ET|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=EZE&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:39:39.961205",
+      "booking_url": "",
+      "price_normalized": 919.83
+    },
+    {
+      "id": "combo_09ecbf40d980",
+      "price": 924.59,
+      "currency": "EUR",
+      "price_formatted": "924.59 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8022",
+            "origin": "GRU",
+            "destination": "EZE",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T12:45:00",
+            "arrival": "2026-05-01T15:45:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 69300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "ET",
+            "airline_name": "",
+            "flight_no": "ET507",
+            "origin": "EZE",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:55:00-03:00",
+            "arrival": "2026-05-04T00:30:00-03:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "G3",
+        "ET"
+      ],
+      "owner_airline": "AD|LA|G3|ET",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/EZE/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:39:39.961205",
+      "booking_url": "",
+      "price_normalized": 924.59
+    },
+    {
+      "id": "combo_0aac61a1f505",
+      "price": 924.83,
+      "currency": "EUR",
+      "price_formatted": "924.83 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA542",
+            "origin": "SCL",
+            "destination": "EZE",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T08:30:00",
+            "arrival": "2026-05-02T11:30:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "ET",
+            "airline_name": "Ethiopian Airlines",
+            "flight_no": "ET507",
+            "origin": "EZE",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:55:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31236",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T13:55:00",
+            "arrival": "2026-05-04T15:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 63900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "ET",
+        "G3"
+      ],
+      "owner_airline": "LA|ET|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=EZE&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:39:39.961205",
+      "booking_url": "",
+      "price_normalized": 924.83
+    }
+  ]
+}

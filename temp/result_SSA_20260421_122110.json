@@ -1,0 +1,1806 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_c7677bee87ad",
+      "price": 314.99,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3453",
+            "origin": "POA",
+            "destination": "CNF",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-04-30T05:00:00",
+            "arrival": "2026-04-30T07:10:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD9107",
+            "origin": "CNF",
+            "destination": "SSA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T03:30:00",
+            "arrival": "2026-05-01T05:15:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 87300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:37.198091",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/ssa/",
+      "price_normalized": 314.99
+    },
+    {
+      "id": "rt_ss_1108d79943df",
+      "price": 323.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T15:15:00",
+            "arrival": "2026-05-01T17:35:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:37.198091",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/ssa/",
+      "price_normalized": 323.0
+    },
+    {
+      "id": "rt_c77206d7a6b8",
+      "price": 352.0,
+      "currency": "EUR",
+      "price_formatted": "352.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:10:07.630665",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 352.0
+    },
+    {
+      "id": "rt_ada8d78e586b",
+      "price": 354.0,
+      "currency": "EUR",
+      "price_formatted": "354.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T15:15:00",
+            "arrival": "2026-05-01T17:35:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:10:07.630665",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 354.0
+    },
+    {
+      "id": "rt_ss_69c71781a969",
+      "price": 355.79,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31696",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T01:30:00",
+            "duration_seconds": 8700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:37.198091",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/ssa/",
+      "price_normalized": 355.79
+    },
+    {
+      "id": "rt_ss_46eb3c408889",
+      "price": 356.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:37.198091",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/ssa/",
+      "price_normalized": 356.0
+    },
+    {
+      "id": "rt_ss_7f4b1ae4cb09",
+      "price": 356.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:37.198091",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/ssa/",
+      "price_normalized": 356.0
+    },
+    {
+      "id": "rt_d0c34562358d",
+      "price": 358.0,
+      "currency": "EUR",
+      "price_formatted": "358.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 67800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/salvador-state-of-bahia-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:10:07.630665",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 358.0
+    },
+    {
+      "id": "rt_ss_6ae8100cbcb2",
+      "price": 358.09,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31271",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:40:00",
+            "arrival": "2026-04-30T08:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "Salvador",
+            "destination_city": "Belo Horizonte",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "Belo Horizonte",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:37.198091",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/ssa/",
+      "price_normalized": 358.09
+    },
+    {
+      "id": "combo_439dd5dd9422",
+      "price": 377.52,
+      "currency": "EUR",
+      "price_formatted": "377.52 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 75900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3359",
+            "origin": "SSA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T03:05:00-03:00",
+            "arrival": "2026-05-03T05:35:00-03:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SSA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:10:07.634012",
+      "booking_url": "",
+      "price_normalized": 377.52
+    },
+    {
+      "id": "combo_b21c5176c35c",
+      "price": 378.52,
+      "currency": "EUR",
+      "price_formatted": "378.52 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Salvador",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3359",
+            "origin": "SSA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T03:05:00-03:00",
+            "arrival": "2026-05-03T05:35:00-03:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/salvador-state-of-bahia-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SSA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:10:07.634012",
+      "booking_url": "",
+      "price_normalized": 378.52
+    },
+    {
+      "id": "rt_mm_f4dd37d402a4",
+      "price": 397.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.796212",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 337.38250999999997
+    },
+    {
+      "id": "rt_mm_b1044aac053c",
+      "price": 402.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.796212",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 341.63166
+    },
+    {
+      "id": "rt_mm_7073c7dee304",
+      "price": 402.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31696",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T01:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.796212",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 341.63166
+    },
+    {
+      "id": "rt_mm_6db7c600e71d",
+      "price": 408.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.796212",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 346.73064
+    },
+    {
+      "id": "rt_mm_394863af2420",
+      "price": 411.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2686",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T07:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD9001",
+            "origin": "VCP",
+            "destination": "AJU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:10:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32113",
+            "origin": "AJU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T13:05:00",
+            "arrival": "2026-04-30T13:55:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.796212",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 349.28013
+    },
+    {
+      "id": "rt_mm_b7df6b506442",
+      "price": 414.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.796212",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 351.82962
+    },
+    {
+      "id": "rt_mm_d45817421ced",
+      "price": 416.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31692",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T15:10:00",
+            "arrival": "2026-04-30T17:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.797226",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 353.52927999999997
+    },
+    {
+      "id": "rt_mm_8422ef5bc7b3",
+      "price": 416.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31273",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31356",
+            "origin": "GRU",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T16:55:00",
+            "arrival": "2026-04-30T19:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.797226",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 353.52927999999997
+    },
+    {
+      "id": "rt_mm_36616bf8ef43",
+      "price": 424.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31630",
+            "origin": "CGH",
+            "destination": "SSA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T12:55:00",
+            "arrival": "2026-05-01T15:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31950",
+            "origin": "SSA",
+            "destination": "CNF",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:40:00",
+            "arrival": "2026-05-04T01:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2923",
+            "origin": "CNF",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T16:08:12.797226",
+      "booking_url": "https://www.momondo.com/flight-search/POA-SSA/2026-04-30",
+      "price_normalized": 360.32792
+    }
+  ]
+}

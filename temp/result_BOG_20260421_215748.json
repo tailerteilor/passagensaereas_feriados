@@ -1,0 +1,1850 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "combo_5650c2844047",
+      "price": 726.17,
+      "currency": "EUR",
+      "price_formatted": "726.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2386",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T13:00:00",
+            "arrival": "2026-04-30T16:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 113100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "LA|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=BOG&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.559150",
+      "booking_url": "",
+      "price_normalized": 726.17
+    },
+    {
+      "id": "combo_15c9ad80f489",
+      "price": 748.27,
+      "currency": "EUR",
+      "price_formatted": "748.27 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2386",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T13:00:00",
+            "arrival": "2026-04-30T16:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:45:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 20400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "LA|G3|AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/BOG/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.559150",
+      "booking_url": "",
+      "price_normalized": 748.27
+    },
+    {
+      "id": "combo_7830830972ad",
+      "price": 750.17,
+      "currency": "EUR",
+      "price_formatted": "750.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM243",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T07:50:00",
+            "arrival": "2026-04-30T09:29:00",
+            "duration_seconds": 5940,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35640,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 113100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "CM|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=BOG&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.559150",
+      "booking_url": "",
+      "price_normalized": 750.17
+    },
+    {
+      "id": "rt_617cd0e933fa",
+      "price": 756.0,
+      "currency": "EUR",
+      "price_formatted": "756.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2386",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T13:00:00",
+            "arrival": "2026-04-30T16:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T21:45:00",
+            "arrival": "2026-05-04T05:25:00",
+            "duration_seconds": 20400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AV"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/bogota-colombia/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.556137",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 756.0
+    },
+    {
+      "id": "combo_f131e9744dbb",
+      "price": 772.27,
+      "currency": "EUR",
+      "price_formatted": "772.27 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM243",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T07:50:00",
+            "arrival": "2026-04-30T09:29:00",
+            "duration_seconds": 5940,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35640,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:45:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 20400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "CM|G3|AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/BOG/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.559150",
+      "booking_url": "",
+      "price_normalized": 772.27
+    },
+    {
+      "id": "combo_785d0bd3d97b",
+      "price": 794.16,
+      "currency": "EUR",
+      "price_formatted": "794.16 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2386",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T13:00:00",
+            "arrival": "2026-04-30T16:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G38243",
+            "origin": "BOG",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:33:00-05:00",
+            "arrival": "2026-05-04T06:45:00-03:00",
+            "duration_seconds": 18720,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31794",
+            "origin": "BSB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:00:00-03:00",
+            "arrival": "2026-05-04T11:45:00-03:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28620,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/BOG/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.559150",
+      "booking_url": "",
+      "price_normalized": 794.16
+    },
+    {
+      "id": "combo_7dde77970bda",
+      "price": 818.16,
+      "currency": "EUR",
+      "price_formatted": "818.16 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM243",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T07:50:00",
+            "arrival": "2026-04-30T09:29:00",
+            "duration_seconds": 5940,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35640,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G38243",
+            "origin": "BOG",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:33:00-05:00",
+            "arrival": "2026-05-04T06:45:00-03:00",
+            "duration_seconds": 18720,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31794",
+            "origin": "BSB",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:00:00-03:00",
+            "arrival": "2026-05-04T11:45:00-03:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28620,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "G3"
+      ],
+      "owner_airline": "CM|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/BOG/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.561148",
+      "booking_url": "",
+      "price_normalized": 818.16
+    },
+    {
+      "id": "combo_b007c81c24c4",
+      "price": 848.17,
+      "currency": "EUR",
+      "price_formatted": "848.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV4748",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 113100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=BOG&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.561148",
+      "booking_url": "",
+      "price_normalized": 848.17
+    },
+    {
+      "id": "rt_skip_6e1f937c5dde",
+      "price": 873.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM243",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:50:00-05:00",
+            "arrival": "2026-04-30T09:29:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:45:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 20400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV4745",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 741.9015899999999
+    },
+    {
+      "id": "rt_skip_e61287029f8a",
+      "price": 873.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM274",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:31:00-05:00",
+            "arrival": "2026-04-30T10:10:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:45:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 20400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV4745",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 741.9015899999999
+    },
+    {
+      "id": "rt_skip_4688f50ad4ba",
+      "price": 873.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM332",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:27:00-05:00",
+            "arrival": "2026-04-30T11:06:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:45:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 20400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV4745",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 741.9015899999999
+    },
+    {
+      "id": "rt_skip_e578989a6bcd",
+      "price": 873.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM415",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:50:00-05:00",
+            "arrival": "2026-04-30T13:29:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:45:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 20400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV4745",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 741.9015899999999
+    },
+    {
+      "id": "rt_08a2851360da",
+      "price": 878.0,
+      "currency": "EUR",
+      "price_formatted": "878.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV4748",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T21:45:00",
+            "arrival": "2026-05-04T05:25:00",
+            "duration_seconds": 20400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV"
+      ],
+      "owner_airline": "AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/bogota-colombia/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.557153",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 878.0
+    },
+    {
+      "id": "rt_skip_922fcd0f067b",
+      "price": 884.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM243",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:50:00-05:00",
+            "arrival": "2026-04-30T09:29:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 751.24972
+    },
+    {
+      "id": "rt_skip_1466a94e92d0",
+      "price": 884.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM274",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:31:00-05:00",
+            "arrival": "2026-04-30T10:10:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 751.24972
+    },
+    {
+      "id": "rt_skip_3c6a4eb2f248",
+      "price": 884.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM332",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:27:00-05:00",
+            "arrival": "2026-04-30T11:06:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 751.24972
+    },
+    {
+      "id": "rt_skip_ceec2f443958",
+      "price": 884.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM415",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:50:00-05:00",
+            "arrival": "2026-04-30T13:29:00-05:00",
+            "duration_seconds": 5940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31560,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 28500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:15:27.566941",
+      "booking_url": "https://skiplagged.com/flights/POA/BOG/2026-04-30",
+      "price_normalized": 751.24972
+    },
+    {
+      "id": "combo_8f34d8cd6c50",
+      "price": 902.17,
+      "currency": "EUR",
+      "price_formatted": "902.17 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV50",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T11:45:00",
+            "arrival": "2026-04-30T15:00:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 113100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "AV|LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=BOG&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.562149",
+      "booking_url": "",
+      "price_normalized": 902.17
+    },
+    {
+      "id": "rt_f2fe06cf7490",
+      "price": 988.0,
+      "currency": "EUR",
+      "price_formatted": "988.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G37230",
+            "origin": "GRU",
+            "destination": "CCS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Caracas",
+            "departure": "2026-04-30T17:00:00",
+            "arrival": "2026-04-30T22:05:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "P5",
+            "airline_name": "Wingo airlines",
+            "flight_no": "P57009",
+            "origin": "CCS",
+            "destination": "BOG",
+            "origin_city": "Caracas",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T12:00:00",
+            "arrival": "2026-05-01T12:55:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 92100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T21:45:00",
+            "arrival": "2026-05-04T05:25:00",
+            "duration_seconds": 20400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "P5",
+        "AV"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/bogota-colombia/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.558159",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 988.0
+    },
+    {
+      "id": "rt_49481cc69bfd",
+      "price": 1007.0,
+      "currency": "EUR",
+      "price_formatted": "1007.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2885",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T08:25:00",
+            "arrival": "2026-04-30T10:20:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV146",
+            "origin": "GIG",
+            "destination": "BOG",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T16:40:00",
+            "arrival": "2026-04-30T21:05:00",
+            "duration_seconds": 23100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T21:45:00",
+            "arrival": "2026-05-04T05:25:00",
+            "duration_seconds": 20400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 86400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AV"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/bogota-colombia/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:19:16.558159",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/bogota-colombia/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1007.0
+    }
+  ]
+}

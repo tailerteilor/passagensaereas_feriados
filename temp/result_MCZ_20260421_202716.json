@@ -1,0 +1,1820 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_cf778b15c696",
+      "price": 292.0,
+      "currency": "EUR",
+      "price_formatted": "292.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39072",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-05-01T00:05:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "Macei\u00f3",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T10:05:00",
+            "arrival": "2026-05-03T10:55:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "Recife",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 41100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/maceio-state-of-alagoas-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.195049",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 292.0
+    },
+    {
+      "id": "rt_279c8940f49f",
+      "price": 300.5,
+      "currency": "EUR",
+      "price_formatted": "300.50 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3446",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-04-30T07:45:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "Macei\u00f3",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T10:05:00",
+            "arrival": "2026-05-03T10:55:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "Recife",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 41100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/maceio-state-of-alagoas-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.195049",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 300.5
+    },
+    {
+      "id": "combo_4c0d7fbb35c7",
+      "price": 306.03,
+      "currency": "EUR",
+      "price_formatted": "306.03 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39072",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-05-01T00:05:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3"
+      ],
+      "owner_airline": "AD|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MCZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.199059",
+      "booking_url": "",
+      "price_normalized": 306.03
+    },
+    {
+      "id": "rt_63cc455597a2",
+      "price": 308.0,
+      "currency": "EUR",
+      "price_formatted": "308.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39072",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-05-01T00:05:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "Macei\u00f3",
+            "destination_city": "Recife",
+            "departure": "2026-05-03T10:05:00",
+            "arrival": "2026-05-03T10:55:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "Recife",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T17:00:00",
+            "arrival": "2026-05-03T21:30:00",
+            "duration_seconds": 16200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 41100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/maceio-state-of-alagoas-brazil/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.195049",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 308.0
+    },
+    {
+      "id": "combo_6360bc7a1c04",
+      "price": 314.53,
+      "currency": "EUR",
+      "price_formatted": "314.53 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3446",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-04-30T07:45:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MCZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.199059",
+      "booking_url": "",
+      "price_normalized": 314.53
+    },
+    {
+      "id": "combo_b81ee574f8d2",
+      "price": 322.03,
+      "currency": "EUR",
+      "price_formatted": "322.03 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39072",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-05-01T00:05:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MCZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.199059",
+      "booking_url": "",
+      "price_normalized": 322.03
+    },
+    {
+      "id": "rt_skip_612d2c798720",
+      "price": 327.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:20:00-03:00",
+            "arrival": "2026-04-30T07:55:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3448",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:25:00-03:00",
+            "arrival": "2026-04-30T17:15:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.231652",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 277.89441
+    },
+    {
+      "id": "combo_6360bc7a1c04",
+      "price": 328.03,
+      "currency": "EUR",
+      "price_formatted": "328.03 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3448",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-04-30T14:25:00",
+            "arrival": "2026-04-30T17:15:00",
+            "duration_seconds": 10200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MCZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.199059",
+      "booking_url": "",
+      "price_normalized": 328.03
+    },
+    {
+      "id": "rt_skip_387bc2782c37",
+      "price": 343.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3448",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T15:10:00-03:00",
+            "arrival": "2026-05-01T18:00:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.231652",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 291.49169
+    },
+    {
+      "id": "rt_skip_806924d1c5f6",
+      "price": 343.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:45:00-03:00",
+            "arrival": "2026-04-30T08:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3707",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T00:50:00-03:00",
+            "arrival": "2026-05-01T03:40:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.231652",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 291.49169
+    },
+    {
+      "id": "rt_skip_195fcb42bbfb",
+      "price": 343.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3452",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T20:15:00-03:00",
+            "arrival": "2026-05-01T23:05:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.231652",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 291.49169
+    },
+    {
+      "id": "rt_skip_830c3f64e5c6",
+      "price": 343.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3198",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T23:15:00-03:00",
+            "arrival": "2026-05-02T02:05:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.231652",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 291.49169
+    },
+    {
+      "id": "rt_skip_c09df5742678",
+      "price": 343.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:45:00-03:00",
+            "arrival": "2026-04-30T08:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3446",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T07:45:00-03:00",
+            "arrival": "2026-05-01T10:35:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.231652",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 291.49169
+    },
+    {
+      "id": "rt_skip_564cf28b95df",
+      "price": 350.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:10:00-03:00",
+            "arrival": "2026-04-30T06:45:00-03:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3448",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T14:25:00-03:00",
+            "arrival": "2026-04-30T17:15:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 15900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.232651",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 297.4405
+    },
+    {
+      "id": "rt_skip_0c8b2abdab98",
+      "price": 350.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:45:00-03:00",
+            "arrival": "2026-04-30T08:30:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3450",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T09:45:00-03:00",
+            "arrival": "2026-05-01T12:35:00-03:00",
+            "duration_seconds": 10200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.232651",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 297.4405
+    },
+    {
+      "id": "rt_skip_752eb91ab82a",
+      "price": 350.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3952",
+            "origin": "POA",
+            "destination": "BSB",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:00:00-03:00",
+            "arrival": "2026-04-30T13:30:00-03:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3760",
+            "origin": "BSB",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:50:00-03:00",
+            "arrival": "2026-05-01T19:15:00-03:00",
+            "duration_seconds": 8700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.232651",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 297.4405
+    },
+    {
+      "id": "rt_skip_571644ad05cc",
+      "price": 356.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T22:50:00-03:00",
+            "arrival": "2026-05-01T00:35:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3118",
+            "origin": "CGH",
+            "destination": "MCZ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T14:50:00-03:00",
+            "arrival": "2026-05-01T17:45:00-03:00",
+            "duration_seconds": 10500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 16800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4557",
+            "origin": "MCZ",
+            "destination": "REC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:05:00-03:00",
+            "arrival": "2026-05-03T10:55:00-03:00",
+            "duration_seconds": 3000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "",
+            "flight_no": "AD4150",
+            "origin": "REC",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:00:00-03:00",
+            "arrival": "2026-05-03T21:30:00-03:00",
+            "duration_seconds": 16200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 19200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:45:11.232651",
+      "booking_url": "https://skiplagged.com/flights/POA/MCZ/2026-04-30",
+      "price_normalized": 302.53947999999997
+    },
+    {
+      "id": "combo_8198c583155c",
+      "price": 363.82,
+      "currency": "EUR",
+      "price_formatted": "363.82 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39072",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-05-01T00:05:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3606",
+            "origin": "MCZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:00:00-03:00",
+            "arrival": "2026-05-03T08:10:00-03:00",
+            "duration_seconds": 11400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AD|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MCZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.202567",
+      "booking_url": "",
+      "price_normalized": 363.82
+    },
+    {
+      "id": "combo_59e7279e271e",
+      "price": 379.82,
+      "currency": "EUR",
+      "price_formatted": "379.82 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39072",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-05-01T00:05:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3606",
+            "origin": "MCZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:00:00-03:00",
+            "arrival": "2026-05-03T08:10:00-03:00",
+            "duration_seconds": 11400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MCZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.203563",
+      "booking_url": "",
+      "price_normalized": 379.82
+    },
+    {
+      "id": "combo_eda76d447d12",
+      "price": 383.32,
+      "currency": "EUR",
+      "price_formatted": "383.32 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G39072",
+            "origin": "GRU",
+            "destination": "MCZ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Macei\u00f3",
+            "departure": "2026-05-01T00:05:00",
+            "arrival": "2026-05-01T03:05:00",
+            "duration_seconds": 10800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3606",
+            "origin": "MCZ",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:00:00-03:00",
+            "arrival": "2026-05-03T08:10:00-03:00",
+            "duration_seconds": 11400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:30:00-03:00",
+            "arrival": "2026-05-03T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "G3|AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/maceio-state-of-alagoas-brazil/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MCZ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:49:40.203563",
+      "booking_url": "",
+      "price_normalized": 383.32
+    }
+  ]
+}

@@ -1,0 +1,1970 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_5be344597fe7",
+      "price": 431.0,
+      "currency": "EUR",
+      "price_formatted": "431.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 431.0
+    },
+    {
+      "id": "rt_fea673389972",
+      "price": 440.0,
+      "currency": "EUR",
+      "price_formatted": "440.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 440.0
+    },
+    {
+      "id": "rt_41a8db3642f6",
+      "price": 443.0,
+      "currency": "EUR",
+      "price_formatted": "443.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T15:05:00",
+            "arrival": "2026-05-01T17:45:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 443.0
+    },
+    {
+      "id": "rt_965e7affeb2f",
+      "price": 443.0,
+      "currency": "EUR",
+      "price_formatted": "443.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8016",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T22:25:00",
+            "arrival": "2026-05-02T01:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 94500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 443.0
+    },
+    {
+      "id": "rt_55dd9d565e36",
+      "price": 458.0,
+      "currency": "EUR",
+      "price_formatted": "458.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3219",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T17:50:00",
+            "arrival": "2026-04-30T19:25:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8016",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T22:45:00",
+            "arrival": "2026-05-01T01:20:00",
+            "duration_seconds": 9300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 458.0
+    },
+    {
+      "id": "rt_426898b255b1",
+      "price": 458.0,
+      "currency": "EUR",
+      "price_formatted": "458.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3417",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 458.0
+    },
+    {
+      "id": "rt_0bac4e352218",
+      "price": 469.0,
+      "currency": "EUR",
+      "price_formatted": "469.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3727",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA762",
+            "origin": "GIG",
+            "destination": "MVD",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T11:00:00",
+            "arrival": "2026-04-30T14:14:00",
+            "duration_seconds": 11640,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 29640,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "JA",
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 469.0
+    },
+    {
+      "id": "rt_ss_3c28fdf050ac",
+      "price": 482.84,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3151",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:20:00",
+            "arrival": "2026-04-30T07:55:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 41100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32092",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T21:25:00",
+            "arrival": "2026-05-03T23:40:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "H2",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:50.371752",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mvd/",
+      "price_normalized": 482.84
+    },
+    {
+      "id": "rt_ss_8cc6fc207bc8",
+      "price": 482.84,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32092",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T21:25:00",
+            "arrival": "2026-05-03T23:40:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "H2",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:50.371752",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mvd/",
+      "price_normalized": 482.84
+    },
+    {
+      "id": "rt_ss_664a023cf76c",
+      "price": 495.48,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3153",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T08:50:00",
+            "arrival": "2026-04-30T10:25:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 32100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32092",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T21:25:00",
+            "arrival": "2026-05-03T23:40:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "H2",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:50.371752",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mvd/",
+      "price_normalized": 495.48
+    },
+    {
+      "id": "rt_53c4a7a45d15",
+      "price": 496.0,
+      "currency": "EUR",
+      "price_formatted": "496.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3417",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA762",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T13:15:00",
+            "arrival": "2026-04-30T15:55:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 496.0
+    },
+    {
+      "id": "rt_ss_2d1547636cda",
+      "price": 503.53,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32092",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T21:25:00",
+            "arrival": "2026-05-03T23:40:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "H2",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:50.371752",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mvd/",
+      "price_normalized": 503.53
+    },
+    {
+      "id": "rt_2d7864d4e6c5",
+      "price": 513.0,
+      "currency": "EUR",
+      "price_formatted": "513.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G32086",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T10:05:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 90600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "H2"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 513.0
+    },
+    {
+      "id": "rt_ss_4cd5ea075ac0",
+      "price": 519.62,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3219",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T17:50:00",
+            "arrival": "2026-04-30T19:25:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8016",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T22:45:00",
+            "arrival": "2026-05-01T01:20:00",
+            "duration_seconds": 9300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32092",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T21:25:00",
+            "arrival": "2026-05-03T23:40:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "H2",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:50.375772",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mvd/",
+      "price_normalized": 519.62
+    },
+    {
+      "id": "rt_ss_0d65e23c4b7d",
+      "price": 519.62,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3417",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T10:00:00",
+            "arrival": "2026-04-30T11:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 27900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32092",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T21:25:00",
+            "arrival": "2026-05-03T23:40:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "H2",
+        "G3"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:50.377769",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mvd/",
+      "price_normalized": 519.62
+    },
+    {
+      "id": "rt_b8c1b1339ac9",
+      "price": 525.0,
+      "currency": "EUR",
+      "price_formatted": "525.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T15:05:00",
+            "arrival": "2026-05-01T17:45:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G32086",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T10:05:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 90600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "H2"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 525.0
+    },
+    {
+      "id": "rt_f6bde42fd04b",
+      "price": 525.0,
+      "currency": "EUR",
+      "price_formatted": "525.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8016",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T22:25:00",
+            "arrival": "2026-05-02T01:05:00",
+            "duration_seconds": 9600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 94500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H21810",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "Montevideo",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T11:05:00",
+            "arrival": "2026-05-03T13:50:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G32086",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T10:05:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 90600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3",
+        "H2"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 525.0
+    },
+    {
+      "id": "rt_215ff1652ba7",
+      "price": 537.0,
+      "currency": "EUR",
+      "price_formatted": "537.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G32091",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T19:40:00",
+            "arrival": "2026-04-30T21:35:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G37686",
+            "origin": "GIG",
+            "destination": "MVD",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T22:35:00",
+            "arrival": "2026-05-01T01:50:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 22200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "AD",
+        "AR"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.145459",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 537.0
+    },
+    {
+      "id": "rt_df48683340a3",
+      "price": 554.0,
+      "currency": "EUR",
+      "price_formatted": "554.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1233",
+            "origin": "POA",
+            "destination": "AEP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T21:25:00",
+            "arrival": "2026-04-30T23:20:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1382",
+            "origin": "AEP",
+            "destination": "MVD",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Montevideo",
+            "departure": "2026-05-01T07:55:00",
+            "arrival": "2026-05-01T08:45:00",
+            "duration_seconds": 3000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1391",
+            "origin": "MVD",
+            "destination": "AEP",
+            "origin_city": "Montevideo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-03T21:40:00",
+            "arrival": "2026-05-03T22:35:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1226",
+            "origin": "AEP",
+            "destination": "CWB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Curitiba",
+            "departure": "2026-05-04T05:25:00",
+            "arrival": "2026-05-04T07:35:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2746",
+            "origin": "CWB",
+            "destination": "POA",
+            "origin_city": "Curitiba",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T23:15:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 4500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 96600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AR",
+        "AD"
+      ],
+      "owner_airline": "AR",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/montevideo-uruguay/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.146473",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 554.0
+    },
+    {
+      "id": "combo_cdb487a81292",
+      "price": 588.52,
+      "currency": "EUR",
+      "price_formatted": "588.52 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8110",
+            "origin": "GRU",
+            "destination": "MVD",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Montevideo",
+            "departure": "2026-04-30T15:00:00",
+            "arrival": "2026-04-30T17:45:00",
+            "duration_seconds": 9900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G37683",
+            "origin": "MVD",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T02:50:00-03:00",
+            "arrival": "2026-05-03T05:30:00-03:00",
+            "duration_seconds": 9600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G32084",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T07:15:00-03:00",
+            "arrival": "2026-05-03T09:20:00-03:00",
+            "duration_seconds": 7500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 17100,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/montevideo-uruguay/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MVD/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:19.147457",
+      "booking_url": "",
+      "price_normalized": 588.52
+    }
+  ]
+}

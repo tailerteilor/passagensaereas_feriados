@@ -1,0 +1,1761 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "combo_38881da1a44c",
+      "price": 914.96,
+      "currency": "EUR",
+      "price_formatted": "914.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP94",
+            "origin": "GRU",
+            "destination": "OPO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto",
+            "departure": "2026-04-30T20:35:00",
+            "arrival": "2026-05-01T10:45:00",
+            "duration_seconds": 36600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP1927",
+            "origin": "OPO",
+            "destination": "LIS",
+            "origin_city": "Porto",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T12:00:00",
+            "arrival": "2026-05-01T12:55:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "TP",
+        "AD",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "G3|TP|AD|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 914.96
+    },
+    {
+      "id": "combo_38881da1a44c",
+      "price": 916.96,
+      "currency": "EUR",
+      "price_formatted": "916.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8146",
+            "origin": "GRU",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-04-30T17:40:00",
+            "arrival": "2026-05-01T07:10:00",
+            "duration_seconds": 34200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "AD|LA|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 916.96
+    },
+    {
+      "id": "combo_38881da1a44c",
+      "price": 918.96,
+      "currency": "EUR",
+      "price_formatted": "918.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8752",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-04-30T21:40:00",
+            "arrival": "2026-05-01T11:20:00",
+            "duration_seconds": 34800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 67800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "AD|G3|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 918.96
+    },
+    {
+      "id": "combo_38881da1a44c",
+      "price": 920.46,
+      "currency": "EUR",
+      "price_formatted": "920.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8146",
+            "origin": "GRU",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-04-30T17:40:00",
+            "arrival": "2026-05-01T07:10:00",
+            "duration_seconds": 34200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "G3|LA|AD|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 920.46
+    },
+    {
+      "id": "combo_38881da1a44c",
+      "price": 920.96,
+      "currency": "EUR",
+      "price_formatted": "920.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2718",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T14:20:00",
+            "arrival": "2026-04-30T16:00:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8900",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-04-30T18:10:00",
+            "arrival": "2026-05-01T08:00:00",
+            "duration_seconds": 35400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 49200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "AD|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 920.96
+    },
+    {
+      "id": "combo_76831d73fdb7",
+      "price": 969.52,
+      "currency": "EUR",
+      "price_formatted": "969.52 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP94",
+            "origin": "GRU",
+            "destination": "OPO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto",
+            "departure": "2026-04-30T20:35:00",
+            "arrival": "2026-05-01T10:45:00",
+            "duration_seconds": 36600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP1927",
+            "origin": "OPO",
+            "destination": "LIS",
+            "origin_city": "Porto",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T12:00:00",
+            "arrival": "2026-05-01T12:55:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "FNC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:00:00",
+            "arrival": "2026-05-03T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "TP",
+        "AD",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "G3|TP|AD|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 969.52
+    },
+    {
+      "id": "combo_b3f60f905eeb",
+      "price": 985.96,
+      "currency": "EUR",
+      "price_formatted": "985.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8900",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T21:20:00",
+            "arrival": "2026-05-02T11:00:00",
+            "duration_seconds": 34800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 124200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "AD|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 985.96
+    },
+    {
+      "id": "combo_4c6640f3b4a6",
+      "price": 1011.96,
+      "currency": "EUR",
+      "price_formatted": "1011.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8900",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T21:20:00",
+            "arrival": "2026-05-02T11:00:00",
+            "duration_seconds": 34800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 115800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "AD|LA|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 1011.96
+    },
+    {
+      "id": "combo_9d2246c87fa8",
+      "price": 1027.96,
+      "currency": "EUR",
+      "price_formatted": "1027.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8148",
+            "origin": "GRU",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T22:50:00",
+            "arrival": "2026-05-02T12:20:00",
+            "duration_seconds": 34200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 120600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "BCN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-02T00:00:00",
+            "arrival": "2026-05-02T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "LA|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 1027.96
+    },
+    {
+      "id": "combo_2340e9c73ab3",
+      "price": 1040.52,
+      "currency": "EUR",
+      "price_formatted": "1040.52 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8900",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T21:20:00",
+            "arrival": "2026-05-02T11:00:00",
+            "duration_seconds": 34800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 124200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "FNC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:00:00",
+            "arrival": "2026-05-03T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "AD|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 1040.52
+    },
+    {
+      "id": "combo_65403dc2da12",
+      "price": 1066.52,
+      "currency": "EUR",
+      "price_formatted": "1066.52 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8900",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T21:20:00",
+            "arrival": "2026-05-02T11:00:00",
+            "duration_seconds": 34800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 115800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "FNC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:00:00",
+            "arrival": "2026-05-03T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "AD|LA|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 1066.52
+    },
+    {
+      "id": "combo_3f8278e0956f",
+      "price": 1082.52,
+      "currency": "EUR",
+      "price_formatted": "1082.52 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8148",
+            "origin": "GRU",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T22:50:00",
+            "arrival": "2026-05-02T12:20:00",
+            "duration_seconds": 34200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 120600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Air Portugal",
+            "flight_no": "",
+            "origin": "LIS",
+            "destination": "FNC",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:00:00",
+            "arrival": "2026-05-03T00:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 0,
+        "stopovers": 0
+      },
+      "airlines": [
+        "LA",
+        "TAP Air Portugal"
+      ],
+      "owner_airline": "LA|TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.flytap.com/booking/flights",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "tap_direct"
+      },
+      "source": "combo:kiwi_connector+tap_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.162138",
+      "booking_url": "",
+      "price_normalized": 1082.52
+    },
+    {
+      "id": "rt_0a40759da928",
+      "price": 1202.0,
+      "currency": "EUR",
+      "price_formatted": "1202.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP94",
+            "origin": "GRU",
+            "destination": "OPO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto",
+            "departure": "2026-04-30T20:35:00",
+            "arrival": "2026-05-01T10:45:00",
+            "duration_seconds": 36600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP1927",
+            "origin": "OPO",
+            "destination": "LIS",
+            "origin_city": "Porto",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T12:00:00",
+            "arrival": "2026-05-01T12:55:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8753",
+            "origin": "LIS",
+            "destination": "VCP",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T13:05:00",
+            "arrival": "2026-05-03T19:40:00",
+            "duration_seconds": 38100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 119700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "TP",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lisbon-portugal/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.156136",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1202.0
+    },
+    {
+      "id": "rt_0a40759da928",
+      "price": 1204.0,
+      "currency": "EUR",
+      "price_formatted": "1204.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8146",
+            "origin": "GRU",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-04-30T17:40:00",
+            "arrival": "2026-05-01T07:10:00",
+            "duration_seconds": 34200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 72300,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8753",
+            "origin": "LIS",
+            "destination": "VCP",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T13:05:00",
+            "arrival": "2026-05-03T19:40:00",
+            "duration_seconds": 38100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 119700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lisbon-portugal/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.156136",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1204.0
+    },
+    {
+      "id": "rt_7b11e08ebbdf",
+      "price": 1273.0,
+      "currency": "EUR",
+      "price_formatted": "1273.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8900",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T21:20:00",
+            "arrival": "2026-05-02T11:00:00",
+            "duration_seconds": 34800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 124200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8753",
+            "origin": "LIS",
+            "destination": "VCP",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T13:05:00",
+            "arrival": "2026-05-03T19:40:00",
+            "duration_seconds": 38100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 119700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lisbon-portugal/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.157139",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1273.0
+    },
+    {
+      "id": "rt_be6f66f7fc73",
+      "price": 1299.0,
+      "currency": "EUR",
+      "price_formatted": "1299.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8900",
+            "origin": "VCP",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T21:20:00",
+            "arrival": "2026-05-02T11:00:00",
+            "duration_seconds": 34800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 115800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8753",
+            "origin": "LIS",
+            "destination": "VCP",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T13:05:00",
+            "arrival": "2026-05-03T19:40:00",
+            "duration_seconds": 38100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 119700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lisbon-portugal/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.157139",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1299.0
+    },
+    {
+      "id": "rt_501dbe9a86ab",
+      "price": 1315.0,
+      "currency": "EUR",
+      "price_formatted": "1315.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8148",
+            "origin": "GRU",
+            "destination": "LIS",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T22:50:00",
+            "arrival": "2026-05-02T12:20:00",
+            "duration_seconds": 34200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 120600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8753",
+            "origin": "LIS",
+            "destination": "VCP",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T13:05:00",
+            "arrival": "2026-05-03T19:40:00",
+            "duration_seconds": 38100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 119700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lisbon-portugal/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.157139",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1315.0
+    },
+    {
+      "id": "rt_24a2a7bbf290",
+      "price": 1346.0,
+      "currency": "EUR",
+      "price_formatted": "1346.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP94",
+            "origin": "GRU",
+            "destination": "OPO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto",
+            "departure": "2026-04-30T20:35:00",
+            "arrival": "2026-05-01T10:45:00",
+            "duration_seconds": 36600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP1927",
+            "origin": "OPO",
+            "destination": "LIS",
+            "origin_city": "Porto",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T12:00:00",
+            "arrival": "2026-05-01T12:55:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8751",
+            "origin": "LIS",
+            "destination": "VCP",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T10:00:00",
+            "arrival": "2026-05-03T16:35:00",
+            "duration_seconds": 38100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2675",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T18:10:00",
+            "arrival": "2026-05-03T19:50:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 49800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "TP",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lisbon-portugal/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.157139",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1346.0
+    },
+    {
+      "id": "rt_4145779b6f00",
+      "price": 1404.0,
+      "currency": "EUR",
+      "price_formatted": "1404.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP94",
+            "origin": "GRU",
+            "destination": "OPO",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto",
+            "departure": "2026-04-30T20:35:00",
+            "arrival": "2026-05-01T10:45:00",
+            "duration_seconds": 36600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP1927",
+            "origin": "OPO",
+            "destination": "LIS",
+            "origin_city": "Porto",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-01T12:00:00",
+            "arrival": "2026-05-01T12:55:00",
+            "duration_seconds": 3300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "TAP Portugal",
+            "flight_no": "TP87",
+            "origin": "LIS",
+            "destination": "GRU",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T23:30:00",
+            "arrival": "2026-05-04T05:50:00",
+            "duration_seconds": 37200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6036",
+            "origin": "CGH",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T06:25:00",
+            "arrival": "2026-05-05T08:05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 131700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "TP",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lisbon-portugal/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:52.157139",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lisbon-portugal/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1404.0
+    },
+    {
+      "id": "rt_skip_07387d523960",
+      "price": 1825.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "",
+            "flight_no": "TP118",
+            "origin": "POA",
+            "destination": "LIS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:55:00-03:00",
+            "arrival": "2026-05-01T12:45:00+01:00",
+            "duration_seconds": 39000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8147",
+            "origin": "LIS",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:40:00+01:00",
+            "arrival": "2026-05-03T15:40:00-03:00",
+            "duration_seconds": 36000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3426",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T22:55:00-03:00",
+            "arrival": "2026-05-04T00:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 42300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "TP",
+        "LA"
+      ],
+      "owner_airline": "TP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:22:39.969526",
+      "booking_url": "https://skiplagged.com/flights/POA/LIS/2026-04-30",
+      "price_normalized": 1550.93975
+    }
+  ]
+}

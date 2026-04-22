@@ -1,0 +1,2083 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_f4e8e724647e",
+      "price": 509.85,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM829",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama City",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T10:29:00",
+            "arrival": "2026-04-30T12:32:00",
+            "duration_seconds": 7380,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46620,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM718",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T15:09:00",
+            "arrival": "2026-05-03T17:07:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 112260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 509.85
+    },
+    {
+      "id": "rt_ss_a171fda3fcb4",
+      "price": 509.85,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM829",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama City",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T10:29:00",
+            "arrival": "2026-04-30T12:32:00",
+            "duration_seconds": 7380,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46620,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM158",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T18:30:00",
+            "arrival": "2026-05-03T20:28:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 509.85
+    },
+    {
+      "id": "rt_ss_3485d9ef5218",
+      "price": 529.85,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM829",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama City",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T10:29:00",
+            "arrival": "2026-04-30T12:32:00",
+            "duration_seconds": 7380,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46620,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM828",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T14:29:00",
+            "arrival": "2026-05-03T16:27:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114660,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 529.85
+    },
+    {
+      "id": "rt_ss_b41596bc8cdb",
+      "price": 555.86,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2388",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T00:55:00",
+            "arrival": "2026-05-01T03:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 78600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM158",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T18:30:00",
+            "arrival": "2026-05-03T20:28:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 555.86
+    },
+    {
+      "id": "rt_ss_d90f8bab1ab4",
+      "price": 555.86,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2388",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T00:55:00",
+            "arrival": "2026-05-01T03:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 78600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM718",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T15:09:00",
+            "arrival": "2026-05-03T17:07:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 112260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 555.86
+    },
+    {
+      "id": "rt_ss_5f94c64365cf",
+      "price": 575.86,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2388",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T00:55:00",
+            "arrival": "2026-05-01T03:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 78600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM828",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T14:29:00",
+            "arrival": "2026-05-03T16:27:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114660,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 575.86
+    },
+    {
+      "id": "rt_ss_c7d4d1dc86a5",
+      "price": 581.15,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA1436",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T12:15:00",
+            "arrival": "2026-04-30T14:37:00",
+            "duration_seconds": 8520,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33120,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM158",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T18:30:00",
+            "arrival": "2026-05-03T20:28:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 581.15
+    },
+    {
+      "id": "rt_ss_f604863ba128",
+      "price": 581.15,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA1436",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T12:15:00",
+            "arrival": "2026-04-30T14:37:00",
+            "duration_seconds": 8520,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 33120,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM718",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T15:09:00",
+            "arrival": "2026-05-03T17:07:00",
+            "duration_seconds": 7080,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 112260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:11:52.565642",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/uio/",
+      "price_normalized": 581.15
+    },
+    {
+      "id": "rt_3b5d25789653",
+      "price": 610.0,
+      "currency": "EUR",
+      "price_formatted": "610.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM714",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T12:06:00",
+            "arrival": "2026-04-30T14:09:00",
+            "duration_seconds": 7380,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52440,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM718",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T15:09:00",
+            "arrival": "2026-05-03T17:07:00",
+            "duration_seconds": 7080,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM725",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:20:00",
+            "arrival": "2026-05-05T00:10:00",
+            "duration_seconds": 24600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 142560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/quito-ecuador/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.279598",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 610.0
+    },
+    {
+      "id": "rt_139a5311e763",
+      "price": 685.0,
+      "currency": "EUR",
+      "price_formatted": "685.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM829",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T10:29:00",
+            "arrival": "2026-04-30T12:32:00",
+            "duration_seconds": 7380,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46620,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV8372",
+            "origin": "UIO",
+            "destination": "BOG",
+            "origin_city": "Quito",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T10:10:00",
+            "arrival": "2026-05-03T11:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 108600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/quito-ecuador/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.279598",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 685.0
+    },
+    {
+      "id": "rt_277c42e54eef",
+      "price": 685.0,
+      "currency": "EUR",
+      "price_formatted": "685.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM714",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T12:06:00",
+            "arrival": "2026-04-30T14:09:00",
+            "duration_seconds": 7380,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 52440,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV8372",
+            "origin": "UIO",
+            "destination": "BOG",
+            "origin_city": "Quito",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T10:10:00",
+            "arrival": "2026-05-03T11:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 108600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD",
+        "AV"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/quito-ecuador/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.279598",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 685.0
+    },
+    {
+      "id": "combo_a3700f337a1e",
+      "price": 758.1,
+      "currency": "EUR",
+      "price_formatted": "758.10 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM829",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T10:29:00",
+            "arrival": "2026-04-30T12:32:00",
+            "duration_seconds": 7380,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46620,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV8372",
+            "origin": "UIO",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-05:00",
+            "arrival": "2026-05-03T11:45:00-05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34200,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "CM|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/UIO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.282603",
+      "booking_url": "",
+      "price_normalized": 758.1
+    },
+    {
+      "id": "combo_8951dd2e45fb",
+      "price": 778.5,
+      "currency": "EUR",
+      "price_formatted": "778.50 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM829",
+            "origin": "PTY",
+            "destination": "UIO",
+            "origin_city": "Panama",
+            "destination_city": "Quito",
+            "departure": "2026-04-30T10:29:00",
+            "arrival": "2026-04-30T12:32:00",
+            "duration_seconds": 7380,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 46620,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2389",
+            "origin": "UIO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:00:00-05:00",
+            "arrival": "2026-05-03T08:15:00-05:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2424",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:25:00-05:00",
+            "arrival": "2026-05-03T16:15:00-03:00",
+            "duration_seconds": 17400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3418",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:40:00-03:00",
+            "arrival": "2026-05-03T23:25:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "CM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/UIO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.282603",
+      "booking_url": "",
+      "price_normalized": 778.5
+    },
+    {
+      "id": "rt_d404dab156f8",
+      "price": 781.0,
+      "currency": "EUR",
+      "price_formatted": "781.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2395",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T03:40:00",
+            "arrival": "2026-05-01T06:55:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2382",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM718",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T15:09:00",
+            "arrival": "2026-05-03T17:07:00",
+            "duration_seconds": 7080,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM725",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:20:00",
+            "arrival": "2026-05-05T00:10:00",
+            "duration_seconds": 24600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 142560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/quito-ecuador/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.280599",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 781.0
+    },
+    {
+      "id": "combo_bb4026209c2b",
+      "price": 781.1,
+      "currency": "EUR",
+      "price_formatted": "781.10 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2388",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T00:55:00",
+            "arrival": "2026-05-01T03:15:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 78600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV8372",
+            "origin": "UIO",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-05:00",
+            "arrival": "2026-05-03T11:45:00-05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34200,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "LA|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/UIO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.282603",
+      "booking_url": "",
+      "price_normalized": 781.1
+    },
+    {
+      "id": "rt_1a90aeca79ca",
+      "price": 792.0,
+      "currency": "EUR",
+      "price_formatted": "792.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2395",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T03:40:00",
+            "arrival": "2026-05-01T06:55:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2382",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 91800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM718",
+            "origin": "UIO",
+            "destination": "PTY",
+            "origin_city": "Quito",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T15:09:00",
+            "arrival": "2026-05-03T17:07:00",
+            "duration_seconds": 7080,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM725",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:20:00",
+            "arrival": "2026-05-05T00:10:00",
+            "duration_seconds": 24600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 142560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/quito-ecuador/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.280599",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 792.0
+    },
+    {
+      "id": "combo_a14db802a9a5",
+      "price": 929.1,
+      "currency": "EUR",
+      "price_formatted": "929.10 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2395",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T03:40:00",
+            "arrival": "2026-05-01T06:55:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2382",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV8372",
+            "origin": "UIO",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-05:00",
+            "arrival": "2026-05-03T11:45:00-05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34200,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "AD|LA|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/UIO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.283599",
+      "booking_url": "",
+      "price_normalized": 929.1
+    },
+    {
+      "id": "combo_480acce105f3",
+      "price": 940.1,
+      "currency": "EUR",
+      "price_formatted": "940.10 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2395",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T03:40:00",
+            "arrival": "2026-05-01T06:55:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2382",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 91800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV8372",
+            "origin": "UIO",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:10:00-05:00",
+            "arrival": "2026-05-03T11:45:00-05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34200,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "AV"
+      ],
+      "owner_airline": "G3|LA|AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/UIO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.283599",
+      "booking_url": "",
+      "price_normalized": 940.1
+    },
+    {
+      "id": "combo_fde60cc0a174",
+      "price": 949.5,
+      "currency": "EUR",
+      "price_formatted": "949.50 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2395",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T03:40:00",
+            "arrival": "2026-05-01T06:55:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2382",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 101100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2389",
+            "origin": "UIO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:00:00-05:00",
+            "arrival": "2026-05-03T08:15:00-05:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2424",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:25:00-05:00",
+            "arrival": "2026-05-03T16:15:00-03:00",
+            "duration_seconds": 17400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3418",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:40:00-03:00",
+            "arrival": "2026-05-03T23:25:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/UIO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.283599",
+      "booking_url": "",
+      "price_normalized": 949.5
+    },
+    {
+      "id": "combo_9fbbfdc41ed2",
+      "price": 960.5,
+      "currency": "EUR",
+      "price_formatted": "960.50 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2395",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T03:40:00",
+            "arrival": "2026-05-01T06:55:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2382",
+            "origin": "LIM",
+            "destination": "UIO",
+            "origin_city": "Lima",
+            "destination_city": "Quito",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T11:05:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 91800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2389",
+            "origin": "UIO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:00:00-05:00",
+            "arrival": "2026-05-03T08:15:00-05:00",
+            "duration_seconds": 8100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2424",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T09:25:00-05:00",
+            "arrival": "2026-05-03T16:15:00-03:00",
+            "duration_seconds": 17400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3418",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T21:40:00-03:00",
+            "arrival": "2026-05-03T23:25:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 31800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/quito-ecuador/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/UIO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:12:17.283599",
+      "booking_url": "",
+      "price_normalized": 960.5
+    }
+  ]
+}

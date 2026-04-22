@@ -1,0 +1,2208 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_362f2c8c7be1",
+      "price": 751.99,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2392",
+            "origin": "LIM",
+            "destination": "MDE",
+            "origin_city": "Lima",
+            "destination_city": "Medellin",
+            "departure": "2026-04-30T13:10:00",
+            "arrival": "2026-04-30T16:20:00",
+            "duration_seconds": 11400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM157",
+            "origin": "MDE",
+            "destination": "PTY",
+            "origin_city": "Medellin",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T18:20:00",
+            "arrival": "2026-04-30T19:48:00",
+            "duration_seconds": 5280,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51780,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama City",
+            "destination_city": "Bogota",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogota",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "CM",
+        "AV",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:37:16.354534",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/pty/",
+      "price_normalized": 751.99
+    },
+    {
+      "id": "rt_ss_0f70281998c2",
+      "price": 799.72,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2620",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV260",
+            "origin": "GIG",
+            "destination": "BOG",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Bogota",
+            "departure": "2026-05-01T07:20:00",
+            "arrival": "2026-05-01T11:45:00",
+            "duration_seconds": 23100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV60",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogota",
+            "destination_city": "Panama City",
+            "departure": "2026-05-01T15:20:00",
+            "arrival": "2026-05-01T17:00:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 81600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama City",
+            "destination_city": "Bogota",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogota",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "AD"
+      ],
+      "owner_airline": "AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:37:16.354534",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/pty/",
+      "price_normalized": 799.72
+    },
+    {
+      "id": "rt_ss_517b2ff601f8",
+      "price": 802.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2386",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogota",
+            "departure": "2026-04-30T13:00:00",
+            "arrival": "2026-04-30T16:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV40",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogota",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 69000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama City",
+            "destination_city": "Bogota",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogota",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AV",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:37:16.354534",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/pty/",
+      "price_normalized": 802.0
+    },
+    {
+      "id": "rt_6e23d4fb521d",
+      "price": 939.0,
+      "currency": "EUR",
+      "price_formatted": "939.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV56",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T12:35:00",
+            "arrival": "2026-05-01T14:15:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.683754",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 939.0
+    },
+    {
+      "id": "rt_bddb3082a401",
+      "price": 942.0,
+      "currency": "EUR",
+      "price_formatted": "942.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2982",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T09:10:00",
+            "arrival": "2026-04-30T10:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31173",
+            "origin": "CWB",
+            "destination": "GRU",
+            "origin_city": "Curitiba",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:45:00",
+            "arrival": "2026-04-30T20:05:00",
+            "duration_seconds": 4800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G36902",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 90060,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.683754",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 942.0
+    },
+    {
+      "id": "rt_70238acaf53f",
+      "price": 944.0,
+      "currency": "EUR",
+      "price_formatted": "944.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2982",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T09:10:00",
+            "arrival": "2026-04-30T10:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31743",
+            "origin": "CWB",
+            "destination": "BSB",
+            "origin_city": "Curitiba",
+            "destination_city": "Bras\u00edlia",
+            "departure": "2026-04-30T17:40:00",
+            "arrival": "2026-04-30T19:35:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G36908",
+            "origin": "BSB",
+            "destination": "PTY",
+            "origin_city": "Bras\u00edlia",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T02:00:00",
+            "arrival": "2026-05-01T06:04:00",
+            "duration_seconds": 21840,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 82440,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "AV"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.683754",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 944.0
+    },
+    {
+      "id": "rt_00f6b238d203",
+      "price": 945.0,
+      "currency": "EUR",
+      "price_formatted": "945.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV56",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T12:35:00",
+            "arrival": "2026-05-01T14:15:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 99900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.683754",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 945.0
+    },
+    {
+      "id": "rt_b41f713adec0",
+      "price": 954.0,
+      "currency": "EUR",
+      "price_formatted": "954.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV56",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T12:35:00",
+            "arrival": "2026-05-01T14:15:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 79200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.683754",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 954.0
+    },
+    {
+      "id": "rt_c7bf216825c4",
+      "price": 959.0,
+      "currency": "EUR",
+      "price_formatted": "959.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2830",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T19:40:00",
+            "arrival": "2026-04-30T21:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV56",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T12:35:00",
+            "arrival": "2026-05-01T14:15:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 74100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "AV"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.683754",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 959.0
+    },
+    {
+      "id": "rt_054e0a5e9ef9",
+      "price": 968.0,
+      "currency": "EUR",
+      "price_formatted": "968.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV4748",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM416",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T11:39:00",
+            "arrival": "2026-05-01T13:24:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76140,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "CM",
+        "AD"
+      ],
+      "owner_airline": "AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.684768",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 968.0
+    },
+    {
+      "id": "rt_fb9594817e5e",
+      "price": 975.0,
+      "currency": "EUR",
+      "price_formatted": "975.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6037",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T09:00:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV56",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T12:35:00",
+            "arrival": "2026-05-01T14:15:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 112500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV41",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T04:25:00",
+            "arrival": "2026-05-03T06:00:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T14:20:00",
+            "arrival": "2026-05-03T22:30:00",
+            "duration_seconds": 22200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "AV"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.684768",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 975.0
+    },
+    {
+      "id": "rt_10a04c560998",
+      "price": 1047.0,
+      "currency": "EUR",
+      "price_formatted": "1047.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2620",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV260",
+            "origin": "GIG",
+            "destination": "BOG",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T07:20:00",
+            "arrival": "2026-05-01T11:45:00",
+            "duration_seconds": 23100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV60",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T15:20:00",
+            "arrival": "2026-05-01T17:00:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 81600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM274",
+            "origin": "PTY",
+            "destination": "BOG",
+            "origin_city": "Panama",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-03T08:29:00",
+            "arrival": "2026-05-03T10:08:00",
+            "duration_seconds": 5940,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV85",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T21:45:00",
+            "arrival": "2026-05-04T05:25:00",
+            "duration_seconds": 20400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2656",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:00:00",
+            "arrival": "2026-05-04T23:45:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 134160,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "CM"
+      ],
+      "owner_airline": "AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/panama-city-panama/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.687277",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1047.0
+    },
+    {
+      "id": "combo_fd2e82da5e90",
+      "price": 1251.05,
+      "currency": "EUR",
+      "price_formatted": "1251.05 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2620",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV260",
+            "origin": "GIG",
+            "destination": "BOG",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T07:20:00",
+            "arrival": "2026-05-01T11:45:00",
+            "duration_seconds": 23100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV60",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T15:20:00",
+            "arrival": "2026-05-01T17:00:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 81600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "AD7560",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:19:00",
+            "arrival": "2026-05-04T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25260,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AV",
+        "CM"
+      ],
+      "owner_airline": "AV|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PTY&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.689287",
+      "booking_url": "",
+      "price_normalized": 1251.05
+    },
+    {
+      "id": "combo_983c8d7d7d3c",
+      "price": 1255.05,
+      "currency": "EUR",
+      "price_formatted": "1255.05 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2386",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T13:00:00",
+            "arrival": "2026-04-30T16:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV40",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 69000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "AD7560",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:19:00",
+            "arrival": "2026-05-04T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25260,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AV",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "AV|LA|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PTY&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.689287",
+      "booking_url": "",
+      "price_normalized": 1255.05
+    },
+    {
+      "id": "combo_f98eaccb495e",
+      "price": 1266.35,
+      "currency": "EUR",
+      "price_formatted": "1266.35 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2620",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV260",
+            "origin": "GIG",
+            "destination": "BOG",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T07:20:00",
+            "arrival": "2026-05-01T11:45:00",
+            "duration_seconds": 23100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV60",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T15:20:00",
+            "arrival": "2026-05-01T17:00:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 81600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "AD7565",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:00:00",
+            "arrival": "2026-05-03T20:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2939",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T18:20:00",
+            "arrival": "2026-05-04T20:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 108300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "AV|AD|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PTY&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.689287",
+      "booking_url": "",
+      "price_normalized": 1266.35
+    },
+    {
+      "id": "combo_7a94d812d797",
+      "price": 1270.35,
+      "currency": "EUR",
+      "price_formatted": "1270.35 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2386",
+            "origin": "LIM",
+            "destination": "BOG",
+            "origin_city": "Lima",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-04-30T13:00:00",
+            "arrival": "2026-04-30T16:15:00",
+            "duration_seconds": 11700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV40",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 69000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "AD7565",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:00:00",
+            "arrival": "2026-05-03T20:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2939",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T18:20:00",
+            "arrival": "2026-05-04T20:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 108300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "LA",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "AV|LA|AD|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PTY&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.690290",
+      "booking_url": "",
+      "price_normalized": 1270.35
+    },
+    {
+      "id": "combo_03a1baa69250",
+      "price": 1350.05,
+      "currency": "EUR",
+      "price_formatted": "1350.05 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV56",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T12:35:00",
+            "arrival": "2026-05-01T14:15:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "AD7560",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:19:00",
+            "arrival": "2026-05-04T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25260,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "AV|G3|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PTY&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.690290",
+      "booking_url": "",
+      "price_normalized": 1350.05
+    },
+    {
+      "id": "combo_a8d73dc70111",
+      "price": 1353.05,
+      "currency": "EUR",
+      "price_formatted": "1353.05 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2982",
+            "origin": "POA",
+            "destination": "CWB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Curitiba",
+            "departure": "2026-04-30T09:10:00",
+            "arrival": "2026-04-30T10:20:00",
+            "duration_seconds": 4200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31173",
+            "origin": "CWB",
+            "destination": "GRU",
+            "origin_city": "Curitiba",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:45:00",
+            "arrival": "2026-04-30T20:05:00",
+            "duration_seconds": 4800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G36902",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 90060,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "AD7560",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:19:00",
+            "arrival": "2026-05-04T00:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25260,
+        "stopovers": 0
+      },
+      "airlines": [
+        "AD",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "AD|G3|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PTY&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.691288",
+      "booking_url": "",
+      "price_normalized": 1353.05
+    },
+    {
+      "id": "combo_fb541c1ec9e3",
+      "price": 1365.35,
+      "currency": "EUR",
+      "price_formatted": "1365.35 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV56",
+            "origin": "BOG",
+            "destination": "PTY",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Panama",
+            "departure": "2026-05-01T12:35:00",
+            "arrival": "2026-05-01T14:15:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "AD7565",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:00:00",
+            "arrival": "2026-05-03T20:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2939",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T18:20:00",
+            "arrival": "2026-05-04T20:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 108300,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "AV|G3|AD|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/panama-city-panama/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PTY&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:38:28.691288",
+      "booking_url": "",
+      "price_normalized": 1365.35
+    },
+    {
+      "id": "rt_skip_79c3cc16eb51",
+      "price": 1724.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25620,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:19:00-05:00",
+            "arrival": "2026-05-04T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 25260,
+        "stopovers": 0
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:35:00.704799",
+      "booking_url": "https://skiplagged.com/flights/POA/PTY/2026-04-30",
+      "price_normalized": 1465.10692
+    }
+  ]
+}

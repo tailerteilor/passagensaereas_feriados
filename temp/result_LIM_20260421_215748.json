@@ -1,0 +1,1796 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_378cfad24fb1",
+      "price": 561.0,
+      "currency": "EUR",
+      "price_formatted": "561.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM760",
+            "origin": "LIM",
+            "destination": "PTY",
+            "origin_city": "Lima",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T13:20:00",
+            "arrival": "2026-05-03T17:05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 118800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lima-peru/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.696992",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+      "price_normalized": 561.0
+    },
+    {
+      "id": "combo_f2a87411dc8d",
+      "price": 572.74,
+      "currency": "EUR",
+      "price_formatted": "572.74 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2377",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:15:00",
+            "arrival": "2026-05-03T04:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 57600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "LP"
+      ],
+      "owner_airline": "LA|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=LIM&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.703994",
+      "booking_url": "",
+      "price_normalized": 572.74
+    },
+    {
+      "id": "rt_73ebd9627d90",
+      "price": 573.0,
+      "currency": "EUR",
+      "price_formatted": "573.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2805",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "Lima",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-03T01:00:00",
+            "arrival": "2026-05-03T05:30:00",
+            "duration_seconds": 12600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 54900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "H2"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lima-peru/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.698004",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+      "price_normalized": 573.0
+    },
+    {
+      "id": "rt_97157f7c8893",
+      "price": 582.0,
+      "currency": "EUR",
+      "price_formatted": "582.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM132",
+            "origin": "LIM",
+            "destination": "PTY",
+            "origin_city": "Lima",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T16:40:00",
+            "arrival": "2026-05-03T20:25:00",
+            "duration_seconds": 13500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lima-peru/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.698004",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+      "price_normalized": 582.0
+    },
+    {
+      "id": "rt_e24751a1e22f",
+      "price": 586.0,
+      "currency": "EUR",
+      "price_formatted": "586.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA7043",
+            "origin": "LIM",
+            "destination": "CUZ",
+            "origin_city": "Lima",
+            "destination_city": "Cusco",
+            "departure": "2026-05-03T19:45:00",
+            "arrival": "2026-05-03T21:10:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2366",
+            "origin": "CUZ",
+            "destination": "SCL",
+            "origin_city": "Cusco",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T13:50:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T13:55:00",
+            "arrival": "2026-05-05T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 160200,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "JA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lima-peru/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.698004",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+      "price_normalized": 586.0
+    },
+    {
+      "id": "combo_ba55fef32f2c",
+      "price": 595.69,
+      "currency": "EUR",
+      "price_formatted": "595.69 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2431",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:10:00-05:00",
+            "arrival": "2026-05-03T05:45:00-04:00",
+            "duration_seconds": 12900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/LIM/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.703994",
+      "booking_url": "",
+      "price_normalized": 595.69
+    },
+    {
+      "id": "combo_eec419c480ba",
+      "price": 595.69,
+      "currency": "EUR",
+      "price_formatted": "595.69 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2377",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:15:00-05:00",
+            "arrival": "2026-05-03T04:50:00-04:00",
+            "duration_seconds": 12900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://skiplagged.com/flights/LIM/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.703994",
+      "booking_url": "",
+      "price_normalized": 595.69
+    },
+    {
+      "id": "combo_03cfac99dc5f",
+      "price": 596.54,
+      "currency": "EUR",
+      "price_formatted": "596.54 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2439",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:50:00",
+            "arrival": "2026-05-03T05:25:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 55500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "LP"
+      ],
+      "owner_airline": "LA|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=LIM&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.703994",
+      "booking_url": "",
+      "price_normalized": 596.54
+    },
+    {
+      "id": "combo_e14febaa6ffd",
+      "price": 602.48,
+      "currency": "EUR",
+      "price_formatted": "602.48 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8123",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:45:00",
+            "arrival": "2026-05-03T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA3218",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:15:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "JJ"
+      ],
+      "owner_airline": "LA|JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price&stopNumber=0",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=LIM&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.703994",
+      "booking_url": "",
+      "price_normalized": 602.48
+    },
+    {
+      "id": "rt_079c4f9e9528",
+      "price": 623.0,
+      "currency": "EUR",
+      "price_formatted": "623.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4703",
+            "origin": "GRU",
+            "destination": "BSB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bras\u00edlia",
+            "departure": "2026-05-01T00:40:00",
+            "arrival": "2026-05-01T02:25:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2403",
+            "origin": "BSB",
+            "destination": "LIM",
+            "origin_city": "Bras\u00edlia",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T09:00:00",
+            "arrival": "2026-05-01T11:50:00",
+            "duration_seconds": 17400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 94500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM760",
+            "origin": "LIM",
+            "destination": "PTY",
+            "origin_city": "Lima",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T13:20:00",
+            "arrival": "2026-05-03T17:05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 118800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lima-peru/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.698004",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 623.0
+    },
+    {
+      "id": "combo_037907d7d70e",
+      "price": 634.74,
+      "currency": "EUR",
+      "price_formatted": "634.74 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4703",
+            "origin": "GRU",
+            "destination": "BSB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bras\u00edlia",
+            "departure": "2026-05-01T00:40:00",
+            "arrival": "2026-05-01T02:25:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2403",
+            "origin": "BSB",
+            "destination": "LIM",
+            "origin_city": "Bras\u00edlia",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T09:00:00",
+            "arrival": "2026-05-01T11:50:00",
+            "duration_seconds": 17400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 94500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2377",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:15:00",
+            "arrival": "2026-05-03T04:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 57600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "LP"
+      ],
+      "owner_airline": "G3|LA|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=LIM&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.703994",
+      "booking_url": "",
+      "price_normalized": 634.74
+    },
+    {
+      "id": "combo_2b764f3ece19",
+      "price": 638.74,
+      "currency": "EUR",
+      "price_formatted": "638.74 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2804",
+            "origin": "SCL",
+            "destination": "LIM",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Lima",
+            "departure": "2026-05-02T20:20:00",
+            "arrival": "2026-05-02T23:15:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 181500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2377",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:15:00",
+            "arrival": "2026-05-03T04:50:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 57600,
+        "stopovers": 1
+      },
+      "airlines": [
+        "H2",
+        "LA",
+        "LP"
+      ],
+      "owner_airline": "H2|LA|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=LIM&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.703994",
+      "booking_url": "",
+      "price_normalized": 638.74
+    },
+    {
+      "id": "combo_86753d4929d1",
+      "price": 657.69,
+      "currency": "EUR",
+      "price_formatted": "657.69 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4703",
+            "origin": "GRU",
+            "destination": "BSB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bras\u00edlia",
+            "departure": "2026-05-01T00:40:00",
+            "arrival": "2026-05-01T02:25:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2403",
+            "origin": "BSB",
+            "destination": "LIM",
+            "origin_city": "Bras\u00edlia",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T09:00:00",
+            "arrival": "2026-05-01T11:50:00",
+            "duration_seconds": 17400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 94500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2431",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:10:00-05:00",
+            "arrival": "2026-05-03T05:45:00-04:00",
+            "duration_seconds": 12900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/LIM/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.704995",
+      "booking_url": "",
+      "price_normalized": 657.69
+    },
+    {
+      "id": "combo_469fe562d901",
+      "price": 661.69,
+      "currency": "EUR",
+      "price_formatted": "661.69 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2804",
+            "origin": "SCL",
+            "destination": "LIM",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Lima",
+            "departure": "2026-05-02T20:20:00",
+            "arrival": "2026-05-02T23:15:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 181500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2431",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:10:00-05:00",
+            "arrival": "2026-05-03T05:45:00-04:00",
+            "duration_seconds": 12900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "H2",
+        "LA"
+      ],
+      "owner_airline": "H2|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/LIM/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.704995",
+      "booking_url": "",
+      "price_normalized": 661.69
+    },
+    {
+      "id": "combo_58190dc86192",
+      "price": 664.48,
+      "currency": "EUR",
+      "price_formatted": "664.48 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA4703",
+            "origin": "GRU",
+            "destination": "BSB",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bras\u00edlia",
+            "departure": "2026-05-01T00:40:00",
+            "arrival": "2026-05-01T02:25:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2403",
+            "origin": "BSB",
+            "destination": "LIM",
+            "origin_city": "Bras\u00edlia",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T09:00:00",
+            "arrival": "2026-05-01T11:50:00",
+            "duration_seconds": 17400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 94500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8123",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:45:00",
+            "arrival": "2026-05-03T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA3218",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:15:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "LA",
+        "JJ"
+      ],
+      "owner_airline": "G3|LA|JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=LIM&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.705998",
+      "booking_url": "",
+      "price_normalized": 664.48
+    },
+    {
+      "id": "combo_bb4b15d05c4c",
+      "price": 668.48,
+      "currency": "EUR",
+      "price_formatted": "668.48 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2804",
+            "origin": "SCL",
+            "destination": "LIM",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Lima",
+            "departure": "2026-05-02T20:20:00",
+            "arrival": "2026-05-02T23:15:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 181500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8123",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:45:00",
+            "arrival": "2026-05-03T08:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA3218",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:15:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "H2",
+        "LA",
+        "JJ"
+      ],
+      "owner_airline": "H2|LA|JJ",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=LIM&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.705998",
+      "booking_url": "",
+      "price_normalized": 668.48
+    },
+    {
+      "id": "rt_skip_b3d918c52d04",
+      "price": 680.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:25:00-03:00",
+            "arrival": "2026-04-30T10:35:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2431",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:10:00-05:00",
+            "arrival": "2026-05-03T05:45:00-04:00",
+            "duration_seconds": 12900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:08.722192",
+      "booking_url": "https://skiplagged.com/flights/POA/LIM/2026-04-30",
+      "price_normalized": 577.8844
+    },
+    {
+      "id": "rt_skip_a2668b22ede0",
+      "price": 680.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:25:00-03:00",
+            "arrival": "2026-04-30T10:35:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2377",
+            "origin": "LIM",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T00:15:00-05:00",
+            "arrival": "2026-05-03T04:50:00-04:00",
+            "duration_seconds": 12900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00-04:00",
+            "arrival": "2026-05-03T18:15:00-03:00",
+            "duration_seconds": 12000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:08.722192",
+      "booking_url": "https://skiplagged.com/flights/POA/LIM/2026-04-30",
+      "price_normalized": 577.8844
+    },
+    {
+      "id": "rt_skip_9c78f29d6e80",
+      "price": 686.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:25:00-03:00",
+            "arrival": "2026-04-30T10:35:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 18600,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8123",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T01:45:00-05:00",
+            "arrival": "2026-05-03T08:40:00-03:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:21:08.722192",
+      "booking_url": "https://skiplagged.com/flights/POA/LIM/2026-04-30",
+      "price_normalized": 582.98338
+    },
+    {
+      "id": "rt_44fe81a1b920",
+      "price": 701.0,
+      "currency": "EUR",
+      "price_formatted": "701.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2727",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T15:20:00",
+            "arrival": "2026-04-30T17:00:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8122",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T21:40:00",
+            "arrival": "2026-05-01T00:45:00",
+            "duration_seconds": 18300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 41100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM760",
+            "origin": "LIM",
+            "destination": "PTY",
+            "origin_city": "Lima",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T13:20:00",
+            "arrival": "2026-05-03T17:05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 118800,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/lima-peru/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:49.701989",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/lima-peru/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 701.0
+    }
+  ]
+}

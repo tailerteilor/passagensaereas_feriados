@@ -1,0 +1,2220 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_2358bcf7caa4",
+      "price": 621.0,
+      "currency": "EUR",
+      "price_formatted": "621.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "San Jos\u00e9",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:30:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/san-jose-costa-rica/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.321845",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 621.0
+    },
+    {
+      "id": "rt_235ff911578b",
+      "price": 636.0,
+      "currency": "EUR",
+      "price_formatted": "636.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM465",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "San Jos\u00e9",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T05:50:00",
+            "arrival": "2026-05-03T08:10:00",
+            "duration_seconds": 4800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T15:30:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 120600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/san-jose-costa-rica/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.321845",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 636.0
+    },
+    {
+      "id": "rt_f279fb7ab9f5",
+      "price": 673.0,
+      "currency": "EUR",
+      "price_formatted": "673.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM344",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T08:40:00",
+            "arrival": "2026-04-30T09:05:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "San Jos\u00e9",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:30:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/san-jose-costa-rica/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.321845",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 673.0
+    },
+    {
+      "id": "rt_5c059601bf84",
+      "price": 688.0,
+      "currency": "EUR",
+      "price_formatted": "688.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM344",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T08:40:00",
+            "arrival": "2026-04-30T09:05:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM465",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "San Jos\u00e9",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T05:50:00",
+            "arrival": "2026-05-03T08:10:00",
+            "duration_seconds": 4800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T15:30:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 120600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/san-jose-costa-rica/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.321845",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 688.0
+    },
+    {
+      "id": "combo_6d518ecd6568",
+      "price": 750.02,
+      "currency": "EUR",
+      "price_formatted": "750.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "CM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SJO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.327362",
+      "booking_url": "",
+      "price_normalized": 750.02
+    },
+    {
+      "id": "combo_f201dd7effed",
+      "price": 750.02,
+      "currency": "EUR",
+      "price_formatted": "750.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T08:20:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 35100,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00",
+            "arrival": "2026-05-03T21:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "CM|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SJO&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.327362",
+      "booking_url": "",
+      "price_normalized": 750.02
+    },
+    {
+      "id": "rt_46af95851729",
+      "price": 773.0,
+      "currency": "EUR",
+      "price_formatted": "773.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2408",
+            "origin": "LIM",
+            "destination": "SJO",
+            "origin_city": "Lima",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:40:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "San Jos\u00e9",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:30:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/san-jose-costa-rica/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.321845",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 773.0
+    },
+    {
+      "id": "rt_96d1cf398992",
+      "price": 789.0,
+      "currency": "EUR",
+      "price_formatted": "789.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8122",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T21:30:00",
+            "arrival": "2026-05-02T00:45:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2408",
+            "origin": "LIM",
+            "destination": "SJO",
+            "origin_city": "Lima",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-05-02T12:45:00",
+            "arrival": "2026-05-02T15:40:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 166200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "San Jos\u00e9",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:30:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/san-jose-costa-rica/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.321845",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 789.0
+    },
+    {
+      "id": "rt_888e0d8916ee",
+      "price": 796.0,
+      "currency": "EUR",
+      "price_formatted": "796.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV698",
+            "origin": "BOG",
+            "destination": "SJO",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-05-01T14:05:00",
+            "arrival": "2026-05-01T15:25:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM839",
+            "origin": "SJO",
+            "destination": "PTY",
+            "origin_city": "San Jos\u00e9",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:19:00",
+            "arrival": "2026-05-03T20:42:00",
+            "duration_seconds": 4980,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T15:30:00",
+            "arrival": "2026-05-05T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 127560,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/san-jose-costa-rica/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.321845",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 796.0
+    },
+    {
+      "id": "combo_c5a44b721df0",
+      "price": 802.02,
+      "currency": "EUR",
+      "price_formatted": "802.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM344",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T08:40:00",
+            "arrival": "2026-04-30T09:05:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "CM|AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SJO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.328360",
+      "booking_url": "",
+      "price_normalized": 802.02
+    },
+    {
+      "id": "combo_09a2acaecbc8",
+      "price": 802.02,
+      "currency": "EUR",
+      "price_formatted": "802.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM344",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "Panama",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T08:40:00",
+            "arrival": "2026-04-30T09:05:00",
+            "duration_seconds": 5100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 37800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00",
+            "arrival": "2026-05-03T21:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AD",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "CM|AD|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SJO&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.328360",
+      "booking_url": "",
+      "price_normalized": 802.02
+    },
+    {
+      "id": "rt_skip_a5761e9ea5ca",
+      "price": 848.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM818",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:55:00-05:00",
+            "arrival": "2026-04-30T08:20:00-06:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30720,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:55.584990",
+      "booking_url": "https://skiplagged.com/flights/POA/SJO/2026-04-30",
+      "price_normalized": 720.65584
+    },
+    {
+      "id": "rt_skip_4e925ceaed58",
+      "price": 848.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM344",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T08:40:00-05:00",
+            "arrival": "2026-04-30T09:05:00-06:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30720,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:55.584990",
+      "booking_url": "https://skiplagged.com/flights/POA/SJO/2026-04-30",
+      "price_normalized": 720.65584
+    },
+    {
+      "id": "rt_skip_30ab44e326ab",
+      "price": 848.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM192",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T09:34:00-05:00",
+            "arrival": "2026-04-30T09:59:00-06:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30720,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:55.584990",
+      "booking_url": "https://skiplagged.com/flights/POA/SJO/2026-04-30",
+      "price_normalized": 720.65584
+    },
+    {
+      "id": "rt_skip_4453f9abc067",
+      "price": 848.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00-03:00",
+            "arrival": "2026-04-30T06:42:00-05:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM779",
+            "origin": "PTY",
+            "destination": "SJO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T11:55:00-05:00",
+            "arrival": "2026-04-30T12:20:00-06:00",
+            "duration_seconds": 5100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 30720,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:55.584990",
+      "booking_url": "https://skiplagged.com/flights/POA/SJO/2026-04-30",
+      "price_normalized": 720.65584
+    },
+    {
+      "id": "combo_4a96242eb792",
+      "price": 902.02,
+      "currency": "EUR",
+      "price_formatted": "902.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2408",
+            "origin": "LIM",
+            "destination": "SJO",
+            "origin_city": "Lima",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-04-30T12:45:00",
+            "arrival": "2026-04-30T15:40:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00",
+            "arrival": "2026-05-03T21:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "LA|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SJO&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.329362",
+      "booking_url": "",
+      "price_normalized": 902.02
+    },
+    {
+      "id": "combo_595b9468d1fe",
+      "price": 918.02,
+      "currency": "EUR",
+      "price_formatted": "918.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8122",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T21:30:00",
+            "arrival": "2026-05-02T00:45:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2408",
+            "origin": "LIM",
+            "destination": "SJO",
+            "origin_city": "Lima",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-05-02T12:45:00",
+            "arrival": "2026-05-02T15:40:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 166200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA"
+      ],
+      "owner_airline": "AD|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SJO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.329362",
+      "booking_url": "",
+      "price_normalized": 918.02
+    },
+    {
+      "id": "combo_421b90329a03",
+      "price": 918.02,
+      "currency": "EUR",
+      "price_formatted": "918.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8122",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T21:30:00",
+            "arrival": "2026-05-02T00:45:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2408",
+            "origin": "LIM",
+            "destination": "SJO",
+            "origin_city": "Lima",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-05-02T12:45:00",
+            "arrival": "2026-05-02T15:40:00",
+            "duration_seconds": 14100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 166200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00",
+            "arrival": "2026-05-03T21:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "AD|LA|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SJO&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.329362",
+      "booking_url": "",
+      "price_normalized": 918.02
+    },
+    {
+      "id": "combo_89a8fca12df9",
+      "price": 925.02,
+      "currency": "EUR",
+      "price_formatted": "925.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV698",
+            "origin": "BOG",
+            "destination": "SJO",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-05-01T14:05:00",
+            "arrival": "2026-05-01T15:25:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00-06:00",
+            "arrival": "2026-05-03T21:40:00-05:00",
+            "duration_seconds": 13500,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 34800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "AV|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/SJO/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.329362",
+      "booking_url": "",
+      "price_normalized": 925.02
+    },
+    {
+      "id": "combo_11c0f09a43c4",
+      "price": 925.02,
+      "currency": "EUR",
+      "price_formatted": "925.02 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV698",
+            "origin": "BOG",
+            "destination": "SJO",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "San Jos\u00e9",
+            "departure": "2026-05-01T14:05:00",
+            "arrival": "2026-05-01T15:25:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2409",
+            "origin": "SJO",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T16:55:00",
+            "arrival": "2026-05-03T21:40:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "AV|G3|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/san-jose-costa-rica/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=SJO&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:32:06.329362",
+      "booking_url": "",
+      "price_normalized": 925.02
+    }
+  ]
+}

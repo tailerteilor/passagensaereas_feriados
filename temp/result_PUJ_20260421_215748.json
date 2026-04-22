@@ -1,0 +1,2053 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_c195e94a13b8",
+      "price": 871.0,
+      "currency": "EUR",
+      "price_formatted": "871.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 49500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.916224",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 871.0
+    },
+    {
+      "id": "rt_98dab2162efc",
+      "price": 881.0,
+      "currency": "EUR",
+      "price_formatted": "881.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.916224",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 881.0
+    },
+    {
+      "id": "combo_11422e426442",
+      "price": 886.66,
+      "currency": "EUR",
+      "price_formatted": "886.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 49500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00-04:00",
+            "arrival": "2026-05-03T23:30:00-05:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA"
+      ],
+      "owner_airline": "DM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PUJ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.921740",
+      "booking_url": "",
+      "price_normalized": 886.66
+    },
+    {
+      "id": "combo_994e5f32915c",
+      "price": 886.66,
+      "currency": "EUR",
+      "price_formatted": "886.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 49500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 53700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "DM|LA|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PUJ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.921740",
+      "booking_url": "",
+      "price_normalized": 886.66
+    },
+    {
+      "id": "rt_ca4eb96abdcc",
+      "price": 895.0,
+      "currency": "EUR",
+      "price_formatted": "895.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.916224",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 895.0
+    },
+    {
+      "id": "combo_a889d05a1e0a",
+      "price": 896.66,
+      "currency": "EUR",
+      "price_formatted": "896.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00-04:00",
+            "arrival": "2026-05-03T23:30:00-05:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA"
+      ],
+      "owner_airline": "DM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PUJ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.921740",
+      "booking_url": "",
+      "price_normalized": 896.66
+    },
+    {
+      "id": "combo_ca15754a7a22",
+      "price": 896.66,
+      "currency": "EUR",
+      "price_formatted": "896.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 51000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 53700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "DM|LA|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PUJ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.921740",
+      "booking_url": "",
+      "price_normalized": 896.66
+    },
+    {
+      "id": "rt_68ca8baea7a3",
+      "price": 909.0,
+      "currency": "EUR",
+      "price_formatted": "909.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "AD"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.917224",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 909.0
+    },
+    {
+      "id": "combo_26572fb3af0c",
+      "price": 910.66,
+      "currency": "EUR",
+      "price_formatted": "910.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00-04:00",
+            "arrival": "2026-05-03T23:30:00-05:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "DM|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PUJ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.921740",
+      "booking_url": "",
+      "price_normalized": 910.66
+    },
+    {
+      "id": "combo_761bb352c086",
+      "price": 910.66,
+      "currency": "EUR",
+      "price_formatted": "910.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45900,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 53700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "DM|G3|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PUJ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.921740",
+      "booking_url": "",
+      "price_normalized": 910.66
+    },
+    {
+      "id": "rt_68d1ce71464e",
+      "price": 915.0,
+      "currency": "EUR",
+      "price_formatted": "915.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "DM"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.919731",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 915.0
+    },
+    {
+      "id": "combo_474b16ca370f",
+      "price": 924.66,
+      "currency": "EUR",
+      "price_formatted": "924.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00-04:00",
+            "arrival": "2026-05-03T23:30:00-05:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA"
+      ],
+      "owner_airline": "DM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PUJ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.921740",
+      "booking_url": "",
+      "price_normalized": 924.66
+    },
+    {
+      "id": "combo_4635613d62d0",
+      "price": 924.66,
+      "currency": "EUR",
+      "price_formatted": "924.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 53700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "DM|LA|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PUJ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.922739",
+      "booking_url": "",
+      "price_normalized": 924.66
+    },
+    {
+      "id": "combo_1ce27c94aece",
+      "price": 930.66,
+      "currency": "EUR",
+      "price_formatted": "930.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00-04:00",
+            "arrival": "2026-05-03T23:30:00-05:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "DM",
+        "LA"
+      ],
+      "owner_airline": "AD|DM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PUJ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.922739",
+      "booking_url": "",
+      "price_normalized": 930.66
+    },
+    {
+      "id": "combo_ed85df8d3d82",
+      "price": 930.66,
+      "currency": "EUR",
+      "price_formatted": "930.66 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 100200,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LP",
+            "airline_name": "LATAM Per\u00fa",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00",
+            "arrival": "2026-05-04T08:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00",
+            "arrival": "2026-05-04T11:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 53700,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "DM",
+        "JJ",
+        "LP"
+      ],
+      "owner_airline": "AD|DM|JJ|LP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=PUJ&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.922739",
+      "booking_url": "",
+      "price_normalized": 930.66
+    },
+    {
+      "id": "rt_c265c98f422c",
+      "price": 931.0,
+      "currency": "EUR",
+      "price_formatted": "931.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 84000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.919731",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 931.0
+    },
+    {
+      "id": "rt_9100a7247fbe",
+      "price": 937.0,
+      "currency": "EUR",
+      "price_formatted": "937.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 80700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.919731",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 937.0
+    },
+    {
+      "id": "combo_0f219ddfff79",
+      "price": 942.74,
+      "currency": "EUR",
+      "price_formatted": "942.74 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 49500,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2453",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:30:00-04:00",
+            "arrival": "2026-05-03T21:25:00-05:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA"
+      ],
+      "owner_airline": "DM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/PUJ/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.922739",
+      "booking_url": "",
+      "price_normalized": 942.74
+    },
+    {
+      "id": "rt_0a6d4750ba22",
+      "price": 946.0,
+      "currency": "EUR",
+      "price_formatted": "946.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31239",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T18:15:00",
+            "arrival": "2026-04-30T20:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 60000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 76200,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "AD"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/punta-cana-dominican-republic/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:29:44.919731",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/punta-cana-dominican-republic/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 946.0
+    },
+    {
+      "id": "rt_skip_e8ba4fab59d9",
+      "price": 1098.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T07:25:00-03:00",
+            "arrival": "2026-04-30T10:35:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2450",
+            "origin": "LIM",
+            "destination": "PUJ",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:30:00-05:00",
+            "arrival": "2026-04-30T18:30:00-04:00",
+            "duration_seconds": 18000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2451",
+            "origin": "PUJ",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T19:35:00-04:00",
+            "arrival": "2026-05-03T23:30:00-05:00",
+            "duration_seconds": 17700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:25:20.140375",
+      "booking_url": "https://skiplagged.com/flights/POA/PUJ/2026-04-30",
+      "price_normalized": 933.11334
+    }
+  ]
+}

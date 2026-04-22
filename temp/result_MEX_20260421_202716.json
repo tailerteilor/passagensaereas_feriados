@@ -1,0 +1,2277 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "ss_f918159eec",
+      "price": 548.28,
+      "currency": "EUR",
+      "price_formatted": "549 \u20ac",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2940",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:20:00",
+            "arrival": "2026-04-30T23:05:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM702",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Panama City",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM120",
+            "origin": "PTY",
+            "destination": "MEX",
+            "origin_city": "Panama City",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T09:22:00",
+            "arrival": "2026-05-01T12:10:00",
+            "duration_seconds": 13680,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64200,
+        "stopovers": 2
+      },
+      "inbound": null,
+      "airlines": [
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:28:51.745389",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+      "price_normalized": 548.28
+    },
+    {
+      "id": "rt_be46045d3800",
+      "price": 877.0,
+      "currency": "EUR",
+      "price_formatted": "877.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43919",
+            "origin": "LIM",
+            "destination": "MEX",
+            "origin_city": "Lima",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T06:04:00",
+            "arrival": "2026-05-01T11:10:00",
+            "duration_seconds": 21960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 110700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43918",
+            "origin": "MEX",
+            "destination": "LIM",
+            "origin_city": "Mexico City",
+            "destination_city": "Lima",
+            "departure": "2026-05-03T22:00:00",
+            "arrival": "2026-05-04T05:01:00",
+            "duration_seconds": 21660,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25562",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "Lima",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T21:25:00",
+            "arrival": "2026-05-05T04:05:00",
+            "duration_seconds": 16800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "Y4",
+        "AD",
+        "H2"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.164735",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 877.0
+    },
+    {
+      "id": "rt_989e20be67dc",
+      "price": 880.0,
+      "currency": "EUR",
+      "price_formatted": "880.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43919",
+            "origin": "LIM",
+            "destination": "MEX",
+            "origin_city": "Lima",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T06:04:00",
+            "arrival": "2026-05-01T11:10:00",
+            "duration_seconds": 21960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 110700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM149",
+            "origin": "MEX",
+            "destination": "PTY",
+            "origin_city": "Mexico City",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T01:20:00",
+            "arrival": "2026-05-03T05:56:00",
+            "duration_seconds": 12960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T15:30:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 136800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "Y4",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.164735",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 880.0
+    },
+    {
+      "id": "rt_5dfc63e64678",
+      "price": 908.0,
+      "currency": "EUR",
+      "price_formatted": "908.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "VB",
+            "airline_name": "VivaAerobus",
+            "flight_no": "VB2272",
+            "origin": "CUN",
+            "destination": "NLU",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T06:10:00",
+            "arrival": "2026-05-01T07:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 118500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43918",
+            "origin": "MEX",
+            "destination": "LIM",
+            "origin_city": "Mexico City",
+            "destination_city": "Lima",
+            "departure": "2026-05-03T22:00:00",
+            "arrival": "2026-05-04T05:01:00",
+            "duration_seconds": 21660,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25562",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "Lima",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T21:25:00",
+            "arrival": "2026-05-05T04:05:00",
+            "duration_seconds": 16800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "VB",
+        "AD",
+        "H2",
+        "Y4"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.164735",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 908.0
+    },
+    {
+      "id": "combo_5defdb1e16e7",
+      "price": 910.28,
+      "currency": "EUR",
+      "price_formatted": "910.28 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2940",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:20:00",
+            "arrival": "2026-04-30T23:05:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM702",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Panama City",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM120",
+            "origin": "PTY",
+            "destination": "MEX",
+            "origin_city": "Panama City",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T09:22:00",
+            "arrival": "2026-05-01T12:10:00",
+            "duration_seconds": 13680,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43918",
+            "origin": "MEX",
+            "destination": "LIM",
+            "origin_city": "Mexico City",
+            "destination_city": "Lima",
+            "departure": "2026-05-03T22:00:00",
+            "arrival": "2026-05-04T05:01:00",
+            "duration_seconds": 21660,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25562",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "Lima",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T21:25:00",
+            "arrival": "2026-05-05T04:05:00",
+            "duration_seconds": 16800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "CM",
+        "H2",
+        "Y4"
+      ],
+      "owner_airline": "AD|CM|H2|Y4",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 910.28
+    },
+    {
+      "id": "rt_41311fc9e64b",
+      "price": 911.0,
+      "currency": "EUR",
+      "price_formatted": "911.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "VB",
+            "airline_name": "VivaAerobus",
+            "flight_no": "VB2272",
+            "origin": "CUN",
+            "destination": "NLU",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T06:10:00",
+            "arrival": "2026-05-01T07:30:00",
+            "duration_seconds": 8400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 118500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM149",
+            "origin": "MEX",
+            "destination": "PTY",
+            "origin_city": "Mexico City",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T01:20:00",
+            "arrival": "2026-05-03T05:56:00",
+            "duration_seconds": 12960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T15:30:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 136800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "VB",
+        "AD"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.164735",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 911.0
+    },
+    {
+      "id": "combo_bc00a2e82052",
+      "price": 913.28,
+      "currency": "EUR",
+      "price_formatted": "913.28 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2940",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:20:00",
+            "arrival": "2026-04-30T23:05:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM702",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Panama City",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM120",
+            "origin": "PTY",
+            "destination": "MEX",
+            "origin_city": "Panama City",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T09:22:00",
+            "arrival": "2026-05-01T12:10:00",
+            "duration_seconds": 13680,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM149",
+            "origin": "MEX",
+            "destination": "PTY",
+            "origin_city": "Mexico City",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T01:20:00",
+            "arrival": "2026-05-03T05:56:00",
+            "duration_seconds": 12960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T15:30:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 136800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "AD|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 913.28
+    },
+    {
+      "id": "combo_584ff682d118",
+      "price": 919.11,
+      "currency": "EUR",
+      "price_formatted": "919.11 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "VB",
+            "airline_name": "Viva",
+            "flight_no": "VB7066",
+            "origin": "CUN",
+            "destination": "NLU",
+            "origin_city": "Cancun",
+            "destination_city": "Mexico City",
+            "departure": "2026-04-30T13:35:00",
+            "arrival": "2026-04-30T14:55:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 58800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV45",
+            "origin": "MEX",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:55:00-05:00",
+            "arrival": "2026-05-03T10:30:00-05:00",
+            "duration_seconds": 20100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 48600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "VB",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "CM|VB|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://skiplagged.com/flights/MEX/POA/2026-05-03",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:skyscanner_meta+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 919.11
+    },
+    {
+      "id": "ss_100b04d209",
+      "price": 927.82,
+      "currency": "EUR",
+      "price_formatted": "928 \u20ac",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AM",
+            "airline_name": "Aeromexico",
+            "flight_no": "AM8029",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AM",
+            "airline_name": "Aeromexico",
+            "flight_no": "AM15",
+            "origin": "GRU",
+            "destination": "MEX",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Mexico City",
+            "departure": "2026-04-30T09:40:00",
+            "arrival": "2026-04-30T16:20:00",
+            "duration_seconds": 34800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47400,
+        "stopovers": 1
+      },
+      "inbound": null,
+      "airlines": [
+        "AM"
+      ],
+      "owner_airline": "AM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:28:51.745389",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+      "price_normalized": 927.82
+    },
+    {
+      "id": "combo_020ece277a98",
+      "price": 932.27,
+      "currency": "EUR",
+      "price_formatted": "932.27 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43919",
+            "origin": "LIM",
+            "destination": "MEX",
+            "origin_city": "Lima",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T06:04:00",
+            "arrival": "2026-05-01T11:10:00",
+            "duration_seconds": 21960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 110700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV45",
+            "origin": "MEX",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:55:00-05:00",
+            "arrival": "2026-05-03T10:30:00-05:00",
+            "duration_seconds": 20100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 48600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "Y4",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "LA|Y4|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MEX/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 932.27
+    },
+    {
+      "id": "combo_1602b6358c3a",
+      "price": 941.31,
+      "currency": "EUR",
+      "price_formatted": "941.31 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AM",
+            "airline_name": "Aeromexico",
+            "flight_no": "AM527",
+            "origin": "CUN",
+            "destination": "MEX",
+            "origin_city": "Cancun",
+            "destination_city": "Mexico City",
+            "departure": "2026-04-30T12:25:00",
+            "arrival": "2026-04-30T14:10:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43918",
+            "origin": "MEX",
+            "destination": "LIM",
+            "origin_city": "Mexico City",
+            "destination_city": "Lima",
+            "departure": "2026-05-03T22:00:00",
+            "arrival": "2026-05-04T05:01:00",
+            "duration_seconds": 21660,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25562",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "Lima",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T21:25:00",
+            "arrival": "2026-05-05T04:05:00",
+            "duration_seconds": 16800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AM",
+        "AD",
+        "H2",
+        "Y4"
+      ],
+      "owner_airline": "CM|AM|AD|H2|Y4",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 941.31
+    },
+    {
+      "id": "combo_8c615289070b",
+      "price": 944.31,
+      "currency": "EUR",
+      "price_formatted": "944.31 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AM",
+            "airline_name": "Aeromexico",
+            "flight_no": "AM527",
+            "origin": "CUN",
+            "destination": "MEX",
+            "origin_city": "Cancun",
+            "destination_city": "Mexico City",
+            "departure": "2026-04-30T12:25:00",
+            "arrival": "2026-04-30T14:10:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM149",
+            "origin": "MEX",
+            "destination": "PTY",
+            "origin_city": "Mexico City",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T01:20:00",
+            "arrival": "2026-05-03T05:56:00",
+            "duration_seconds": 12960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T15:30:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 136800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AM",
+        "AD"
+      ],
+      "owner_airline": "CM|AM|AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 944.31
+    },
+    {
+      "id": "rt_a2ee2364ebca",
+      "price": 956.0,
+      "currency": "EUR",
+      "price_formatted": "956.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV22",
+            "origin": "BOG",
+            "destination": "MEX",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T14:20:00",
+            "arrival": "2026-05-01T18:05:00",
+            "duration_seconds": 17100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 120600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43918",
+            "origin": "MEX",
+            "destination": "LIM",
+            "origin_city": "Mexico City",
+            "destination_city": "Lima",
+            "departure": "2026-05-03T22:00:00",
+            "arrival": "2026-05-04T05:01:00",
+            "duration_seconds": 21660,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25562",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "Lima",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T21:25:00",
+            "arrival": "2026-05-05T04:05:00",
+            "duration_seconds": 16800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "AD",
+        "H2",
+        "Y4"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.164735",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/mexico-city-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 956.0
+    },
+    {
+      "id": "combo_74819277026f",
+      "price": 956.28,
+      "currency": "EUR",
+      "price_formatted": "956.28 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2940",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:20:00",
+            "arrival": "2026-04-30T23:05:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM702",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Panama City",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM120",
+            "origin": "PTY",
+            "destination": "MEX",
+            "origin_city": "Panama City",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T09:22:00",
+            "arrival": "2026-05-01T12:10:00",
+            "duration_seconds": 13680,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7105",
+            "origin": "NLU",
+            "destination": "PUJ",
+            "origin_city": "Mexico City",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-03T10:21:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 16740,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104340,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "CM",
+        "DM"
+      ],
+      "owner_airline": "AD|CM|DM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 956.28
+    },
+    {
+      "id": "combo_7516ca9a9dca",
+      "price": 965.34,
+      "currency": "EUR",
+      "price_formatted": "965.34 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8112",
+            "origin": "GRU",
+            "destination": "MEX",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T14:55:00",
+            "duration_seconds": 33000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "Y4",
+            "airline_name": "Volaris",
+            "flight_no": "Y43918",
+            "origin": "MEX",
+            "destination": "LIM",
+            "origin_city": "Mexico City",
+            "destination_city": "Lima",
+            "departure": "2026-05-03T22:00:00",
+            "arrival": "2026-05-04T05:01:00",
+            "duration_seconds": 21660,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H25562",
+            "origin": "LIM",
+            "destination": "GRU",
+            "origin_city": "Lima",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T21:25:00",
+            "arrival": "2026-05-05T04:05:00",
+            "duration_seconds": 16800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 114300,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "H2",
+        "Y4"
+      ],
+      "owner_airline": "LA|AD|H2|Y4",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 965.34
+    },
+    {
+      "id": "combo_a47131dfba39",
+      "price": 965.55,
+      "currency": "EUR",
+      "price_formatted": "965.55 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2940",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:20:00",
+            "arrival": "2026-04-30T23:05:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM702",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Panama City",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM120",
+            "origin": "PTY",
+            "destination": "MEX",
+            "origin_city": "Panama City",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T09:22:00",
+            "arrival": "2026-05-01T12:10:00",
+            "duration_seconds": 13680,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV45",
+            "origin": "MEX",
+            "destination": "BOG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T04:55:00-05:00",
+            "arrival": "2026-05-03T10:30:00-05:00",
+            "duration_seconds": 20100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "",
+            "flight_no": "AV249",
+            "origin": "BOG",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T14:20:00-05:00",
+            "arrival": "2026-05-03T22:30:00-03:00",
+            "duration_seconds": 22200,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "",
+            "flight_no": "G31234",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T08:55:00-03:00",
+            "arrival": "2026-05-04T10:40:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 48600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "CM",
+        "AV",
+        "G3"
+      ],
+      "owner_airline": "AD|CM|AV|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://skiplagged.com/flights/MEX/POA/2026-05-03",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:skyscanner_meta+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 965.55
+    },
+    {
+      "id": "combo_8ad73a941de4",
+      "price": 968.34,
+      "currency": "EUR",
+      "price_formatted": "968.34 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8112",
+            "origin": "GRU",
+            "destination": "MEX",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T08:45:00",
+            "arrival": "2026-05-01T14:55:00",
+            "duration_seconds": 33000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 68700,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM149",
+            "origin": "MEX",
+            "destination": "PTY",
+            "origin_city": "Mexico City",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T01:20:00",
+            "arrival": "2026-05-03T05:56:00",
+            "duration_seconds": 12960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM800",
+            "origin": "PTY",
+            "destination": "GRU",
+            "origin_city": "Panama",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T15:30:00",
+            "arrival": "2026-05-04T00:30:00",
+            "duration_seconds": 25200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 136800,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AD",
+        "CM"
+      ],
+      "owner_airline": "LA|AD|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 968.34
+    },
+    {
+      "id": "combo_35b6bbb7715d",
+      "price": 982.28,
+      "currency": "EUR",
+      "price_formatted": "982.28 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul Airlines",
+            "flight_no": "AD2940",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Sao Paulo",
+            "departure": "2026-04-30T21:20:00",
+            "arrival": "2026-04-30T23:05:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM702",
+            "origin": "GRU",
+            "destination": "PTY",
+            "origin_city": "Sao Paulo",
+            "destination_city": "Panama City",
+            "departure": "2026-05-01T03:15:00",
+            "arrival": "2026-05-01T08:11:00",
+            "duration_seconds": 24960,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM120",
+            "origin": "PTY",
+            "destination": "MEX",
+            "origin_city": "Panama City",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T09:22:00",
+            "arrival": "2026-05-01T12:10:00",
+            "duration_seconds": 13680,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 64200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM857",
+            "origin": "MEX",
+            "destination": "PTY",
+            "origin_city": "Mexico City",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T02:10:00",
+            "arrival": "2026-05-03T06:46:00",
+            "duration_seconds": 12960,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM873",
+            "origin": "PTY",
+            "destination": "GIG",
+            "origin_city": "Panama",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T15:22:00",
+            "arrival": "2026-05-04T00:25:00",
+            "duration_seconds": 25380,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3427",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T22:15:00",
+            "arrival": "2026-05-05T00:15:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 155100,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "AD|CM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 982.28
+    },
+    {
+      "id": "combo_f4f56b4b9aa6",
+      "price": 983.69,
+      "currency": "EUR",
+      "price_formatted": "983.69 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "VB",
+            "airline_name": "Viva",
+            "flight_no": "VB7066",
+            "origin": "CUN",
+            "destination": "NLU",
+            "origin_city": "Cancun",
+            "destination_city": "Mexico City",
+            "departure": "2026-04-30T13:35:00",
+            "arrival": "2026-04-30T14:55:00",
+            "duration_seconds": 8400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 58800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8113",
+            "origin": "MEX",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:20:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 36300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3603",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T14:00:00-03:00",
+            "arrival": "2026-05-04T15:55:00-03:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 49500,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "VB",
+        "LA"
+      ],
+      "owner_airline": "CM|VB|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://skiplagged.com/flights/MEX/POA/2026-05-03",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:skyscanner_meta+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 983.69
+    },
+    {
+      "id": "combo_82c0dffc875c",
+      "price": 987.31,
+      "currency": "EUR",
+      "price_formatted": "987.31 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "AM",
+            "airline_name": "Aeromexico",
+            "flight_no": "AM527",
+            "origin": "CUN",
+            "destination": "MEX",
+            "origin_city": "Cancun",
+            "destination_city": "Mexico City",
+            "departure": "2026-04-30T12:25:00",
+            "arrival": "2026-04-30T14:10:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7105",
+            "origin": "NLU",
+            "destination": "PUJ",
+            "origin_city": "Mexico City",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-03T10:21:00",
+            "arrival": "2026-05-03T17:00:00",
+            "duration_seconds": 16740,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6088",
+            "origin": "PUJ",
+            "destination": "GRU",
+            "origin_city": "Punta Cana",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T20:10:00",
+            "arrival": "2026-05-04T04:20:00",
+            "duration_seconds": 25800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2864",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T16:40:00",
+            "arrival": "2026-05-04T18:20:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104340,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "AM",
+        "AD",
+        "DM"
+      ],
+      "owner_airline": "CM|AM|AD|DM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.skyscanner.net/transport/flights/poa/mex/",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/mexico-city-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price",
+        "outbound_source": "skyscanner_meta",
+        "inbound_source": "kiwi_connector"
+      },
+      "source": "combo:skyscanner_meta+kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T23:30:47.166731",
+      "booking_url": "",
+      "price_normalized": 987.31
+    }
+  ]
+}

@@ -1,0 +1,1881 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_ae8b2c82da83",
+      "price": 412.44,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Florianopolis",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G39337",
+            "origin": "FLN",
+            "destination": "GIG",
+            "origin_city": "Florianopolis",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T23:30:00",
+            "arrival": "2026-05-01T01:00:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37232",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T19:30:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37651",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T10:20:00",
+            "arrival": "2026-05-03T13:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32088",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T15:05:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:12.445916",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/aep/",
+      "price_normalized": 412.44
+    },
+    {
+      "id": "rt_ss_4e1381689c67",
+      "price": 412.44,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Florianopolis",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G39337",
+            "origin": "FLN",
+            "destination": "GIG",
+            "origin_city": "Florianopolis",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T23:30:00",
+            "arrival": "2026-05-01T01:00:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37232",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T19:30:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37233",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T20:30:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32088",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T15:05:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:12.445916",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/aep/",
+      "price_normalized": 412.44
+    },
+    {
+      "id": "rt_ss_3e6741f79d05",
+      "price": 412.44,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Florianopolis",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G39337",
+            "origin": "FLN",
+            "destination": "GIG",
+            "origin_city": "Florianopolis",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T23:30:00",
+            "arrival": "2026-05-01T01:00:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37232",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T19:30:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37609",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T14:30:00",
+            "arrival": "2026-05-03T17:30:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32088",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T15:05:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:12.445916",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/aep/",
+      "price_normalized": 412.44
+    },
+    {
+      "id": "rt_ss_165c94421245",
+      "price": 422.09,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32093",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T05:50:00",
+            "arrival": "2026-04-30T07:45:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 73800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37651",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T10:20:00",
+            "arrival": "2026-05-03T13:20:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32088",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T15:05:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:12.445916",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/aep/",
+      "price_normalized": 422.09
+    },
+    {
+      "id": "rt_ss_3253fd9cb02c",
+      "price": 422.09,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32093",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T05:50:00",
+            "arrival": "2026-04-30T07:45:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 73800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37233",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T20:30:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32088",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T15:05:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 66900,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:12.445916",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/aep/",
+      "price_normalized": 422.09
+    },
+    {
+      "id": "rt_ss_fba8fff99e62",
+      "price": 422.09,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32093",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T05:50:00",
+            "arrival": "2026-04-30T07:45:00",
+            "duration_seconds": 6900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 73800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37609",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-05-03T14:30:00",
+            "arrival": "2026-05-03T17:30:00",
+            "duration_seconds": 10800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32088",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T12:55:00",
+            "arrival": "2026-05-04T15:05:00",
+            "duration_seconds": 7800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88500,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:12.445916",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/aep/",
+      "price_normalized": 422.09
+    },
+    {
+      "id": "rt_ss_9c1d39349afe",
+      "price": 428.53,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Florianopolis",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:05:00",
+            "duration_seconds": 3900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G39337",
+            "origin": "FLN",
+            "destination": "GIG",
+            "origin_city": "Florianopolis",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T23:30:00",
+            "arrival": "2026-05-01T01:00:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37232",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T19:30:00",
+            "duration_seconds": 11700,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G37657",
+            "origin": "AEP",
+            "destination": "BSB",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Brasilia",
+            "departure": "2026-05-03T03:40:00",
+            "arrival": "2026-05-03T06:50:00",
+            "duration_seconds": 11400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL Linhas A\u00e9reas",
+            "flight_no": "G31796",
+            "origin": "BSB",
+            "destination": "POA",
+            "origin_city": "Brasilia",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T20:50:00",
+            "arrival": "2026-05-03T23:35:00",
+            "duration_seconds": 9900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 71700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:12.445916",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/aep/",
+      "price_normalized": 428.53
+    },
+    {
+      "id": "rt_mm_ffcb194a1875",
+      "price": 480.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G39337",
+            "origin": "FLN",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:30:00",
+            "arrival": "2026-05-01T01:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37232",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T19:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA3880",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:45:00",
+            "arrival": "2026-05-03T07:11:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "JA",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:40:41.740422",
+      "booking_url": "https://www.momondo.com/flight-search/POA-AEP/2026-04-30",
+      "price_normalized": 407.91839999999996
+    },
+    {
+      "id": "rt_cf_f15a08e9e85d",
+      "price": 489.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32093",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T05:50:00",
+            "arrival": "2026-04-30T07:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 73800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA3880",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:45:00",
+            "arrival": "2026-05-03T07:11:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "JA",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cheapflights_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:41:41.583505",
+      "booking_url": "https://www.cheapflights.com/flight-search/POA-AEP/2026-04-30",
+      "price_normalized": 415.56687
+    },
+    {
+      "id": "rt_mm_4bab8e8e096a",
+      "price": 511.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31332",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA3880",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:45:00",
+            "arrival": "2026-05-03T07:11:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "JA",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:40:41.740422",
+      "booking_url": "https://www.momondo.com/flight-search/POA-AEP/2026-04-30",
+      "price_normalized": 434.26313
+    },
+    {
+      "id": "rt_mm_1f1c3945dc53",
+      "price": 559.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G31332",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 21600,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37651",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T10:20:00",
+            "arrival": "2026-05-03T13:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32090",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T15:35:00",
+            "arrival": "2026-05-03T17:45:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 26700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:40:41.740422",
+      "booking_url": "https://www.momondo.com/flight-search/POA-AEP/2026-04-30",
+      "price_normalized": 475.05496999999997
+    },
+    {
+      "id": "rt_mm_654c71d273d4",
+      "price": 563.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32091",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T19:40:00",
+            "arrival": "2026-04-30T21:35:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37656",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:05:00",
+            "arrival": "2026-05-01T02:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 24000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA3880",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:45:00",
+            "arrival": "2026-05-03T07:11:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "G3",
+        "JA",
+        "LA"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:40:41.740422",
+      "booking_url": "https://www.momondo.com/flight-search/POA-AEP/2026-04-30",
+      "price_normalized": 478.45428999999996
+    },
+    {
+      "id": "rt_mm_bf34f6c4c77f",
+      "price": 573.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1233",
+            "origin": "POA",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:25:00",
+            "arrival": "2026-04-30T23:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6900,
+        "stopovers": 0
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA3880",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T05:45:00",
+            "arrival": "2026-05-03T07:11:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AR",
+        "JA",
+        "LA"
+      ],
+      "owner_airline": "AR",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:40:41.740422",
+      "booking_url": "https://www.momondo.com/flight-search/POA-AEP/2026-04-30",
+      "price_normalized": 486.95259
+    },
+    {
+      "id": "rt_c42c17d5e719",
+      "price": 574.0,
+      "currency": "EUR",
+      "price_formatted": "574.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8032",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T06:35:00",
+            "arrival": "2026-05-01T09:40:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA3880",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-03T05:45:00",
+            "arrival": "2026-05-03T07:11:00",
+            "duration_seconds": 8760,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "JA"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/buenos-aires-buenos-aires-argentina/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:43.394799",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 574.0
+    },
+    {
+      "id": "rt_mm_fbe8c9852335",
+      "price": 576.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32105",
+            "origin": "POA",
+            "destination": "FLN",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T06:00:00",
+            "arrival": "2026-04-30T07:05:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G39337",
+            "origin": "FLN",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T23:30:00",
+            "arrival": "2026-05-01T01:00:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37232",
+            "origin": "GIG",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T16:15:00",
+            "arrival": "2026-05-01T19:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 135000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1232",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:30:00",
+            "arrival": "2026-05-03T20:10:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 6000,
+        "stopovers": 0
+      },
+      "airlines": [
+        "G3",
+        "AR"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "momondo_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:40:41.740422",
+      "booking_url": "https://www.momondo.com/flight-search/POA-AEP/2026-04-30",
+      "price_normalized": 489.50208
+    },
+    {
+      "id": "rt_f77ccad18d99",
+      "price": 582.0,
+      "currency": "EUR",
+      "price_formatted": "582.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8032",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T06:35:00",
+            "arrival": "2026-05-01T09:40:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "JA",
+            "airline_name": "JetSMART",
+            "flight_no": "JA3880",
+            "origin": "AEP",
+            "destination": "SCL",
+            "origin_city": "Buenos Aires",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-03T05:45:00",
+            "arrival": "2026-05-03T07:11:00",
+            "duration_seconds": 8760,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA740",
+            "origin": "SCL",
+            "destination": "POA",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-03T13:55:00",
+            "arrival": "2026-05-03T18:15:00",
+            "duration_seconds": 12000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 45000,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "JA"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/buenos-aires-buenos-aires-argentina/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:43.394799",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 582.0
+    },
+    {
+      "id": "combo_30dd8e928ef3",
+      "price": 597.65,
+      "currency": "EUR",
+      "price_formatted": "597.65 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8032",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T06:35:00",
+            "arrival": "2026-05-01T09:40:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39000,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37233",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T20:30:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32086",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:05:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=AEP&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:43.394799",
+      "booking_url": "",
+      "price_normalized": 597.65
+    },
+    {
+      "id": "combo_7a3bc902838f",
+      "price": 599.65,
+      "currency": "EUR",
+      "price_formatted": "599.65 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8152",
+            "origin": "GRU",
+            "destination": "SCL",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Santiago de Chile",
+            "departure": "2026-05-01T23:30:00",
+            "arrival": "2026-05-02T02:50:00",
+            "duration_seconds": 15600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "H2",
+            "airline_name": "Sky Airline",
+            "flight_no": "H2535",
+            "origin": "SCL",
+            "destination": "AEP",
+            "origin_city": "Santiago de Chile",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-02T17:40:00",
+            "arrival": "2026-05-02T20:40:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 165000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37233",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T20:30:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32086",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:05:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "H2",
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "H2|LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=AEP&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:43.394799",
+      "booking_url": "",
+      "price_normalized": 599.65
+    },
+    {
+      "id": "combo_ebe6e05e6695",
+      "price": 600.65,
+      "currency": "EUR",
+      "price_formatted": "600.65 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA1300",
+            "origin": "GRU",
+            "destination": "ASU",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Asunci\u00f3n",
+            "departure": "2026-05-01T08:20:00",
+            "arrival": "2026-05-01T10:35:00",
+            "duration_seconds": 8100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AR",
+            "airline_name": "Aerolineas Argentinas",
+            "flight_no": "AR1345",
+            "origin": "ASU",
+            "destination": "AEP",
+            "origin_city": "Asunci\u00f3n",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T21:35:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 88800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37233",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T20:30:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32086",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:05:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AR",
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "AR|LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=AEP&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:43.394799",
+      "booking_url": "",
+      "price_normalized": 600.65
+    },
+    {
+      "id": "combo_cf3119ce6b48",
+      "price": 605.65,
+      "currency": "EUR",
+      "price_formatted": "605.65 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2699",
+            "origin": "POA",
+            "destination": "VCP",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T20:30:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8032",
+            "origin": "GRU",
+            "destination": "AEP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Buenos Aires",
+            "departure": "2026-05-01T06:35:00",
+            "arrival": "2026-05-01T09:40:00",
+            "duration_seconds": 11100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 47400,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G37233",
+            "origin": "AEP",
+            "destination": "GIG",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T20:30:00",
+            "arrival": "2026-05-03T23:30:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "G3",
+            "airline_name": "GOL",
+            "flight_no": "G32086",
+            "origin": "GIG",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:05:00",
+            "arrival": "2026-05-04T12:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56700,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "LA",
+        "G3"
+      ],
+      "owner_airline": "AD|LA|G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/buenos-aires-buenos-aires-argentina/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=AEP&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T15:42:43.394799",
+      "booking_url": "",
+      "price_normalized": 605.65
+    }
+  ]
+}

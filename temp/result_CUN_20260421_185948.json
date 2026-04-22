@@ -1,0 +1,2117 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_ss_feb2af23146f",
+      "price": 698.98,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2472",
+            "origin": "LIM",
+            "destination": "MEX",
+            "origin_city": "Lima",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T08:50:00",
+            "arrival": "2026-05-01T13:50:00",
+            "duration_seconds": 21600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA7577",
+            "origin": "MEX",
+            "destination": "CUN",
+            "origin_city": "Mexico City",
+            "destination_city": "Cancun",
+            "departure": "2026-05-01T19:20:00",
+            "arrival": "2026-05-01T22:49:00",
+            "duration_seconds": 8940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 149040,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.389281",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 698.98
+    },
+    {
+      "id": "rt_ss_8b56115002c2",
+      "price": 698.98,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2423",
+            "origin": "POA",
+            "destination": "LIM",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Lima",
+            "departure": "2026-04-30T07:25:00",
+            "arrival": "2026-04-30T10:35:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2472",
+            "origin": "LIM",
+            "destination": "MEX",
+            "origin_city": "Lima",
+            "destination_city": "Mexico City",
+            "departure": "2026-05-01T08:50:00",
+            "arrival": "2026-05-01T13:50:00",
+            "duration_seconds": 21600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA7577",
+            "origin": "MEX",
+            "destination": "CUN",
+            "origin_city": "Mexico City",
+            "destination_city": "Cancun",
+            "departure": "2026-05-01T19:20:00",
+            "arrival": "2026-05-01T22:49:00",
+            "duration_seconds": 8940,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 149040,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM326",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T14:03:00",
+            "arrival": "2026-05-03T16:40:00",
+            "duration_seconds": 9420,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 116220,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.394930",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 698.98
+    },
+    {
+      "id": "rt_ss_60c090cdbafd",
+      "price": 731.16,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3952",
+            "origin": "POA",
+            "destination": "BSB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Brasilia",
+            "departure": "2026-04-30T11:00:00",
+            "arrival": "2026-04-30T13:30:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2403",
+            "origin": "BSB",
+            "destination": "LIM",
+            "origin_city": "Brasilia",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T09:00:00",
+            "arrival": "2026-05-01T11:50:00",
+            "duration_seconds": 17400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2454",
+            "origin": "LIM",
+            "destination": "CUN",
+            "origin_city": "Lima",
+            "destination_city": "Cancun",
+            "departure": "2026-05-02T10:45:00",
+            "arrival": "2026-05-02T16:15:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 198900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.394930",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 731.16
+    },
+    {
+      "id": "rt_ss_10cb41349136",
+      "price": 731.16,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3952",
+            "origin": "POA",
+            "destination": "BSB",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Brasilia",
+            "departure": "2026-04-30T11:00:00",
+            "arrival": "2026-04-30T13:30:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2403",
+            "origin": "BSB",
+            "destination": "LIM",
+            "origin_city": "Brasilia",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T09:00:00",
+            "arrival": "2026-05-01T11:50:00",
+            "duration_seconds": 17400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2454",
+            "origin": "LIM",
+            "destination": "CUN",
+            "origin_city": "Lima",
+            "destination_city": "Cancun",
+            "departure": "2026-05-02T10:45:00",
+            "arrival": "2026-05-02T16:15:00",
+            "duration_seconds": 19800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 198900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM326",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T14:03:00",
+            "arrival": "2026-05-03T16:40:00",
+            "duration_seconds": 9420,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 116220,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.394930",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 731.16
+    },
+    {
+      "id": "rt_ss_fe7359a2e04d",
+      "price": 737.91,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40260,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.394930",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 737.91
+    },
+    {
+      "id": "rt_ss_e4ddd13cb6f6",
+      "price": 737.91,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40260,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM326",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T14:03:00",
+            "arrival": "2026-05-03T16:40:00",
+            "duration_seconds": 9420,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 116220,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.394930",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 737.91
+    },
+    {
+      "id": "rt_ss_c65136806d04",
+      "price": 741.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM113",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T10:10:00",
+            "arrival": "2026-04-30T13:01:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 48360,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.394930",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 741.0
+    },
+    {
+      "id": "rt_ss_f41a2457a37a",
+      "price": 741.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama City",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM113",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama City",
+            "destination_city": "Cancun",
+            "departure": "2026-04-30T10:10:00",
+            "arrival": "2026-04-30T13:01:00",
+            "duration_seconds": 10260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 48360,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM326",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Cancun",
+            "destination_city": "Panama City",
+            "departure": "2026-05-03T14:03:00",
+            "arrival": "2026-05-03T16:40:00",
+            "duration_seconds": 9420,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama City",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 116220,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skyscanner_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:04:14.394930",
+      "booking_url": "https://www.skyscanner.net/transport/flights/poa/cun/",
+      "price_normalized": 741.0
+    },
+    {
+      "id": "rt_5a33a53bcc93",
+      "price": 800.0,
+      "currency": "EUR",
+      "price_formatted": "800.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8122",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T21:30:00",
+            "arrival": "2026-05-02T00:45:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2454",
+            "origin": "LIM",
+            "destination": "CUN",
+            "origin_city": "Lima",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-02T10:45:00",
+            "arrival": "2026-05-02T16:15:00",
+            "duration_seconds": 19800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 156300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/cancun-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.526004",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 800.0
+    },
+    {
+      "id": "rt_d58ce3e11898",
+      "price": 802.0,
+      "currency": "EUR",
+      "price_formatted": "802.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132240,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/cancun-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.527002",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 802.0
+    },
+    {
+      "id": "rt_8fd65c736900",
+      "price": 811.0,
+      "currency": "EUR",
+      "price_formatted": "811.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3479",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T04:45:00",
+            "arrival": "2026-04-30T06:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 133740,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/cancun-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.527002",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 811.0
+    },
+    {
+      "id": "rt_f58f8d0a9f1e",
+      "price": 825.0,
+      "currency": "EUR",
+      "price_formatted": "825.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 128640,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/cancun-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.527002",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 825.0
+    },
+    {
+      "id": "rt_f72fb7461d69",
+      "price": 870.0,
+      "currency": "EUR",
+      "price_formatted": "870.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 125340,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "DM",
+        "CM"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/cancun-mexico/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.527002",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 870.0
+    },
+    {
+      "id": "combo_78c418f9c407",
+      "price": 921.46,
+      "currency": "EUR",
+      "price_formatted": "921.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132240,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2457",
+            "origin": "CUN",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:45:00-05:00",
+            "arrival": "2026-05-03T23:55:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA"
+      ],
+      "owner_airline": "DM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CUN/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.529475",
+      "booking_url": "",
+      "price_normalized": 921.46
+    },
+    {
+      "id": "combo_56de4c885409",
+      "price": 943.46,
+      "currency": "EUR",
+      "price_formatted": "943.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Panama",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM316",
+            "origin": "PTY",
+            "destination": "CUN",
+            "origin_city": "Panama",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-04-30T07:55:00",
+            "arrival": "2026-04-30T10:46:00",
+            "duration_seconds": 10260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 40260,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2457",
+            "origin": "CUN",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:45:00-05:00",
+            "arrival": "2026-05-03T23:55:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "CM",
+        "LA"
+      ],
+      "owner_airline": "CM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CUN/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.530481",
+      "booking_url": "",
+      "price_normalized": 943.46
+    },
+    {
+      "id": "combo_3726a521082e",
+      "price": 944.46,
+      "currency": "EUR",
+      "price_formatted": "944.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31241",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:10:00",
+            "arrival": "2026-04-30T08:05:00",
+            "duration_seconds": 6900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 128640,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2457",
+            "origin": "CUN",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:45:00-05:00",
+            "arrival": "2026-05-03T23:55:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "G3",
+        "LA"
+      ],
+      "owner_airline": "DM|G3|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CUN/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.530481",
+      "booking_url": "",
+      "price_normalized": 944.46
+    },
+    {
+      "id": "combo_b268d1352332",
+      "price": 989.46,
+      "currency": "EUR",
+      "price_formatted": "989.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 125340,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2457",
+            "origin": "CUN",
+            "destination": "LIM",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:45:00-05:00",
+            "arrival": "2026-05-03T23:55:00-05:00",
+            "duration_seconds": 18600,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA2445",
+            "origin": "LIM",
+            "destination": "AEP",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T02:05:00-05:00",
+            "arrival": "2026-05-04T08:30:00-03:00",
+            "duration_seconds": 15900,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8129",
+            "origin": "AEP",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T10:00:00-03:00",
+            "arrival": "2026-05-04T11:30:00-03:00",
+            "duration_seconds": 5400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39900,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "DM",
+        "LA"
+      ],
+      "owner_airline": "AD|DM|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CUN/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.531989",
+      "booking_url": "",
+      "price_normalized": 989.46
+    },
+    {
+      "id": "combo_fce67fd5a38b",
+      "price": 991.69,
+      "currency": "EUR",
+      "price_formatted": "991.69 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3403",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T22:50:00",
+            "arrival": "2026-05-01T00:35:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8122",
+            "origin": "GRU",
+            "destination": "LIM",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Lima",
+            "departure": "2026-05-01T21:30:00",
+            "arrival": "2026-05-02T00:45:00",
+            "duration_seconds": 18900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA2454",
+            "origin": "LIM",
+            "destination": "CUN",
+            "origin_city": "Lima",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-02T10:45:00",
+            "arrival": "2026-05-02T16:15:00",
+            "duration_seconds": 19800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 156300,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AM",
+            "airline_name": "",
+            "flight_no": "AM523",
+            "origin": "CUN",
+            "destination": "MEX",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:30:00-05:00",
+            "arrival": "2026-05-03T13:10:00-05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8113",
+            "origin": "MEX",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:20:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 36300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3416",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T07:35:00-03:00",
+            "arrival": "2026-05-04T09:20:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 48600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "LA",
+        "AM"
+      ],
+      "owner_airline": "LA|AM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CUN/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.531989",
+      "booking_url": "",
+      "price_normalized": 991.69
+    },
+    {
+      "id": "combo_50b3a0b8e7ad",
+      "price": 993.69,
+      "currency": "EUR",
+      "price_formatted": "993.69 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM7002",
+            "origin": "PUJ",
+            "destination": "CUN",
+            "origin_city": "Punta Cana",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:37:00",
+            "arrival": "2026-05-01T15:54:00",
+            "duration_seconds": 11820,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132240,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AM",
+            "airline_name": "",
+            "flight_no": "AM523",
+            "origin": "CUN",
+            "destination": "MEX",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:30:00-05:00",
+            "arrival": "2026-05-03T13:10:00-05:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA8113",
+            "origin": "MEX",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:20:00-05:00",
+            "arrival": "2026-05-04T05:25:00-03:00",
+            "duration_seconds": 36300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA3416",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T07:35:00-03:00",
+            "arrival": "2026-05-04T09:20:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 48600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "AM"
+      ],
+      "owner_airline": "DM|LA|AM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/CUN/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:06:12.531989",
+      "booking_url": "",
+      "price_normalized": 993.69
+    },
+    {
+      "id": "rt_kiwi_afc3b0b96d06",
+      "price": 1235.0,
+      "currency": "EUR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV2620",
+            "origin": "POA",
+            "destination": "GIG",
+            "origin_city": "Porto Alegre",
+            "destination_city": "Rio de Janeiro",
+            "departure": "2026-04-30T20:20:00",
+            "arrival": "2026-04-30T22:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV260",
+            "origin": "GIG",
+            "destination": "BOG",
+            "origin_city": "Rio de Janeiro",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T07:20:00",
+            "arrival": "2026-05-01T11:45:00",
+            "duration_seconds": 23100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV264",
+            "origin": "BOG",
+            "destination": "CUN",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Canc\u00fan",
+            "departure": "2026-05-01T13:35:00",
+            "arrival": "2026-05-01T17:20:00",
+            "duration_seconds": 13500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 82800,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM347",
+            "origin": "CUN",
+            "destination": "PTY",
+            "origin_city": "Canc\u00fan",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T16:49:00",
+            "arrival": "2026-05-03T19:23:00",
+            "duration_seconds": 9240,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 106260,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "CM"
+      ],
+      "owner_airline": "AV",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-21T22:03:08.088408",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/cancun-mexico/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1235.0
+    }
+  ]
+}

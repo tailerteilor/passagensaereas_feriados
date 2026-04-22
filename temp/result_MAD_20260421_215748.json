@@ -1,0 +1,2295 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "rt_280558b74c8f",
+      "price": 1195.0,
+      "currency": "EUR",
+      "price_formatted": "1195.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "UX",
+            "airline_name": "Air Europa",
+            "flight_no": "UX1222",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T17:10:00",
+            "arrival": "2026-05-01T19:10:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "Madrid",
+            "destination_city": "Rome",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "Rome",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 180600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "UX",
+        "AZ"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.373524",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1195.0
+    },
+    {
+      "id": "rt_280558b74c8f",
+      "price": 1197.0,
+      "currency": "EUR",
+      "price_formatted": "1197.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4780",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T21:35:00",
+            "arrival": "2026-05-01T23:45:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 112200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "Madrid",
+            "destination_city": "Rome",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "Rome",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 180600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "TO",
+        "AD",
+        "AZ"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.373524",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1197.0
+    },
+    {
+      "id": "rt_aee9274c9a16",
+      "price": 1207.0,
+      "currency": "EUR",
+      "price_formatted": "1207.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4630",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-02T06:00:00",
+            "arrival": "2026-05-02T08:10:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 158700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "Madrid",
+            "destination_city": "Rome",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "Rome",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 180600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "TO",
+        "AZ"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.373524",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1207.0
+    },
+    {
+      "id": "rt_b7ae71f6566d",
+      "price": 1223.0,
+      "currency": "EUR",
+      "price_formatted": "1223.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4630",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-02T06:00:00",
+            "arrival": "2026-05-02T08:10:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 142500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "Madrid",
+            "destination_city": "Rome",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "Rome",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 180600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "TO",
+        "AD",
+        "AZ"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.374522",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1223.0
+    },
+    {
+      "id": "rt_af1bc0ba8097",
+      "price": 1238.0,
+      "currency": "EUR",
+      "price_formatted": "1238.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3415",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T06:45:00",
+            "arrival": "2026-04-30T08:30:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA8072",
+            "origin": "GRU",
+            "destination": "MXP",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Milan",
+            "departure": "2026-04-30T18:00:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "FR",
+            "airline_name": "Ryanair",
+            "flight_no": "FR5120",
+            "origin": "BGY",
+            "destination": "MAD",
+            "origin_city": "Milan",
+            "destination_city": "Madrid",
+            "departure": "2026-05-02T06:20:00",
+            "arrival": "2026-05-02T08:45:00",
+            "duration_seconds": 8700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 162000,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "Madrid",
+            "destination_city": "Rome",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "Rome",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 180600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "FR",
+        "LA",
+        "AD",
+        "AZ"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.380520",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1238.0
+    },
+    {
+      "id": "rt_7f103140e10f",
+      "price": 1239.0,
+      "currency": "EUR",
+      "price_formatted": "1239.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31237",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T13:20:00",
+            "arrival": "2026-04-30T15:10:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4630",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-02T06:00:00",
+            "arrival": "2026-05-02T08:10:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 136200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "Madrid",
+            "destination_city": "Rome",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "Rome",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 180600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "TO",
+        "AD",
+        "AZ"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.380520",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1239.0
+    },
+    {
+      "id": "rt_cde9098086dc",
+      "price": 1243.0,
+      "currency": "EUR",
+      "price_formatted": "1243.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "VY",
+            "airline_name": "Vueling",
+            "flight_no": "VY5095",
+            "origin": "CDG",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-02T06:50:00",
+            "arrival": "2026-05-02T09:00:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 145500,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "Madrid",
+            "destination_city": "Rome",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AZ",
+            "airline_name": "ITA Airways",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "Rome",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2842",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 180600,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "VY",
+        "AD",
+        "AZ"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "hidden_city": "Hidden city ticketing",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.380520",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 1243.0
+    },
+    {
+      "id": "rt_b4433761db55",
+      "price": 1253.0,
+      "currency": "EUR",
+      "price_formatted": "1253.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "UX",
+            "airline_name": "Air Europa",
+            "flight_no": "UX1222",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T17:10:00",
+            "arrival": "2026-05-01T19:10:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD7855",
+            "origin": "MAD",
+            "destination": "LIS",
+            "origin_city": "Madrid",
+            "destination_city": "Lisbon",
+            "departure": "2026-05-03T06:30:00",
+            "arrival": "2026-05-03T06:50:00",
+            "duration_seconds": 4800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD8751",
+            "origin": "LIS",
+            "destination": "VCP",
+            "origin_city": "Lisbon",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-05-03T10:00:00",
+            "arrival": "2026-05-03T16:35:00",
+            "duration_seconds": 38100,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD2603",
+            "origin": "VCP",
+            "destination": "POA",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T06:10:00",
+            "arrival": "2026-05-04T07:55:00",
+            "duration_seconds": 6300,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 109500,
+        "stopovers": 2
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "UX",
+        "AZ"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/madrid-spain/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.382521",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+      "price_normalized": 1253.0
+    },
+    {
+      "id": "combo_8d24878326bf",
+      "price": 1264.46,
+      "currency": "EUR",
+      "price_formatted": "1264.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "UX",
+            "airline_name": "Air Europa",
+            "flight_no": "UX1222",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T17:10:00",
+            "arrival": "2026-05-01T19:10:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00+02:00",
+            "arrival": "2026-05-04T05:20:00-03:00",
+            "duration_seconds": 38100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "UX",
+        "AZ",
+        "LA"
+      ],
+      "owner_airline": "AD|AY|UX|AZ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MAD/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.384520",
+      "booking_url": "",
+      "price_normalized": 1264.46
+    },
+    {
+      "id": "combo_d46adebc3c83",
+      "price": 1265.31,
+      "currency": "EUR",
+      "price_formatted": "1265.31 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "UX",
+            "airline_name": "Air Europa",
+            "flight_no": "UX1222",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T17:10:00",
+            "arrival": "2026-05-01T19:10:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 111900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00",
+            "arrival": "2026-05-04T05:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "UX",
+        "AZ",
+        "JJ",
+        "LA"
+      ],
+      "owner_airline": "AD|AY|UX|AZ|JJ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=MAD&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.384520",
+      "booking_url": "",
+      "price_normalized": 1265.31
+    },
+    {
+      "id": "combo_8d24878326bf",
+      "price": 1266.46,
+      "currency": "EUR",
+      "price_formatted": "1266.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4780",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T21:35:00",
+            "arrival": "2026-05-01T23:45:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 112200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00+02:00",
+            "arrival": "2026-05-04T05:20:00-03:00",
+            "duration_seconds": 38100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "TO",
+        "AD",
+        "AZ",
+        "LA"
+      ],
+      "owner_airline": "AY|G3|TO|AD|AZ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MAD/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.384520",
+      "booking_url": "",
+      "price_normalized": 1266.46
+    },
+    {
+      "id": "combo_d46adebc3c83",
+      "price": 1267.31,
+      "currency": "EUR",
+      "price_formatted": "1267.31 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4780",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T21:35:00",
+            "arrival": "2026-05-01T23:45:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 112200,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00",
+            "arrival": "2026-05-04T05:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "TO",
+        "AD",
+        "AZ",
+        "JJ",
+        "LA"
+      ],
+      "owner_airline": "AY|G3|TO|AD|AZ|JJ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=MAD&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.384520",
+      "booking_url": "",
+      "price_normalized": 1267.31
+    },
+    {
+      "id": "combo_8d24878326bf",
+      "price": 1271.96,
+      "currency": "EUR",
+      "price_formatted": "1271.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "UX",
+            "airline_name": "Air Europa",
+            "flight_no": "UX1222",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T17:10:00",
+            "arrival": "2026-05-01T19:10:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 95700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00+02:00",
+            "arrival": "2026-05-04T05:20:00-03:00",
+            "duration_seconds": 38100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "UX",
+        "AD",
+        "AZ",
+        "LA"
+      ],
+      "owner_airline": "AY|G3|UX|AD|AZ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MAD/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.385527",
+      "booking_url": "",
+      "price_normalized": 1271.96
+    },
+    {
+      "id": "combo_d46adebc3c83",
+      "price": 1272.81,
+      "currency": "EUR",
+      "price_formatted": "1272.81 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "UX",
+            "airline_name": "Air Europa",
+            "flight_no": "UX1222",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T17:10:00",
+            "arrival": "2026-05-01T19:10:00",
+            "duration_seconds": 7200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 95700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00",
+            "arrival": "2026-05-04T05:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AY",
+        "G3",
+        "UX",
+        "AD",
+        "AZ",
+        "JJ",
+        "LA"
+      ],
+      "owner_airline": "AY|G3|UX|AD|AZ|JJ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=MAD&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.385527",
+      "booking_url": "",
+      "price_normalized": 1272.81
+    },
+    {
+      "id": "combo_8d24878326bf",
+      "price": 1272.96,
+      "currency": "EUR",
+      "price_formatted": "1272.96 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4780",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T21:35:00",
+            "arrival": "2026-05-01T23:45:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 128400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00+02:00",
+            "arrival": "2026-05-04T05:20:00-03:00",
+            "duration_seconds": 38100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "TO",
+        "AZ",
+        "LA"
+      ],
+      "owner_airline": "AD|AY|TO|AZ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MAD/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.385527",
+      "booking_url": "",
+      "price_normalized": 1272.96
+    },
+    {
+      "id": "combo_d46adebc3c83",
+      "price": 1273.81,
+      "currency": "EUR",
+      "price_formatted": "1273.81 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4780",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-01T21:35:00",
+            "arrival": "2026-05-01T23:45:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 128400,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00",
+            "arrival": "2026-05-04T05:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "TO",
+        "AZ",
+        "JJ",
+        "LA"
+      ],
+      "owner_airline": "AD|AY|TO|AZ|JJ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/2026-05-03?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=MAD&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.385527",
+      "booking_url": "",
+      "price_normalized": 1273.81
+    },
+    {
+      "id": "combo_36f8db7c242f",
+      "price": 1276.46,
+      "currency": "EUR",
+      "price_formatted": "1276.46 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4630",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-02T06:00:00",
+            "arrival": "2026-05-02T08:10:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 158700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00+02:00",
+            "arrival": "2026-05-04T05:20:00-03:00",
+            "duration_seconds": 38100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "TO",
+        "LA"
+      ],
+      "owner_airline": "AD|AY|TO|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MAD/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.385527",
+      "booking_url": "",
+      "price_normalized": 1276.46
+    },
+    {
+      "id": "combo_20dfc18cdd5d",
+      "price": 1277.31,
+      "currency": "EUR",
+      "price_formatted": "1277.31 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AY",
+            "airline_name": "Finnair",
+            "flight_no": "AY4406",
+            "origin": "GRU",
+            "destination": "CDG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Paris",
+            "departure": "2026-04-30T18:05:00",
+            "arrival": "2026-05-01T10:15:00",
+            "duration_seconds": 40200,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "TO",
+            "airline_name": "Transavia France",
+            "flight_no": "TO4630",
+            "origin": "ORY",
+            "destination": "MAD",
+            "origin_city": "Paris",
+            "destination_city": "Madrid",
+            "departure": "2026-05-02T06:00:00",
+            "arrival": "2026-05-02T08:10:00",
+            "duration_seconds": 7800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 158700,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00",
+            "arrival": "2026-05-04T05:20:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "JJ",
+            "airline_name": "LATAM Brasil",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00",
+            "arrival": "2026-05-04T11:15:00",
+            "duration_seconds": 0,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AY",
+        "TO",
+        "JJ",
+        "LA"
+      ],
+      "owner_airline": "AD|AY|TO|JJ|LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/madrid-spain/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://hopper.com/air/shop?tripType=one-way&departureDate=2026-05-03&origin=MAD&originType=Airport&destination=POA&destinationType=Airport&adults=1&step=outbound",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "hopper_direct"
+      },
+      "source": "combo:kiwi_connector+hopper_direct",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:05.385527",
+      "booking_url": "",
+      "price_normalized": 1277.31
+    },
+    {
+      "id": "rt_avsls_0eec1af5cf78",
+      "price": 1594.2,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "TAP Air Portugal",
+            "airline_name": "",
+            "flight_no": "TP118",
+            "origin": "POA",
+            "destination": "LIS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:55:00",
+            "arrival": "2026-05-01T12:45:00",
+            "duration_seconds": 39000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Portugalia Airlines",
+            "airline_name": "",
+            "flight_no": "NI1016",
+            "origin": "LIS",
+            "destination": "MAD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T14:40:00",
+            "arrival": "2026-05-01T17:00:00",
+            "duration_seconds": 4800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "ITA Airways",
+            "airline_name": "",
+            "flight_no": "AZ61",
+            "origin": "MAD",
+            "destination": "FCO",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T11:35:00",
+            "arrival": "2026-05-03T14:05:00",
+            "duration_seconds": 9000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "ITA Airways",
+            "airline_name": "",
+            "flight_no": "AZ678",
+            "origin": "FCO",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:35:00",
+            "arrival": "2026-05-04T16:55:00",
+            "duration_seconds": 44400,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "Azul Airlines",
+            "airline_name": "",
+            "flight_no": "AD9181",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T07:05:00",
+            "arrival": "2026-05-05T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 59400,
+        "stopovers": 2
+      },
+      "airlines": [
+        "Portugalia Airlines",
+        "TAP Air Portugal",
+        "Azul Airlines",
+        "ITA Airways"
+      ],
+      "owner_airline": "TAP Air Portugal",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "aviasales_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:26:47.724255",
+      "booking_url": "https://www.aviasales.com/search/POA3004MAD1",
+      "price_normalized": 1354.798986
+    },
+    {
+      "id": "rt_skip_9fe1bbcd1849",
+      "price": 1694.0,
+      "currency": "USD",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "TP",
+            "airline_name": "",
+            "flight_no": "TP118",
+            "origin": "POA",
+            "destination": "LIS",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T21:55:00-03:00",
+            "arrival": "2026-05-01T12:45:00+01:00",
+            "duration_seconds": 39000,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "TP",
+            "airline_name": "",
+            "flight_no": "TP1016",
+            "origin": "LIS",
+            "destination": "MAD",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-01T14:40:00+01:00",
+            "arrival": "2026-05-01T17:00:00+02:00",
+            "duration_seconds": 4800,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 43800,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA715",
+            "origin": "MAD",
+            "destination": "GRU",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T23:45:00+02:00",
+            "arrival": "2026-05-04T05:20:00-03:00",
+            "duration_seconds": 38100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "LA",
+            "airline_name": "",
+            "flight_no": "LA4524",
+            "origin": "GRU",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T09:30:00-03:00",
+            "arrival": "2026-05-04T11:15:00-03:00",
+            "duration_seconds": 6300,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 44400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "TP",
+        "LA"
+      ],
+      "owner_airline": "TP",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:23:54.824805",
+      "booking_url": "https://skiplagged.com/flights/POA/MAD/2026-04-30",
+      "price_normalized": 1439.61202
+    }
+  ]
+}

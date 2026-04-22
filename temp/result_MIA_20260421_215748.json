@@ -1,0 +1,2003 @@
+{
+  "total_results": 20,
+  "offers": [
+    {
+      "id": "combo_8bc647607acd",
+      "price": 736.45,
+      "currency": "EUR",
+      "price_formatted": "736.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 149100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:29:00-04:00",
+            "arrival": "2026-05-03T20:35:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AV",
+        "CM"
+      ],
+      "owner_airline": "AD|AV|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.517024",
+      "booking_url": "",
+      "price_normalized": 736.45
+    },
+    {
+      "id": "combo_82ed9518c807",
+      "price": 736.45,
+      "currency": "EUR",
+      "price_formatted": "736.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 149100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM333",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:14:00-04:00",
+            "arrival": "2026-05-03T19:20:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AV",
+        "CM"
+      ],
+      "owner_airline": "AD|AV|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.517024",
+      "booking_url": "",
+      "price_normalized": 736.45
+    },
+    {
+      "id": "combo_bf45907a8944",
+      "price": 736.45,
+      "currency": "EUR",
+      "price_formatted": "736.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 149100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM481",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:48:00-04:00",
+            "arrival": "2026-05-03T15:54:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AV",
+        "CM"
+      ],
+      "owner_airline": "AD|AV|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.517024",
+      "booking_url": "",
+      "price_normalized": 736.45
+    },
+    {
+      "id": "combo_3d94fd9558a2",
+      "price": 743.45,
+      "currency": "EUR",
+      "price_formatted": "743.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:29:00-04:00",
+            "arrival": "2026-05-03T20:35:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "AV|G3|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.517024",
+      "booking_url": "",
+      "price_normalized": 743.45
+    },
+    {
+      "id": "combo_5fbdb01f7faf",
+      "price": 743.45,
+      "currency": "EUR",
+      "price_formatted": "743.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM333",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:14:00-04:00",
+            "arrival": "2026-05-03T19:20:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "AV|G3|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.517024",
+      "booking_url": "",
+      "price_normalized": 743.45
+    },
+    {
+      "id": "combo_5bdb8c260dbc",
+      "price": 743.45,
+      "currency": "EUR",
+      "price_formatted": "743.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM481",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:48:00-04:00",
+            "arrival": "2026-05-03T15:54:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "AV|G3|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.517024",
+      "booking_url": "",
+      "price_normalized": 743.45
+    },
+    {
+      "id": "combo_d393698c59fd",
+      "price": 749.45,
+      "currency": "EUR",
+      "price_formatted": "749.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31279",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T12:30:00",
+            "arrival": "2026-04-30T14:05:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 129600,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:29:00-04:00",
+            "arrival": "2026-05-03T20:35:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "AV|G3|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.517024",
+      "booking_url": "",
+      "price_normalized": 749.45
+    },
+    {
+      "id": "rt_e775327dbf8f",
+      "price": 750.0,
+      "currency": "EUR",
+      "price_formatted": "750.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 149100,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "Miami",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:29:00",
+            "arrival": "2026-05-03T20:35:00",
+            "duration_seconds": 11160,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103860,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "AV",
+        "CM"
+      ],
+      "owner_airline": "AD",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/miami-florida-united-states/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.512024",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 750.0
+    },
+    {
+      "id": "rt_e52e4b64bc05",
+      "price": 757.0,
+      "currency": "EUR",
+      "price_formatted": "757.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "G3",
+            "airline_name": "Gol Transportes A\u00e9reos",
+            "flight_no": "G31235",
+            "origin": "POA",
+            "destination": "GRU",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T11:35:00",
+            "arrival": "2026-04-30T13:25:00",
+            "duration_seconds": 6600,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV160",
+            "origin": "GRU",
+            "destination": "BOG",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Bogot\u00e1",
+            "departure": "2026-05-01T02:20:00",
+            "arrival": "2026-05-01T06:25:00",
+            "duration_seconds": 21900,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "AV",
+            "airline_name": "Avianca",
+            "flight_no": "AV6",
+            "origin": "BOG",
+            "destination": "MIA",
+            "origin_city": "Bogot\u00e1",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T18:40:00",
+            "arrival": "2026-05-01T23:30:00",
+            "duration_seconds": 13800,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 132900,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "Miami",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:29:00",
+            "arrival": "2026-05-03T20:35:00",
+            "duration_seconds": 11160,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103860,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AV",
+        "G3",
+        "CM"
+      ],
+      "owner_airline": "G3",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/miami-florida-united-states/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.512024",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 757.0
+    },
+    {
+      "id": "combo_c1c1676d6e4c",
+      "price": 760.45,
+      "currency": "EUR",
+      "price_formatted": "760.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM5100",
+            "origin": "PUJ",
+            "destination": "MIA",
+            "origin_city": "Punta Cana",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T13:01:00",
+            "arrival": "2026-05-01T15:48:00",
+            "duration_seconds": 10020,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 128280,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:29:00-04:00",
+            "arrival": "2026-05-03T20:35:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "DM|LA|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.518025",
+      "booking_url": "",
+      "price_normalized": 760.45
+    },
+    {
+      "id": "rt_4c26ceb71ad0",
+      "price": 774.0,
+      "currency": "EUR",
+      "price_formatted": "774.00 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "LA",
+            "airline_name": "LATAM Airlines",
+            "flight_no": "LA3149",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T05:10:00",
+            "arrival": "2026-04-30T06:45:00",
+            "duration_seconds": 5700,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6089",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-04-30T11:50:00",
+            "arrival": "2026-04-30T17:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM5100",
+            "origin": "PUJ",
+            "destination": "MIA",
+            "origin_city": "Punta Cana",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T13:01:00",
+            "arrival": "2026-05-01T15:48:00",
+            "duration_seconds": 10020,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 128280,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "Miami",
+            "destination_city": "Panama",
+            "departure": "2026-05-03T18:29:00",
+            "arrival": "2026-05-03T20:35:00",
+            "duration_seconds": 11160,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "Copa Airlines",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "Panama",
+            "destination_city": "Porto Alegre",
+            "departure": "2026-05-04T15:19:00",
+            "arrival": "2026-05-05T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103860,
+        "stopovers": 1
+      },
+      "airlines": [
+        "DM",
+        "LA",
+        "CM"
+      ],
+      "owner_airline": "LA",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "virtual_interlining": "Different airlines combined for best price",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://www.kiwi.com/en/search/results/miami-florida-united-states/porto-alegre-state-of-rio-grande-do-sul-brazil/2026-05-03/no-return?sortBy=price"
+      },
+      "source": "kiwi_connector",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.512024",
+      "booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+      "price_normalized": 774.0
+    },
+    {
+      "id": "combo_2e5f0e6cf227",
+      "price": 782.45,
+      "currency": "EUR",
+      "price_formatted": "782.45 EUR",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "AD",
+            "airline_name": "Azul",
+            "flight_no": "AD6413",
+            "origin": "POA",
+            "destination": "CGH",
+            "origin_city": "Porto Alegre",
+            "destination_city": "S\u00e3o Paulo",
+            "departure": "2026-04-30T07:05:00",
+            "arrival": "2026-04-30T08:45:00",
+            "duration_seconds": 6000,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM6087",
+            "origin": "GRU",
+            "destination": "PUJ",
+            "origin_city": "S\u00e3o Paulo",
+            "destination_city": "Punta Cana",
+            "departure": "2026-05-01T03:50:00",
+            "arrival": "2026-05-01T09:55:00",
+            "duration_seconds": 25500,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          },
+          {
+            "airline": "DM",
+            "airline_name": "Arajet",
+            "flight_no": "DM5100",
+            "origin": "PUJ",
+            "destination": "MIA",
+            "origin_city": "Punta Cana",
+            "destination_city": "Miami",
+            "departure": "2026-05-01T13:01:00",
+            "arrival": "2026-05-01T15:48:00",
+            "duration_seconds": 10020,
+            "cabin_class": "ECONOMY",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 121380,
+        "stopovers": 2
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:29:00-04:00",
+            "arrival": "2026-05-03T20:35:00-05:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-04T15:19:00-05:00",
+            "arrival": "2026-05-05T00:20:00-03:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 36420,
+        "stopovers": 1
+      },
+      "airlines": [
+        "AD",
+        "DM",
+        "CM"
+      ],
+      "owner_airline": "AD|DM|CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {
+        "combo_type": "virtual_interlining",
+        "outbound_booking_url": "https://www.kiwi.com/en/search/results/porto-alegre-state-of-rio-grande-do-sul-brazil/miami-florida-united-states/2026-04-30/no-return?sortBy=price",
+        "inbound_booking_url": "https://skiplagged.com/flights/MIA/POA/2026-05-03",
+        "outbound_source": "kiwi_connector",
+        "inbound_source": "skiplagged_meta"
+      },
+      "source": "combo:kiwi_connector+skiplagged_meta",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:28:35.518025",
+      "booking_url": "",
+      "price_normalized": 782.45
+    },
+    {
+      "id": "rt_ct_9690e7b227b7",
+      "price": 71906.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM173",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:00:00",
+            "arrival": "2026-05-03T08:06:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 62400,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 653.6255400000001
+    },
+    {
+      "id": "rt_ct_ca0b0c8aed4b",
+      "price": 72186.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM266",
+            "origin": "FLL",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:14:00",
+            "arrival": "2026-05-03T20:19:00",
+            "duration_seconds": 11100,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 104760,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 656.17074
+    },
+    {
+      "id": "rt_ct_0433571add3d",
+      "price": 75536.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM227",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T18:29:00",
+            "arrival": "2026-05-03T20:35:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 103860,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 686.62224
+    },
+    {
+      "id": "rt_ct_b4988d044553",
+      "price": 75536.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM246",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T06:24:00",
+            "arrival": "2026-05-03T08:30:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 60960,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 686.62224
+    },
+    {
+      "id": "rt_ct_4f110765389f",
+      "price": 75536.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM440",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T12:24:00",
+            "arrival": "2026-05-03T14:30:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 39360,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 686.62224
+    },
+    {
+      "id": "rt_ct_fe6db6cdc70b",
+      "price": 75536.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM433",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T08:28:00",
+            "arrival": "2026-05-03T10:34:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 53520,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 686.62224
+    },
+    {
+      "id": "rt_ct_e28bfb0353dd",
+      "price": 79536.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM481",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T13:48:00",
+            "arrival": "2026-05-03T15:54:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 120720,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 722.98224
+    },
+    {
+      "id": "rt_ct_b6ee199ea9ec",
+      "price": 79536.0,
+      "currency": "INR",
+      "price_formatted": "",
+      "outbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM820",
+            "origin": "POA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T01:35:00",
+            "arrival": "2026-04-30T06:42:00",
+            "duration_seconds": 25620,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM265",
+            "origin": "PTY",
+            "destination": "FLL",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-04-30T12:03:00",
+            "arrival": "2026-04-30T16:16:00",
+            "duration_seconds": 11580,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 56460,
+        "stopovers": 1
+      },
+      "inbound": {
+        "segments": [
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM333",
+            "origin": "MIA",
+            "destination": "PTY",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-03T17:14:00",
+            "arrival": "2026-05-03T19:20:00",
+            "duration_seconds": 11160,
+            "cabin_class": "economy",
+            "aircraft": ""
+          },
+          {
+            "airline": "CM",
+            "airline_name": "CM",
+            "flight_no": "CM821",
+            "origin": "PTY",
+            "destination": "POA",
+            "origin_city": "",
+            "destination_city": "",
+            "departure": "2026-05-05T15:19:00",
+            "arrival": "2026-05-06T00:20:00",
+            "duration_seconds": 25260,
+            "cabin_class": "economy",
+            "aircraft": ""
+          }
+        ],
+        "total_duration_seconds": 108360,
+        "stopovers": 1
+      },
+      "airlines": [
+        "CM"
+      ],
+      "owner_airline": "CM",
+      "bags_price": {},
+      "availability_seats": null,
+      "conditions": {},
+      "source": "cleartrip_ota",
+      "source_tier": "free",
+      "is_locked": false,
+      "fetched_at": "2026-04-22T01:24:33.998936",
+      "booking_url": "https://www.cleartrip.com/flights/results?adults=1&childs=0&infants=0&class=Economy&depart_date=2026-04-30&from=POA&to=MIA&intl=y",
+      "price_normalized": 722.98224
+    }
+  ]
+}
