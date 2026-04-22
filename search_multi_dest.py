@@ -67,125 +67,150 @@ if os.path.exists(HISTORICO_FILE):
 # 5. Gerar HTML Bonitão
 html_template = """
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Comparador de Destinos: Voos a partir de {origem_local} - LetsFG</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <style>
+        /* ── Tema Claro (padrão) ── */
         :root {
-            --bg-color: #0f172a;
-            --card-bg: #1e293b;
-            --text-primary: #f8fafc;
+            --bg: #f0f4f8;
+            --surface: #ffffff;
+            --border: #e2e8f0;
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+            --accent: #2563eb;
+            --accent-hover: #1d4ed8;
+            --success: #059669;
+            --danger: #dc2626;
+            --divider: #e2e8f0;
+            --shadow: 0 2px 8px rgba(0,0,0,0.08);
+            --shadow-hover: 0 8px 24px rgba(0,0,0,0.12);
+        }
+        /* ── Tema Escuro ── */
+        [data-theme="dark"] {
+            --bg: #0f172a;
+            --surface: #1e293b;
+            --border: rgba(255,255,255,0.07);
+            --text-primary: #f1f5f9;
             --text-secondary: #94a3b8;
             --accent: #3b82f6;
             --accent-hover: #2563eb;
             --success: #10b981;
-            --dest-tag: #8b5cf6;
-            --divider: rgba(255, 255, 255, 0.05);
+            --danger: #ef4444;
+            --divider: rgba(255,255,255,0.07);
+            --shadow: 0 4px 16px rgba(0,0,0,0.4);
+            --shadow-hover: 0 12px 32px rgba(0,0,0,0.5);
         }
+
+        *, *::before, *::after { box-sizing: border-box; }
 
         body {
             font-family: 'Inter', sans-serif;
-            background-color: var(--bg-color);
+            background: var(--bg);
             color: var(--text-primary);
             margin: 0;
             padding: 0;
-            display: flex;
-            justify-content: center;
+            min-height: 100vh;
+            transition: background 0.3s, color 0.3s;
         }
 
         .container {
-            max-width: 900px;
+            max-width: 860px;
             width: 100%;
-            padding: 40px 20px;
+            margin: 0 auto;
+            padding: 32px 16px 48px;
         }
 
         header {
             text-align: center;
-            margin-bottom: 50px;
+            margin-bottom: 40px;
+            position: relative;
         }
 
         h1 {
-            font-weight: 700;
-            font-size: 2.8rem;
-            margin-bottom: 10px;
-            background: linear-gradient(90deg, #3b82f6, #10b981);
+            font-weight: 800;
+            font-size: clamp(1.8rem, 5vw, 2.6rem);
+            margin: 0 0 8px;
+            background: linear-gradient(135deg, #2563eb, #0ea5e9);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .subtitle {
             color: var(--text-secondary);
-            font-size: 1.1rem;
+            font-size: clamp(0.85rem, 2.5vw, 1rem);
+            margin: 0;
         }
 
-        .flight-card {
-            background-color: var(--card-bg);
-            border-radius: 16px;
-            padding: 24px;
-            margin-bottom: 24px;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3);
-            transition: transform 0.2s ease, box-shadow 0.2s ease;
-            display: flex;
-            flex-direction: column;
-            border: 1px solid var(--divider);
-            gap: 20px;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .flight-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.4);
-            border-color: rgba(59, 130, 246, 0.3);
-        }
-        
-        .dest-badge {
+        .theme-toggle {
             position: absolute;
             top: 0;
-            left: 0;
-            background-color: var(--dest-tag);
-            color: white;
-            padding: 4px 16px;
-            font-size: 0.8rem;
+            right: 0;
+            background: var(--border);
+            border: 1px solid var(--border);
+            border-radius: 50px;
+            padding: 7px 13px;
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            font-size: 0.78rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            transition: background 0.3s, transform 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .theme-toggle:hover { transform: scale(1.05); }
+
+        .flight-card {
+            background: var(--surface);
+            border-radius: 14px;
+            margin-bottom: 20px;
+            box-shadow: var(--shadow);
+            border: 1px solid var(--border);
+            overflow: hidden;
+            transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+        }
+        .flight-card:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-hover);
+            border-color: var(--accent);
+        }
+
+        .dest-badge {
+            width: 100%;
+            color: #fff;
+            padding: 7px 16px;
+            font-size: 0.82rem;
             font-weight: 700;
-            border-bottom-right-radius: 12px;
-            letter-spacing: 1px;
-            z-index: 10;
+            letter-spacing: 0.5px;
+            text-align: center;
         }
 
         .card-content {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-top: 10px;
-        }
-
-        .legs {
+            padding: 20px 16px;
             display: flex;
             flex-direction: column;
             gap: 20px;
-            flex: 1;
         }
 
-        .leg {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-        
+        .legs { display: flex; flex-direction: column; gap: 20px; }
+        .leg  { display: flex; flex-direction: column; gap: 10px; }
+
         .leg-header {
-            font-size: 0.8rem;
+            font-size: 0.72rem;
             text-transform: uppercase;
-            letter-spacing: 1px;
+            letter-spacing: 1.2px;
             color: var(--text-secondary);
             font-weight: 700;
         }
 
         .airlines {
-            font-size: 0.9rem;
+            font-size: 0.88rem;
             font-weight: 600;
             color: var(--text-secondary);
         }
@@ -193,17 +218,29 @@ html_template = """
         .route {
             display: flex;
             align-items: center;
-            gap: 20px;
+            justify-content: space-between;
+            gap: 10px;
+            width: 100%;
+        }
+
+        .route-point {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-width: 52px;
         }
 
         .time {
-            font-size: 1.5rem;
+            font-size: clamp(1.1rem, 3.5vw, 1.35rem);
             font-weight: 700;
+            white-space: nowrap;
+            color: var(--text-primary);
         }
 
         .airport {
-            font-size: 0.9rem;
+            font-size: 0.8rem;
             color: var(--text-secondary);
+            margin-top: 3px;
         }
 
         .flight-path {
@@ -211,150 +248,158 @@ html_template = """
             flex-direction: column;
             align-items: center;
             flex: 1;
-            padding: 0 20px;
+            padding: 0 8px;
+            min-width: 80px;
         }
 
         .duration {
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             color: var(--text-secondary);
-            margin-bottom: 4px;
+            margin-bottom: 5px;
+            white-space: nowrap;
         }
 
-        .line-container {
-            width: 100%;
-            display: flex;
-            align-items: center;
-        }
+        .line-container { width: 100%; display: flex; align-items: center; }
 
         .dot {
-            width: 8px;
-            height: 8px;
+            width: 7px; height: 7px;
             border-radius: 50%;
-            background-color: var(--accent);
+            background: var(--accent);
+            flex-shrink: 0;
         }
 
         .line {
             flex: 1;
             height: 2px;
-            background: linear-gradient(90deg, var(--accent) 0%, rgba(59, 130, 246, 0.2) 50%, var(--accent) 100%);
+            background: linear-gradient(90deg, var(--accent), rgba(59,130,246,0.15), var(--accent));
         }
 
         .stops {
-            font-size: 0.75rem;
+            font-size: 0.72rem;
             color: var(--text-secondary);
-            margin-top: 4px;
+            margin-top: 5px;
+            white-space: nowrap;
         }
 
-        .price-action {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-end;
-            gap: 12px;
-            min-width: 160px;
-            border-left: 1px solid var(--divider);
-            padding-left: 20px;
-            justify-content: center;
-        }
-
-        .price-details {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-end;
-            gap: 4px;
-        }
-
-        .price-leg {
-            font-size: 1.0rem;
-            color: var(--text-secondary);
-            font-weight: 500;
-        }
-
-        .price {
-            font-size: 2.2rem;
-            font-weight: 800;
-            color: var(--success);
-            margin-top: 4px;
-        }
-        
-        .price-label {
-            font-size: 1.0rem;
-            color: var(--text-primary);
-            font-weight: 600;
-            margin-bottom: -4px;
-        }
-        
-        .price-sub {
-            font-size: 0.8rem;
-            color: var(--text-secondary);
-            margin-top: 4px;
-        }
-
-        .price-diff {
-            font-size: 0.85rem;
-            font-weight: 600;
-            margin-top: 4px;
-        }
-        .diff-down { color: var(--success); }
-        .diff-up { color: #ef4444; }
-        .diff-same { color: var(--text-secondary); }
-
-        .btn-book {
-            background-color: var(--accent);
-            color: white;
-            text-decoration: none;
-            padding: 12px 24px;
-            border-radius: 8px;
-            font-weight: 600;
-            transition: background-color 0.2s ease;
-            text-align: center;
-            width: 100%;
-            box-sizing: border-box;
-        }
-
-        .btn-book:hover {
-            background-color: var(--accent-hover);
-        }
-        
         hr.divider {
             border: 0;
             height: 1px;
             background: var(--divider);
             margin: 0;
+            width: 100%;
         }
 
-        @media (max-width: 700px) {
-            .card-content {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 20px;
-            }
-            .price-action {
-                width: 100%;
-                flex-direction: row;
-                justify-content: space-between;
+        .price-action {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--divider);
+            flex-wrap: wrap;
+        }
+
+        .price-col {
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+            flex: 1;
+            min-width: 100px;
+        }
+        .price-col.center { align-items: center; text-align: center; }
+        .price-col.right  { align-items: flex-end; text-align: right; }
+
+        .price-leg  { font-size: 0.82rem; color: var(--text-secondary); }
+        .price-label {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+        }
+
+        .price {
+            font-size: clamp(1.5rem, 4vw, 1.9rem);
+            font-weight: 800;
+            color: var(--success);
+            line-height: 1.1;
+        }
+
+        .price-sub { font-size: 0.75rem; color: var(--text-secondary); }
+
+        .price-diff { font-size: 0.8rem; font-weight: 600; white-space: nowrap; }
+        .diff-down { color: var(--success); }
+        .diff-up   { color: var(--danger); }
+        .diff-same { color: var(--text-secondary); }
+
+        .btn-book {
+            background: var(--accent);
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 18px;
+            border-radius: 8px;
+            font-weight: 700;
+            font-size: 0.88rem;
+            transition: background 0.2s, transform 0.1s;
+            text-align: center;
+            display: inline-block;
+            white-space: nowrap;
+        }
+        .btn-book:hover { background: var(--accent-hover); transform: scale(1.02); }
+
+        @media (max-width: 540px) {
+            header { padding-top: 46px; }
+            .theme-toggle { font-size: 0.72rem; padding: 6px 10px; }
+            .flight-path { min-width: 60px; padding: 0 4px; }
+            .price-action { flex-direction: column; align-items: stretch; gap: 12px; }
+            .price-col,
+            .price-col.center,
+            .price-col.right {
                 align-items: center;
-                border-left: none;
-                border-top: 1px solid var(--divider);
-                padding-left: 0;
-                padding-top: 20px;
+                text-align: center;
+                min-width: unset;
+                border-bottom: 1px solid var(--divider);
+                padding-bottom: 12px;
             }
-            .btn-book {
-                width: auto;
-            }
+            .price-col:last-child { border-bottom: none; padding-bottom: 0; }
+            .btn-book { width: 100%; padding: 12px; font-size: 0.95rem; }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Para onde viajar?</h1>
-            <div class="subtitle">Saindo de {origem_local} | Ida: {data_ida} | Volta: {data_volta}</div>
+            <button class="theme-toggle" id="themeBtn" onclick="toggleTheme()" title="Alternar tema">
+                <span id="themeIcon">🌙</span><span id="themeLabel">Modo Escuro</span>
+            </button>
+            <h1>✈️ Para onde viajar?</h1>
+            <p class="subtitle">Saindo de {origem_local} &nbsp;|&nbsp; Ida: {data_ida} &nbsp;|&nbsp; Volta: {data_volta}</p>
         </header>
-
         <div id="flights-container">
             {flights_html}
         </div>
     </div>
+    <script>
+        (function() {
+            if (localStorage.getItem('theme') === 'dark') applyDark();
+        })();
+        function applyDark() {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            document.getElementById('themeIcon').textContent = '☀️';
+            document.getElementById('themeLabel').textContent = 'Modo Claro';
+        }
+        function applyLight() {
+            document.documentElement.setAttribute('data-theme', 'light');
+            document.getElementById('themeIcon').textContent = '🌙';
+            document.getElementById('themeLabel').textContent = 'Modo Escuro';
+        }
+        function toggleTheme() {
+            var t = document.documentElement.getAttribute('data-theme');
+            if (t === 'dark') { applyLight(); localStorage.setItem('theme','light'); }
+            else { applyDark(); localStorage.setItem('theme','dark'); }
+        }
+    </script>
 </body>
 </html>
 """
@@ -396,11 +441,11 @@ def render_leg(leg_title, leg_data):
             <div class="leg-header">{leg_title}</div>
             <div class="airlines">{airlines}</div>
             <div class="route">
-                <div>
+                <div class="route-point">
                     <div class="time">{departure_time}</div>
                     <div class="airport">{origin}</div>
                 </div>
-                
+
                 <div class="flight-path">
                     <div class="duration">{duration}</div>
                     <div class="line-container">
@@ -411,7 +456,7 @@ def render_leg(leg_title, leg_data):
                     <div class="stops">{stops}</div>
                 </div>
 
-                <div>
+                <div class="route-point">
                     <div class="time">{arrival_time}</div>
                     <div class="airport">{destination}</div>
                 </div>
@@ -474,7 +519,7 @@ def save_html(offers_list, filename):
         
         flights_html += f'''
         <div class="flight-card" data-dest="{dest_code}">
-            <div class="dest-badge" style="background-color: {badge_bg}">Opção para {dest_nome} {emoji} - {tipo}</div>
+            <div class="dest-badge" style="background-color: {badge_bg}">{emoji} {dest_nome} &mdash; {tipo}</div>
             <div class="card-content">
                 <div class="legs">
                     {outbound_html}
@@ -482,15 +527,19 @@ def save_html(offers_list, filename):
                     {inbound_html}
                 </div>
                 <div class="price-action">
-                    <div class="price-details">
+                    <div class="price-col">
                         <div class="price-leg">Ida: R$ {ida_price:,.2f}</div>
                         <div class="price-leg">Volta: R$ {volta_price:,.2f}</div>
                     </div>
-                    <div class="price-label">Total</div>
-                    <div class="price">R$ {brl_price:,.2f}</div>
-                    <div class="price-sub">Original: {orig_price}</div>
-                    {price_diff_html}
-                    <a href="{booking_url}" class="btn-book" target="_blank">Ver Oferta</a>
+                    <div class="price-col center">
+                        <div class="price-label">Total</div>
+                        <div class="price">R$ {brl_price:,.2f}</div>
+                    </div>
+                    <div class="price-col right">
+                        <div class="price-sub">Original: {orig_price}</div>
+                        {price_diff_html}
+                        <a href="{booking_url}" class="btn-book" target="_blank">Ver Oferta →</a>
+                    </div>
                 </div>
             </div>
         </div>
