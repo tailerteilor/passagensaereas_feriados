@@ -36,6 +36,10 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add index_multidestino.html historico_precos.json
-        # Se não houver mudanças, o commit vai falhar, então usamos || true
-        git commit -m "Atualização automática dos preços de voos" || true
-        git push
+        if ! git diff --staged --quiet; then
+          git commit -m "Atualização automática dos preços de voos"
+          git pull --rebase
+          git push
+        else
+          echo "Nenhuma mudança para commitar."
+        fi
