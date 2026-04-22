@@ -38,7 +38,7 @@ jobs:
         git add index_multidestino.html historico_precos.json
         if ! git diff --staged --quiet; then
           git commit -m "Atualização automática dos preços de voos"
-          git pull --rebase
+          git pull --rebase --autostash
           git push
         else
           echo "Nenhuma mudança para commitar."
