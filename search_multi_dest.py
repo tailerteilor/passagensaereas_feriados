@@ -428,10 +428,85 @@ html_template = """
                 <span class="subtitle-item">Volta: <strong>&nbsp;{data_volta}</strong></span>
             </div>
         </header>
+        
+        <div class="server-status" style="text-align: center; margin-top: -16px; margin-bottom: 24px; font-size: 0.85rem; color: var(--text-secondary); display: flex; justify-content: center; align-items: center; gap: 8px;">
+            <span>Última atualização: <strong>{data_hora_busca}</strong></span>
+            <span style="color:var(--border)">|</span>
+            <span id="status-indicator" style="display: inline-flex; align-items: center; gap: 4px;">
+                <span id="status-dot" style="width: 8px; height: 8px; border-radius: 50%; background-color: gray;"></span>
+                <span id="status-text">Verificando status...</span>
+            </span>
+        </div>
+
+        <div class="filters-container" style="display: flex; justify-content: flex-end; margin-bottom: 24px;">
+            <div style="display: inline-flex; align-items: center; background: var(--surface); padding: 4px 8px; border-radius: 8px; border: 1px solid var(--border); box-shadow: var(--shadow);">
+                <label for="sort-select" style="font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); margin-right: 8px;">Ordenar por:</label>
+                <select id="sort-select" style="border: none; background: transparent; font-family: inherit; font-size: 0.9rem; font-weight: 600; color: var(--text-primary); cursor: pointer; outline: none;">
+                    <option value="price">Menor Preço</option>
+                    <option value="discount">Maior Desconto</option>
+                </select>
+            </div>
+        </div>
+
         <div id="flights-container">
             {flights_html}
         </div>
     </div>
+
+    <script>
+        const lastSearchIso = "{data_hora_iso}";
+        
+        function checkServerStatus() {
+            const lastSearchTime = new Date(lastSearchIso).getTime();
+            const now = new Date().getTime();
+            const diffHours = (now - lastSearchTime) / (1000 * 60 * 60);
+            
+            const dot = document.getElementById('status-dot');
+            const text = document.getElementById('status-text');
+            
+            if (diffHours < 24) {
+                dot.style.backgroundColor = 'var(--success)';
+                dot.style.boxShadow = '0 0 8px var(--success)';
+                text.textContent = 'Servidor Online';
+                text.style.color = 'var(--success)';
+                text.style.fontWeight = '600';
+            } else {
+                dot.style.backgroundColor = 'var(--danger)';
+                dot.style.boxShadow = '0 0 8px var(--danger)';
+                text.textContent = 'Servidor Offline (Desatualizado)';
+                text.style.color = 'var(--danger)';
+                text.style.fontWeight = '600';
+            }
+        }
+
+        function sortFlights() {
+            const container = document.getElementById('flights-container');
+            const cards = Array.from(container.getElementsByClassName('flight-card'));
+            const sortBy = document.getElementById('sort-select').value;
+
+            cards.sort((a, b) => {
+                if (sortBy === 'price') {
+                    const priceA = parseFloat(a.getAttribute('data-price')) || 0;
+                    const priceB = parseFloat(b.getAttribute('data-price')) || 0;
+                    return priceA - priceB;
+                } else if (sortBy === 'discount') {
+                    const discA = parseFloat(a.getAttribute('data-discount')) || 0;
+                    const discB = parseFloat(b.getAttribute('data-discount')) || 0;
+                    // Queremos o maior desconto primeiro. O desconto é diff_pct, onde valores negativos significam desconto.
+                    // Portanto, o menor valor (mais negativo) é o maior desconto.
+                    // Então a ordem crescente atende o "maior desconto".
+                    return discA - discB;
+                }
+            });
+
+            cards.forEach(card => container.appendChild(card));
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            checkServerStatus();
+            document.getElementById('sort-select').addEventListener('change', sortFlights);
+        });
+    </script>
 </body>
 </html>
 """
@@ -533,6 +608,7 @@ def save_html(offers_list, filename):
         booking_url = offer.get('booking_url', '#')
         
         price_diff_html = ""
+        diff_pct = 0
         old_price = historico.get(dest_code)
         if old_price is not None and old_price > 0:
             diff_pct = ((brl_price - old_price) / old_price) * 100
@@ -553,7 +629,7 @@ def save_html(offers_list, filename):
         badge_bg = f"hsl({hue}, 70%, 50%)"
         
         flights_html += f'''
-        <div class="flight-card" data-dest="{dest_code}">
+        <div class="flight-card" data-dest="{dest_code}" data-price="{brl_price}" data-discount="{diff_pct}">
             <div class="dest-badge" style="background-color: {badge_bg}">{emoji} {dest_nome} &mdash; {tipo}</div>
             <div class="card-content">
                 <div class="legs">
@@ -583,9 +659,14 @@ def save_html(offers_list, filename):
         </div>
         '''
 
+    data_hora_iso = datetime.now().isoformat()
+    data_hora_br = datetime.now().strftime("%d/%m/%Y às %H:%M")
+
     final_html = html_template.replace("{origem_local}", origem_local)\
                               .replace("{data_ida}", data_ida)\
                               .replace("{data_volta}", data_volta)\
+                              .replace("{data_hora_busca}", data_hora_br)\
+                              .replace("{data_hora_iso}", data_hora_iso)\
                               .replace("{flights_html}", flights_html)
 
     with open(filename, 'w', encoding='utf-8') as f:
